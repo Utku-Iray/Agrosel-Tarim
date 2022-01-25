@@ -850,3 +850,6 @@
 </div>
 <!-- /.client-carousel -->
 <?php include 'php/footer.php' ?>
+</body>
+
+</html>

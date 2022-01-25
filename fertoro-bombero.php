@@ -58,13 +58,13 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a href="#in1" data-toggle="collapse" style="color: #393083;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #000000;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
                             <div id="in1" class="collapse">
                                 <ul>
-                                    <li><a href="#in2" data-toggle="collapse">Fertoro</a></li>
+                                    <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li><a href="">Bombero</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="">Bombero</a></li>
                                             <li><a href="">Bor10</a></li>
                                             <li><a href="">Caleco</a></li>
                                             <li><a href="">Chinco</a></li>
@@ -76,7 +76,7 @@
                                             <li><a href="">Seelife</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in3" data-toggle="collapse">ABT Inc.</a></li>
+                                    <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
                                             <li><a href="">Attack DF</a></li>
@@ -84,13 +84,13 @@
                                         </ul>
 
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in4">CHI Inc.</a></li>
+                                    <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5">DABEER SA.</a></li>
+                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
                                             <li> <a href="">Dabquel Mix</a></li>
@@ -99,14 +99,14 @@
                                             <li> <a href="">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in6" data-toggle="collapse">TRIBOdyn AG.</a></li>
+                                    <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
                                     <div id="in6" class="collapse">
                                         <ul>
                                             <li><a href="">Lithovit CO2</a></li>
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7">AgXplore Inc.</a></li>
+                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
                                             <li><a href="">Calcium 12%</a></li>
@@ -122,10 +122,10 @@
                                 </ul>
                             </div>
 
-                            <li><a data-toggle="collapse" href="#in8"  style="color: #393083;font-weight:bold">HAIFA Group</a></li>
+                            <li><a data-toggle="collapse" href="#in8" style="color: #000000;font-weight:bold">HAIFA Group</a></li>
                             <div id="in8" class="collapse">
                                 <ul>
-                                    <li><a href="#in9" data-toggle="collapse">Haifa NPK</a></li>
+                                    <li><a href="#in9" data-toggle="collapse" style="font-weight:bold">Haifa NPK</a></li>
                                     <div id="in9" class="collapse">
                                         <ul>
                                             <li><a href="">Multifeed 12.5.40+2MgO+ME</a></li>
@@ -138,13 +138,13 @@
 
                                         </ul>
                                     </div>
-                                    <li><a href="#in10" data-toggle="collapse">Haifa Micro</a></li>
+                                    <li><a href="#in10" data-toggle="collapse" style="font-weight:bold">Haifa Micro</a></li>
                                     <div id="in10" class="collapse">
                                         <ul>
                                             <li><a href="">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in11" data-toggle="collapse">Saf Gübreler</a></li>
+                                    <li><a href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse">
                                         <ul>
                                             <li><a href="">BitterMag</a></li>
@@ -156,7 +156,7 @@
                                             <li><a href="">Magnisal</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in12" data-toggle="collapse">Potasyum Nitrat</a></li>
+                                    <li><a href="#in12" data-toggle="collapse" style="font-weight:bold">Potasyum Nitrat</a></li>
                                     <div id="in12" class="collapse">
                                         <ul>
                                             <li><a href="">Multi-K Classic</a></li>
@@ -168,7 +168,7 @@
                                             <li><a href="">Multi-npK 13.5.42 </a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse">
                                         <ul>
                                             <li><a href="">Haifa Turbo-K</a></li>
@@ -179,10 +179,10 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a href="#in14" data-toggle="collapse"  style="color: #393083; font-weight:bold">Damla Sulama Gübreleri</a></li>
-                            <div class="collapse" id="in14">
+                            <li><a href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <div class="collapse" id="in14" style="font-weight:bold">
                                 <ul>
-                                    <li><a data-toggle="collapse" href="#in15">Neovent ACF</a></li>
+                                    <li><a data-toggle="collapse" href="#in15" style="font-weight:bold">Neovent ACF</a></li>
                                     <div id="in15" class="collapse">
                                         <ul>
                                             <li><a href="">Neovent 15.5.35 + TE</a></li>
@@ -192,7 +192,7 @@
                                             <li><a href="">Neovent 20.10.20 + TE</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in16">JR PETERS Inc.</a></li>
+                                    <li><a data-toggle="collapse" href="#in16" style="font-weight:bold">JR PETERS Inc.</a></li>
                                     <div id="in16" class="collapse">
                                         <ul>
                                             <li><a href="">Jack's Professional 10.52.10+ME</a></li>
@@ -211,82 +211,213 @@
 
                         </ul>
                     </div><!-- /.service-sidebar__links -->
-                    <div class="service-sidebar__call">
+                    <!-- <div class="service-sidebar__call">
                         <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
-                        <!-- /.service-sidebar__call-bg -->
+                        
                         <h3>We sell best
                             agriculture
                             products</h3>
-                    </div><!-- /.service-sidebar__call -->
+                           
+                    </div> -->
+                    <!-- /.service-sidebar__call -->
+                    <div>
+                    <a target="_blank" href="assets/images/pdf/bombera1.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                    </div>
+                    <br>
+                    <div>
+                    <a  target="_blank" href="assets/images/pdf/bombera2.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                    </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
+                <h2 style="margin-top: 0px;">Bombero</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h2>Organic Products</h2>
-                <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia
-                    quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus
-                    quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text
-                    of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever
-                    since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book.</p>
-                <ul class="service-details__list list-unstyled">
-                    <li>
-                        <i class="agrikon-icon-right-arrow"></i>
-                        <strong>It has survived not only five centuries.</strong> Lorem Ipsum is simply dummy text of
-                        the new design printng and type setting Ipsum take a look at our round.
-                    </li>
-                    <li>
-                        <i class="agrikon-icon-right-arrow"></i>
-                        <strong>It has survived not only five centuries.</strong> Lorem Ipsum is simply dummy text of
-                        the new design printng and type setting Ipsum take a look at our round.
-                    </li>
-                </ul><!-- /.service-details__list list-unstyled -->
-                <p>When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has
-                    survived not only five centuries, but also the leap into electronic typesetting, remaining
-                    essentially unchanged. </p>
-                <div class="special-box">Lorem Ipsum has been the ndustry stan when an
-                    unknown printer took a galley.</div><!-- /.special-box -->
-                <div class="row">
-                    <div class="col-md-6">
-                        <img src="assets/images/services/service-d-1-2.jpg" alt="">
-                    </div><!-- /.col-md-6 -->
-                    <div class="col-md-6">
-                        <h4>More Benefits</h4>
-                        <ul class="list-unstyled service-details__list-2">
-                            <li>
-                                <i class="fa fa-check-circle"></i>
-                                Nsectetur cing elit
-                            </li>
-                            <li>
-                                <i class="fa fa-check-circle"></i>
-                                Suspe ndisse suscipit sagittis leo
-                            </li>
-                            <li>
-                                <i class="fa fa-check-circle"></i>
-                                Entum estibulum dignissim posuere
-                            </li>
-                            <li>
-                                <i class="fa fa-check-circle"></i>
-                                If you are going to use a passage
-                            </li>
-                            <li>
-                                <i class="fa fa-check-circle"></i>
-                                Lorem Ipsum gene on the tend to repeat
-                            </li>
-                        </ul><!-- /.list-unstyled -->
-                    </div><!-- /.col-md-6 -->
-                </div><!-- /.row -->
-                <br>
-                <br>
-                <p>Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae
-                    dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet
-                    finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum
-                    has been the ndustry stan when an unknown printer took a galley.</p>
+                <h3 style="margin-top: 20px;">"BİTKİDE BOMBA ETKİSİ"</h3>
+                <h5>Sıvı Mikro Bitki Besin Maddeleri Karışımı</h5>
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Garanti Edilen İçerik</th>
+
+                            <th scope="col"> %w/w</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Suda Çözünür Çinko (Zn)</td>
+                            <td> 1,5</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Suda Çözünür Mangan (Mn)</td>
+                            <td> 1,5</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>pH</td>
+                            <td> 3,5</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiş % 100'ü serbest L-alfa Aminoasittir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Çiçek döneminde uygulanması tavsiye edilmekle beraber, tüm stres koşullarında uygulanabilir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkilerde mikro bitki besin element eksikliğinde, mangan ve çinko takviyesi için önerilir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Aminoasitler ve İz elementlerle zenginleştirilmiş bir formülasyondur. İçerisindeki zengin aminoasitler ürünlerin sitokinez(sitoplazma bölünmesi) aşamasında yeni filiz oluşumu ve gelişiminde önemli bir etken sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Strese ve ısı değişikliğine karşı direnci arttırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkilerin ana kök ve yan kök gelişimini arttırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Ürünün gelişmesine ve büyümesine yardımcı olur.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            İçerisindeki serbest L-alfa aminoasit'den dolayı fizyolojik yapıyı destekler.
+                        </li>
+                    </ul><!-- /.list-unstyled -->
+                </div>
+<hr>
+                <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col"> Bitki Adı</th>
+                            <th scope="col"> Yapraktan (100 lt.)</th>
+                            <th scope="col"> Damlamadan(da)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Sebzelerde</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Meyve Ağaçları</td>
+                            <td> 50-100 cc</td>
+
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Narenciye, Nar</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Bağ, Zeytin</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Çilek, Kavun,Karpuz, Kabak vs.</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Süs Bitkileri</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Tarla Bitkileri</td>
+                            <td>50-100 cc</td>
+                            <td>100-200 cc</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+                <hr>
+                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> BOMBERO</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
+                        </li>
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
+                <hr>
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 0,5 lt</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 1 lt</span>
+                        </li>
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
+               
+              
+              
+               
+               
+         
             </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.service-details -->
 
+<script>
+    window.onload = function() {
+        document.getElementById("product").click();
+        document.getElementById("fertoro").click();
+    };
+</script>
 
 <?php include 'php/footer.php' ?>
 </body>
