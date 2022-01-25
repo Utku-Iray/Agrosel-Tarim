@@ -202,7 +202,7 @@
 <script src="assets/js/circle-progress.min.js"></script>
 <script src="assets/js/wNumb.min.js"></script>
 <script src="assets/js/nouislider.min.js"></script>
-
+<script></script>
 <!-- template js -->
 <script src="assets/js/theme.js"></script>
 </body>
