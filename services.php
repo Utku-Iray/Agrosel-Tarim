@@ -64,14 +64,14 @@
                                     <li><a href="#in2" data-toggle="collapse">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li><a href="">Bombero</a></li>
+                                            <li><a href="fertoro-bombero.php">Bombero</a></li>
                                             <li><a href="">Bor10</a></li>
                                             <li><a href="">Caleco</a></li>
                                             <li><a href="">Chinco</a></li>
                                             <li><a href="">Khan-K</a></li>
                                             <li><a href="">Maestro</a></li>
                                             <li><a href="">MZFe Plus</a></li>
-                                            <li><a href="">Nitrogeno-N</a></li>
+                                            <li><a href="">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>

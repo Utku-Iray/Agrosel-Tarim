@@ -64,8 +64,8 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="">Bombero</a></li>
-                                            <li><a href="">Bor10</a></li>
+                                            <li ><a href="fertoro-bombero.php">Bombero</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="fertoro-bor10.php">Bor10</a></li>
                                             <li><a href="">Caleco</a></li>
                                             <li><a href="">Chinco</a></li>
                                             <li><a href="">Khan-K</a></li>
@@ -221,19 +221,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="assets/images/pdf/bombera1.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                    <a target="_blank" href="assets/images/pdf/bor10etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="assets/images/pdf/bombera2.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                    <a  target="_blank" href="assets/images/pdf/bor10tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Bombero</h2>
+                <h2 style="margin-top: 0px;">Bor10</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">"BİTKİDE BOMBA ETKİSİ"</h3>
-                <h5>Sıvı Mikro Bitki Besin Maddeleri Karışımı</h5>
+                <h3 style="margin-top: 20px;">“ON NUMARA ÜRÜN İÇİN”</h3>
+                <h5>Boron Etanol Amin</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,20 +246,20 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
-                            <td> 1,5</td>
+                            <td>Suda Çözünür Çinko Bor (B)</td>
+                            <td> 10</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Mangan (Mn)</td>
-                            <td> 1,5</td>
+                            <td>Yoğunluk</td>
+                            <td>1,4 kg/lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>pH</td>
-                            <td> 3,5</td>
+                            <td> 2,4</td>
 
                         </tr>
                     </tbody>
@@ -269,15 +269,15 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiş % 100'ü serbest L-alfa Aminoasittir.
+                        Çiçek ve meyve tohumu oluşumunu sağlayan bir teknoloji harikasıdır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Çiçek döneminde uygulanması tavsiye edilmekle beraber, tüm stres koşullarında uygulanabilir.
+                         <span style="font-weight: bold;">BOR10;</span>    sürgün uçları, çiçek, meyve ve köklerde yeni dokuların normal olarak gelişmesi ile çiçek tozu kalitesi, çiçek tozu çim borusu gelişimi, tozlanma ve meyve tutumunu sağlayan mükemmel bir üründür.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerde mikro bitki besin element eksikliğinde, mangan ve çinko takviyesi için önerilir.
+                            Çiçeklenme öncesi yapraktan BOR10 uygulanması, meyvelerin ağırlığını ve depo dayanımını arttırır. Fizyolojik bozuklukları azaltır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -285,20 +285,17 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Strese ve ısı değişikliğine karşı direnci arttırır.
+                            <span style="font-weight: bold;">BOR10;</span> şekerin hücre duvarından geçişine yardımcı olur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin ana kök ve yan kök gelişimini arttırır.
+                            <span style="font-weight: bold;">BOR10;</span> özellikle elmada kuru benek problemini çözer.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Ürünün gelişmesine ve büyümesine yardımcı olur.
+                            <span style="font-weight: bold;">BOR10;</span> polenlerin varlığını sürdürmesini sağlar.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçerisindeki serbest L-alfa aminoasit'den dolayı fizyolojik yapıyı destekler.
-                        </li>
+                     
                     </ul><!-- /.list-unstyled -->
                 </div>
 <hr>
@@ -317,7 +314,7 @@
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
                             <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
@@ -325,42 +322,42 @@
                             <td>Meyve Ağaçları</td>
                             <td> 50-100 cc</td>
 
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Narenciye, Nar</td>
                             <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Bağ, Zeytin</td>
                             <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Çilek, Kavun,Karpuz, Kabak vs.</td>
                             <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Süs Bitkileri</td>
                             <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Tarla Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>50 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                     </tbody>
@@ -371,7 +368,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> BOMBERO</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            <span style="font-weight: bold;"> BOR10;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -388,11 +385,11 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 0,5 lt</span>
+                            <span style="font-weight: bold;"> 1 lt</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;"> 5 lt</span>
                         </li>
 
 

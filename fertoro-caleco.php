@@ -64,9 +64,9 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="">Bombero</a></li>
-                                            <li><a href="">Bor10</a></li>
-                                            <li><a href="">Caleco</a></li>
+                                            <li ><a href="fertoro-bombero.php">Bombero</a></li>
+                                            <li ><a href="fertoro-bor10.php">Bor10</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="fertoro-caleco.php">Caleco</a></li>
                                             <li><a href="">Chinco</a></li>
                                             <li><a href="">Khan-K</a></li>
                                             <li><a href="">Maestro</a></li>
@@ -221,19 +221,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="assets/images/pdf/bombera1.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                    <a target="_blank" href="assets/images/pdf/calecoetiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="assets/images/pdf/bombera2.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                    <a  target="_blank" href="assets/images/pdf/calecotescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Bombero</h2>
+                <h2 style="margin-top: 0px;">Caleco</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">"BİTKİDE BOMBA ETKİSİ"</h3>
-                <h5>Sıvı Mikro Bitki Besin Maddeleri Karışımı</h5>
+                <h3 style="margin-top: 20px;">“SAĞLAM DUVAR USTASI”</h3>
+                <h5>Kalsiyum Nitrat Çözeltisi</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,20 +246,38 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
-                            <td> 1,5</td>
+                            <td>Suda Çözünür Kalsiyum Oksit (CaO)</td>
+                            <td> 14</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Mangan (Mn)</td>
-                            <td> 1,5</td>
+                            <td>Toplam Azot (N)</td>
+                            <td>8</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
+                            <td>Nitrat Azotu (NO3-N)</td>
+                            <td>	7,5</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Amonyak Azotu (NH3-N)</td>
+                            <td>	0,5</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
                             <td>pH</td>
-                            <td> 3,5</td>
+                            <td> 	2,9</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Yoğunluk</td>
+                            <td> 	1,5 kg/lt</td>
 
                         </tr>
                     </tbody>
@@ -269,36 +287,39 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiş % 100'ü serbest L-alfa Aminoasittir.
+                            Ürünün kalitesini arttırır. Çünkü bitkinin ihtiyaç duyduğu kalsiyumu tam karşılar.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Çiçek döneminde uygulanması tavsiye edilmekle beraber, tüm stres koşullarında uygulanabilir.
+                            Bitkilerin hastalıklara karşı daha dayanıklı olmasını sağlar. Çünkü Caleco bitkilerin hücre duvarını geliştirerek sağlam bir yapı oluşturur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerde mikro bitki besin element eksikliğinde, mangan ve çinko takviyesi için önerilir.
+                            Bitkinin her döneminde kullanılabilir. Fakat en uygun kullanma dönemi hücre bölünme dönemidir. Bu da meyve ağaçlarında ilk çiçekten itibaren 45-60 gündür.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Aminoasitler ve İz elementlerle zenginleştirilmiş bir formülasyondur. İçerisindeki zengin aminoasitler ürünlerin sitokinez(sitoplazma bölünmesi) aşamasında yeni filiz oluşumu ve gelişiminde önemli bir etken sağlar.
+                            Raf ömrünü uzatmak, depo dayanıklılığını arttırmak, sağlıklı, pürüzsüz ürünler elde etmek için daha sonraki dönemlerde de belirli aralıklarla kullanılması gerekmektedir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Strese ve ısı değişikliğine karşı direnci arttırır.
+                            Caleco’dan toprak uygulamalarında bir taşla iki kuş vurursunuz. Bitkinizin ihtiyaç duyduğu kalsiyumu sağladığı gibi toprak tuzluluğunu da giderir. </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Polen tüpünün düzgün oluşunu teşvik eder. Bu da daha iyi bir döllenmeye imkân verir. Sonuçta daha düzgün, kaliteli ve bol verimli, Pazar değeri yüksek ürünler elde edilir  </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Caleco’dan</span> daha iyi fayda elde etmek için özellikle toprak uygulamaları, uygun dozlarla ve belirli aralıklarla tekrarlanmalıdır. Çünkü kalsiyum elementi bitki bünyesinde çok yavaş hareket etmektedir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin ana kök ve yan kök gelişimini arttırır.
+                            <span style="font-weight: bold;">Caleco’yu</span>  çok asidik ve alkali ürünlerle karıştırmayınız.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Ürünün gelişmesine ve büyümesine yardımcı olur.
+                            <span style="font-weight: bold;">Caleco</span> bitkisel menşeili sıvı aminoasit teknolojisiyle güçlendirilmiştir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçerisindeki serbest L-alfa aminoasit'den dolayı fizyolojik yapıyı destekler.
-                        </li>
+                     
                     </ul><!-- /.list-unstyled -->
                 </div>
 <hr>
@@ -316,51 +337,45 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>	200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
-                            <td> 50-100 cc</td>
+                            <td> 	200 cc</td>
 
-                            <td>100-200 cc</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
+                            <td>Narenciye</td>
+                            <td>	200 cc</td>
+                            <td>0,5-1 lt</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
                             <td>Bağ, Zeytin</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>	200-250 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Çilek, Kavun,Karpuz, Kabak vs.</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <th scope="row">5</th>
+                            <td>Çilek</td>
+                            <td>	200-300 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
+                     
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">6</th>
                             <td>Tarla Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>200 cc</td>
+                            <td>200-500 cc</td>
 
                         </tr>
                     </tbody>
@@ -371,7 +386,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> BOMBERO</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            <span style="font-weight: bold;"> CALECO;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -388,13 +403,16 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 0,5 lt</span>
+                            <span style="font-weight: bold;"> 1 lt</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;"> 5 lt</span>
                         </li>
-
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">20lt</span>
+                        </li>
 
 
 

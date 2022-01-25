@@ -64,12 +64,12 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="">Bombero</a></li>
-                                            <li><a href="">Bor10</a></li>
-                                            <li><a href="">Caleco</a></li>
-                                            <li><a href="">Chinco</a></li>
-                                            <li><a href="">Khan-K</a></li>
-                                            <li><a href="">Maestro</a></li>
+                                            <li><a href="fertoro-bombero.php">Bombero</a></li>
+                                            <li><a href="fertoro-bor10.php">Bor10</a></li>
+                                            <li><a href="fertoro-caleco.php">Caleco</a></li>
+                                            <li ><a href="fertoro-chinco.php">Chinco</a></li>
+                                            <li ><a href="fertoro-khank.php">Khan-K</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="">MZFe Plus</a></li>
                                             <li><a href="">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
@@ -221,19 +221,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="assets/images/pdf/bombera1.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/maestro-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">MAESTRO Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="assets/images/pdf/bombera2.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/maestro-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> MAESTRO Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Bombero</h2>
+                <h2 style="margin-top: 0px;">Maestro</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">"BİTKİDE BOMBA ETKİSİ"</h3>
-                <h5>Sıvı Mikro Bitki Besin Maddeleri Karışımı</h5>
+                <h3 style="margin-top: 20px;">“TUZLULUK KONTROL ALTINDA”</h3>
+                <h5>Kalsiyum Klorür Çözeltisi</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,22 +246,18 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
-                            <td> 1,5</td>
+                            <td>Suda Çözünür Kalsiyum Oksit (CaO)</td>
+                            <td> 14</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Mangan (Mn)</td>
-                            <td> 1,5</td>
+                            <td>Bor (B)</td>
+                            <td> 	0,1</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>pH</td>
-                            <td> 3,5</td>
+                       
 
-                        </tr>
                     </tbody>
                 </table>
 
@@ -269,39 +265,37 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiş % 100'ü serbest L-alfa Aminoasittir.
+                            Sulama suyunun ve toprağın tuzluluk oranını düzenlemek üzere tasarlanmış bir üründür.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Çiçek döneminde uygulanması tavsiye edilmekle beraber, tüm stres koşullarında uygulanabilir.
+                            Ürün, ihtiva ettiği kalsiyum ile toprakta sabit olan sodyumun yerine geçer, böylece sodyum fazlası da yıkanarak yok olur.
+                        </li>
+                 
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Kalsiyum eksikliğimim topraktan giderilmesine yardımcı olur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerde mikro bitki besin element eksikliğinde, mangan ve çinko takviyesi için önerilir.
+                            Katyon değişim kapasitesinin pozitif yönde artmasını, dolayısıyla organik maddedeki yarayışlı katyonların artmasını sağlar.
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Topraktaki besinlerin özümsenmesini iyileştirmeye yardımcı olur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Aminoasitler ve İz elementlerle zenginleştirilmiş bir formülasyondur. İçerisindeki zengin aminoasitler ürünlerin sitokinez(sitoplazma bölünmesi) aşamasında yeni filiz oluşumu ve gelişiminde önemli bir etken sağlar.
+                            Yüksek tuzluluğa bağlı olarak strese maruz kalan bitkinin vejetatif ve üretken kabiliyetini iyileştirir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Strese ve ısı değişikliğine karşı direnci arttırır.
+                            Maestro; yapraktan da rahatlıkla kullanılabilir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerin ana kök ve yan kök gelişimini arttırır.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Ürünün gelişmesine ve büyümesine yardımcı olur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçerisindeki serbest L-alfa aminoasit'den dolayı fizyolojik yapıyı destekler.
-                        </li>
+                        
+
                     </ul><!-- /.list-unstyled -->
                 </div>
-<hr>
+                <hr>
                 <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
@@ -316,51 +310,45 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td> 200 cc</td>
+                            <td>	0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
-                            <td> 50-100 cc</td>
+                            <td> 200 cc</td>
 
-                            <td>100-200 cc</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Bağ, Zeytin</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>Narenciye</td>
+                            <td> 200cc</td>
+                            <td>2-3 lt.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Çilek, Kavun,Karpuz, Kabak vs.</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <th scope="row">4</th>
+                            <td>Bağ</td>
+                            <td>250 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <th scope="row">5</th>
+                            <td>Çilek</td>
+                            <td> 	200-300 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
+                      
                         <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">6</th>
                             <td>Tarla Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>200 cc</td>
+                            <td>0,5-1 lt</td>
 
                         </tr>
                     </tbody>
@@ -371,7 +359,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> BOMBERO</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            <span style="font-weight: bold;">MAESTRO;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -388,25 +376,25 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 0,5 lt</span>
+                            <span style="font-weight: bold;"> 1 lt</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;"> 5 lt</span>
                         </li>
-
+                     
 
 
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-               
-              
-              
-               
-               
-         
+
+
+
+
+
+
             </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

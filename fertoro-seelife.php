@@ -64,16 +64,16 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
                                     <div id="in2" class="collapse">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="">Bombero</a></li>
-                                            <li><a href="">Bor10</a></li>
-                                            <li><a href="">Caleco</a></li>
-                                            <li><a href="">Chinco</a></li>
-                                            <li><a href="">Khan-K</a></li>
-                                            <li><a href="">Maestro</a></li>
-                                            <li><a href="">MZFe Plus</a></li>
-                                            <li><a href="">Nitrogenyo-N</a></li>
-                                            <li><a href="">Porto-P</a></li>
-                                            <li><a href="">Seelife</a></li>
+                                            <li><a href="fertoro-bombero.php">Bombero</a></li>
+                                            <li><a href="fertoro-bor10.php">Bor10</a></li>
+                                            <li><a href="fertoro-caleco.php">Caleco</a></li>
+                                            <li><a href="fertoro-chinco.php">Chinco</a></li>
+                                            <li><a href="fertoro-khank.php">Khan-K</a></li>
+                                            <li><a href="fertoro-maestro.php">Maestro</a></li>
+                                            <li><a href="#">MZFe Plus</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-porto.php">Porto-P</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="fertoro-seelife.php">Seelife</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
@@ -208,7 +208,7 @@
                                     </div>
                                 </ul>
                             </div>
-
+                           
                         </ul>
                     </div><!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
@@ -221,19 +221,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="assets/images/pdf/bombera1.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/seelife-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Seelife Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="assets/images/pdf/bombera2.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/seelife-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Seelife Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Bombero</h2>
+                <h2 style="margin-top: 0px;">Seelife</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">"BİTKİDE BOMBA ETKİSİ"</h3>
-                <h5>Sıvı Mikro Bitki Besin Maddeleri Karışımı</h5>
+                <h3 style="margin-top: 20px;">EC FERTILIZER</h3>
+                <h5>"FERTORO SEELIFE 4-8-8"</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,39 +246,50 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
-                            <td> 1,5</td>
+                            <td>Toplam Azot (N)</td>
+                            <td> 4</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Mangan (Mn)</td>
+                            <td>Amonyum Azotu (NH4-N)</td>
                             <td> 1,5</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">3</th>
-                            <td>pH</td>
-                            <td> 3,5</td>
+                            <td>Üre Azotu (NH2-N)</td>
+                            <td>2,5</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">4</th>
+                            <td> Suda Çözünür Fosfor Pentaoksit (P2O5)</td>
+                            <td> 8</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td> Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td>8</td>
 
                         </tr>
                     </tbody>
                 </table>
-
+                <h6>BİÜRESİ DÜŞÜKTÜR.</h6>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiş % 100'ü serbest L-alfa Aminoasittir.
+                            Bitkisel Menşeli Enzimatik Hidroliz yoluyla elde edilmiştir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Çiçek döneminde uygulanması tavsiye edilmekle beraber, tüm stres koşullarında uygulanabilir.
+                            Tüm stres koşullarında uygulanabilir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerde mikro bitki besin element eksikliğinde, mangan ve çinko takviyesi için önerilir.
-                        </li>
+
                         <li>
                             <i class="fa fa-check-circle"></i>
                             Aminoasitler ve İz elementlerle zenginleştirilmiş bir formülasyondur. İçerisindeki zengin aminoasitler ürünlerin sitokinez(sitoplazma bölünmesi) aşamasında yeni filiz oluşumu ve gelişiminde önemli bir etken sağlar.
@@ -286,22 +297,44 @@
                         <li>
                             <i class="fa fa-check-circle"></i>
                             Strese ve ısı değişikliğine karşı direnci arttırır.
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkilerin ana kök ve yan kök gelişimini arttırır. Ayrıca; ürünün gelişmesine ve büyümesine yardımcı olur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin ana kök ve yan kök gelişimini arttırır.
+                            Seelife; özel formüle edilmiş olduğundan, yapraktan tamamen absorbe olur ve meyveye taşınır, toprak uygulamalarında ise bitki kökleri tarafından kolayca alınır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Ürünün gelişmesine ve büyümesine yardımcı olur.
+                            Seelife; bitkilerin bünyesine hızlı bir şekilde girerek protein üretimi sağlar. Bu da enerji ve zaman kaybını asgariye indirir. Hızla oluşan bu proteinler yeni filiz, çiçek, meyve ve aynı zamanda köklere gönderilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçerisindeki serbest L-alfa aminoasit'den dolayı fizyolojik yapıyı destekler.
+                            Seelife; içerdiği özel natürel kompleks maddeleri sayesinde fotosentez ürünlerini optimum seviyeye ulaştırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Seelife; boğum aralarını kısaltır ve verime yönelik güçlü yan dal oluşumunu sağlar.
                         </li>
                     </ul><!-- /.list-unstyled -->
                 </div>
-<hr>
+                <div style="margin-top: 25px;">
+                    <h4>İçeriğinde</h4>
+                    <ul>
+                        <li>Organik Madde</li>
+                        <li>Serbest Aminoasitler</li>
+                        <li>Deniz yosunu ekstratları</li>
+                        <li>Alginik asit</li>
+                        <li>Sitokin</li>
+                        <li>Giberalik asit</li>
+                        <li>Vitaminler</li>
+                        <li>Oksin</li>
+                        <li>İndolasetik asit (IAA)</li>
+                        <li>İndolbutirik asit (IBA)</li>
+                    </ul>
+                </div>
+                <hr>
                 <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
@@ -316,51 +349,45 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td> 50-100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
-                            <td> 50-100 cc</td>
+                            <td> 50-100 cc	</td>
 
-                            <td>100-200 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Narenciye, Nar</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td> 50-100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">4</th>
                             <td>Bağ, Zeytin</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td> 50-100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Çilek, Kavun,Karpuz, Kabak vs.</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <th scope="row">5</th>
+                            <td>Çilek ve Süs Bitkileri</td>
+                            <td> 50-100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
+                       
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">6</th>
                             <td>Tarla Bitkileri</td>
-                            <td>50-100 cc</td>
-                            <td>100-200 cc</td>
+                            <td>50-100 cc (da))</td>
+                           
 
                         </tr>
                     </tbody>
@@ -371,12 +398,9 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> BOMBERO</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            Karışıma dahil etmeden önce muhakkak ön karışabilirlik testlerinin yapılması her zaman tavsiye edilir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
+                      
 
 
 
@@ -388,25 +412,21 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 0,5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 1 lt</span>
                         </li>
-
+                      
 
 
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-               
-              
-              
-               
-               
-         
+
+
+
+
+
+
             </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
