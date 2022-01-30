@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,19 +90,20 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li > <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li > <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
+                                    <li><a id="tribo" href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
                                     <div id="in6" class="collapse">
                                         <ul>
-                                            <li><a href="">Lithovit CO2</a></li>
+                                            <li  style="background-color: #e3e3e3;"><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
 
                                         </ul>
                                     </div>
@@ -221,19 +222,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/lithovit-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Lithovit CO2 Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/lithovit-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Lithovit CO2 Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Lithovit CO2</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">Yapraktan Uygulamalar İçin Doğal CO2 Kaynağı</h3>
+                <h5>NATURAL CO2 SOURCE FOR FOLIAR APPLICATIONS</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +247,35 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Toplam Kalsiyum Karbonat (CaCO3)</td>
+                            <td>% 72</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <td>Toplam Magnezyum Karbonat (MgCO3)</td>
+                            <td> 	% 7</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
+                            <td>Maksimum Nem</td>
+                            <td> 	% 0,3</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
+                            <th scope="row">3</th>
+                            <td>Tane Büyüklüğü</td>
+                            <td> < 25µm</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
+                        </tr>   <tr>
+                            <th scope="row">3</th>
                             <td>pH</td>
-                            <td>6</td>
+                            <td>	8-10</td>
 
                         </tr>
+
+
                     </tbody>
                 </table>
 
@@ -293,142 +283,26 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            Lithovit  Doğal CO2  yaprak gübresi açık ve kapalı alanlarda etkin olarak başarıyla kullanılabilir. Kalsiyum Karbonat, çok sayıda mikro besin elementi ile desteklenmektedir.   Lithovit parçacıkları bitki stomaları yoluyla emilimi doğrudan yapılabilecek kadar küçüktür. [tanecik çapları 200 nanometre(0,0002 mm) ve 10 mikron(0,01 mm) arasında] 
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            Yapraklarda hücre boşlukları arasında Lithovit parçacıkları CO2 ve diğer mikro elementleri  serbest bırakarak aktif hale geçmesini sağlar.
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Normal havanın CO2 içeriği %0.04(onbinde dört) vol.dır. Bu da düşük CO2 miktarı anlamına gelir. Düşük CO2 den ençok kültür bitkileri etkilenir ve optimum miktarda fotosentez yapamaz. Sıcaklık koşullarının olumlu olduğunu ve ortamda yeterli besin maddelerinin ve suyun bulunduğunu kabul etsek dahi maksimum fotosentez seviyesi havada CO2 miktarının %0.1 (binde bir) vol. olması halinde gerçekleşir. Doğal CO2 gübresi Lithovit, kullanımı bitkilerde fotosentez performansını arttırır ve buna ek olarak Lithovit  içerdiği mikro besin elementleriyle bu etkisini daha da güçlü hale getirir. Lithovit, bitkilerde net bir iyileştirme performansı gösterir. Birçok bitkide bu özellikler daha hızlı büyüme, daha yüksek verim ve bir çok durumda düşük su ihtiyacı, ayrıca genel bir canlılık olarak kendini göstermektedir. Buna ek olarak bitkilerde mantar hastalıklarına karşı (yapraklarda pas, mildiyö, meyve çürüklüğü gibi) direncin arttığı, duyarlılığın azaldığı bilimsel olarak tespit edilmiştir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
-                <hr>
-                <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                    </tbody>
-                </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
-
+                     
+                    
+                  
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-                <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
-
-
-
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
+          
+            
 
 
 
@@ -443,7 +317,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("tribo").click();
     };
 </script>
 

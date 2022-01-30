@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li> <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li> <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -106,30 +107,30 @@
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
-                                            <li><a href="">Calcium 12%</a></li>
-                                            <li><a href="">Copper 5%</a></li>
-                                            <li><a href="">Nutripak Prima </a></li>
-                                            <li><a href=""> RainCoat</a></li>
-                                            <li><a href="">SeaPak </a></li>
-                                            <li><a href="">Sursil </a></li>
-                                            <li><a href="">Valupak</a></li>
+                                            <li><a href="agxplore-calcium.php">Calcium 12%</a></li>
+                                            <li><a href="agxplore-copper.php">Copper 5%</a></li>
+                                            <li><a href="agxplore-nutripak.php">Nutripak Prima </a></li>
+                                            <li><a href="agxplore-raincoat.php"> RainCoat</a></li>
+                                            <li><a href="agxplore-seapak.php">SeaPak </a></li>
+                                            <li><a href="agxplore-sursil.php">Sursil </a></li>
+                                            <li><a href="agxplore-valupak.php">Valupak</a></li>
 
                                         </ul>
                                     </div>
                                 </ul>
                             </div>
 
-                            <li><a data-toggle="collapse" href="#in8" style="color: #000000;font-weight:bold">HAIFA Group</a></li>
+                            <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #000000;font-weight:bold">HAIFA Group</a></li>
                             <div id="in8" class="collapse">
                                 <ul>
-                                    <li><a href="#in9" data-toggle="collapse" style="font-weight:bold">Haifa NPK</a></li>
+                                    <li><a id="npk" href="#in9" data-toggle="collapse" style="font-weight:bold">Haifa NPK</a></li>
                                     <div id="in9" class="collapse">
                                         <ul>
-                                            <li><a href="">Multifeed 12.5.40+2MgO+ME</a></li>
-                                            <li><a href="">Multifeed 15.30.15+2MgO+ME</a></li>
+                                            <li ><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
                                             <li><a href="">Multifeed 16.8.24+2MgO+ME</a></li>
                                             <li><a href="">Multifeed 18.18.18+2MgO+ME</a></li>
                                             <li><a href="">Multifeed 18.9.27+2MgO+ME</a></li>
@@ -221,19 +222,18 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/Multi-15.30.15-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Multifeed 15.30.15 Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/Multi-15.30.15-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Multifeed 15.30.15 Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Multifeed 15.30.15+2MgO+ME</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">"Multifeed 15.30.15+2MgO+ME" by Haifa Group"</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -247,45 +247,81 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td> % 12</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <td>Amonyum Azotu (N-NH4)</td>
+                            <td> % 1</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
+                            <td>Nitrat Azotu (N-NO3)</td>
+                            <td> % 11</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
+                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
+                            <td>% 5</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
+                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td>% 40</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
+                            <td>Suda Çözünür Magnezyum Oksit (MgO)</td>
+                            <td> % 2</td>
 
                         </tr>
                         <tr>
                             <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
+                            <td>Suda Çözünür Bor (B)</td>
+                            <td>% 0,01</td>
 
                         </tr>
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>Suda Çözünür Bakır (Cu) (EDTA şelatlı)</td>
+                            <td> % 0,005</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>Suda Çözünür Demir (Fe) (EDTA şelatlı)</td>
+                            <td> % 0,05</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>Suda Çözünür Mangan (Mn) (EDTA şelatlı)</td>
+                            <td> % 0,02</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>Suda Çözünür Molibden (Mo)</td>
+                            <td> % 0,003</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">12</th>
+                            <td>Suda Çözünür Çinko (Zn) (EDTA şelatlı)</td>
+                            <td> % 0,007</td>
+
+                        </tr>
+
+
+
                     </tbody>
                 </table>
 
@@ -293,136 +329,78 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            MultifeedTM kristal yapıda ve suda tamamen çözünür NPK gübrelerinin bir serisidir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Tüm sebzeler, ağaçlar ve açık alan yetiştiriciliği için (NutrigationTM) uygundur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            MultifeedTM formülleri Magnezyum ve Mikro Besin Elementleri ile zenginleştirilmiştir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            Ürünlerin geniş çeşitliliği, büyüme döngüsü boyunca tam bir bitki beslemesi sağlar.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
+                            MultifeedTM hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
+                        </li>
+                        <h5 style="margin-top: 25px;">MultifeedTM'in Avantajla</h5>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Suda tamamen çözünür.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
-                <hr>
-                <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                    </tbody>
-                </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            Yüksek içerikli kaliteli malzemelerle yapılmıştır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
+                            % 100 bitki besin elementlerinden oluşmaktadır.
                         </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            İçeriğinde Klor, Sodyum ve bitkiler için zararlı başka elementler bulunmaz.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkinin dengeli ve tam beslenmesini sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Geniş bir formül yelpazesi mevcuttur.
+                        </li>
+
+
+
+
+
 
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
+
+
+
+
+               
+
+
                 <hr>
                 <h5 style="margin-top: 20px;">Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;">25 kg</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                  
+
+
 
 
 
@@ -442,8 +420,8 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("product2").click();
+        document.getElementById("npk").click();
     };
 </script>
 

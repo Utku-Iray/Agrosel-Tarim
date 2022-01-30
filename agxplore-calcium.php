@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li > <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li > <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li > <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -106,10 +107,10 @@
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
-                                            <li><a href="">Calcium 12%</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="agxplore-calcium.php">Calcium 12%</a></li>
                                             <li><a href="">Copper 5%</a></li>
                                             <li><a href="">Nutripak Prima </a></li>
                                             <li><a href=""> RainCoat</a></li>
@@ -221,19 +222,18 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/calcium-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Calcium 12% Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/calcium-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Calcium 12% Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Calcium 12%</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">Demir şelatı – EDDHSA</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +246,13 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Suda Çözünür Kalsiyum Oksit (CaO)</td>
+                            <td>	12</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                   
 
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,36 +260,13 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
-                        </li>
+                            CALCIUM 12% , yapraktan beslemede kullanılmak üzere hazırlanmış, bitkilerin kalsiyum ihtiyaçlarını karşılamakta oldukça etkili ve etkinliği kanıtlanmış olan bir yaprak gübresidir. Tüm meyvelerde, sebzelerde ve turunçgillerde, tarla bitkilerinde, zeytinde, bağ, çilek ve diğer tüm bitkiler için formüle edilmiştir. Kalsiyum eksikliği, ilk belirtilerini yaprak uçlarının kuruması veya yukarı doğru kıvrılmasıyla gösterir. Sürgün uçlarında ölme ve ölü dokunun büyümesinin durması, meyve ucunda renk açılması, ilerleyen dönemde kahverengi-siyah çürüklüğü (çiçek burnu çürüklüğü) görülür. Elmada acı benek, domates, biber, patlıcanda çiçek burnu çürüklüğü, kerevizde meyve içi kararması kalsiyum eksikliği sonucu ortaya çıkan sorunların bazılarıdır.   </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
-                        </li>
+                            CALCIUM 12%, hücre bölünmesinin düzenlenmesi ve hücrelerin uzamasında etkili olarak bitkinin büyümesini sağlar. Hücre duvarını sağlamlaştırarak bitkinin hastalıklara, kuraklığa, dona ve stres koşullarına karşı dayanımını arttırır. Normal kök gelişimi ve çiçeklenme için gereklidir. kaliteli, raf ömrü uzun bir ürün hasadı sağlar. Yeterince kalsiyum alamayan meyve ve sebzelerde çürüme ve çatlamalar meydana gelir. CALCIUM 12%, kalitesi sayesinde hızlı, etkili ve kesin çözümler sunar.   </li>
 
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
+                       
+
 
                     </ul><!-- /.list-unstyled -->
                 </div>
@@ -333,75 +277,69 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
+                            <th scope="col"> Topraktan</th>
+                            <th scope="col"> Damlamadan (da)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Meyvelerde</td>
+                            <td>	0,5-1 lt.</td>
+                            <td>Meyve Ağaçları</td>
+
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
+                            <td>Nar, Narenciye</td>
+                            <td> 	100-200 cc</td>
+                            <td> 	0,5-1 lt.</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Sebzelerde</td>
+                            <td> 	100-200 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Pamuk, Yer Fıstığı</td>
+                            <td> 100-200 cc</td>
+                            <td> 	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Çiçek, Süs Bitkileri</td>
+                            <td> 	100-200 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
                             <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
+                            <td> 	100-200 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
+                     
                     </tbody>
                 </table>
+
+
                 <hr>
                 <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            CALCIUM 12 %; Karışıma uygun değildir.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
+                    
 
 
 
@@ -417,12 +355,13 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
+                            <span style="font-weight: bold;"> 4 lt</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
+                            <span style="font-weight: bold;"> 10 lt</span>
                         </li>
+                    
 
 
 
@@ -443,7 +382,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("ag").click();
     };
 </script>
 

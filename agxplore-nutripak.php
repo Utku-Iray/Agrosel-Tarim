@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li> <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li> <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -106,12 +107,12 @@
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
-                                            <li><a href="">Calcium 12%</a></li>
-                                            <li><a href="">Copper 5%</a></li>
-                                            <li><a href="">Nutripak Prima </a></li>
+                                            <li ><a href="agxplore-calcium.php">Calcium 12%</a></li>
+                                            <li ><a href="agxplore-copper.php">Copper 5%</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="agxplore-nutripak.php">Nutripak Prima </a></li>
                                             <li><a href=""> RainCoat</a></li>
                                             <li><a href="">SeaPak </a></li>
                                             <li><a href="">Sursil </a></li>
@@ -221,19 +222,18 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/nutripak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/nutripak-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Nutripak Prima</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">NPK Gübre Çözeltisi (8-10-3)</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -247,45 +247,22 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td> 8</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <th scope="row">1</th>
+                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
+                            <td> 10</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
+                            <th scope="row">1</th>
+                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td> 3</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,36 +270,91 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            Nutripak Prima, zararlı mikroorganizmalardan tamamıyla arındırılmış, sterile edilmiş bir biyolojik üründür.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            Her türlü bitkide sebze, meyve, tek yıllık ve çok yıllık bitkiler, süs bitkileri, çim vb. kullanılır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            ABD’de organik tarımda kullanılmak üzere değişik formülasyonlarda sınıflandırılmıştır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Topraktan, yapraktan ve tohum kaplamada kullanılır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitki tarafından alıma hazır haldedir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Yapraktan uygulandığında bitki gelişimini hızlandırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Nutripak, bitkilerde sararma, doku kaybı, yaprak dökümü, geç olgunlaşma gibi olumsuz koşulları ortadan kaldırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Toprağın verimliliğini, su tutma kapasitesini olumlu yönde etkiler ve gevşek bir yapıya ulaşmasını sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Toprak verimliliğini kararlı hale getirir ve sabitler.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitki membranlarının geçirgenliğini arttırır.
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Bitki besin elementlerinin bitki tarafından alınmasına yardımcı olur.
+                        </li>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Kök sisteminin gelişimini teşvik eder ve artış sağlar.
+                        </li>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkinin fosfor kullanma, yararlanma kabiliyetini geliştirir, yükseltir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            Enzim üretimini ve alınımını arttırır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            Hücre oluşumunu teşvik ederek verimi arttırır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
+                            Daha az miktarda makro element kullanımına olanak sağlar.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
+                            Meyve oluşumunu teşvik ederek verimi arttırır.
                         </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Azotun bitki kök bölgesine sabitlenmesini ve toprağın havalanmasını sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkinin vejetatif gelişimini hızlandırır ve artış sağlar.
+                        </li>      <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkilerin kuraklığa karşı direncini arttırır.
+                        </li>
+
+
+
+
+
 
                     </ul><!-- /.list-unstyled -->
                 </div>
@@ -333,75 +365,67 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
+                            <th scope="col"> Yapraktan (100l)</th>
+                            <th scope="col"> Damlamadan (da)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td> 100-150 cc</td>
+                            <td>	0,5-1 lt.</td>
+
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
+                            <td>	100-150 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Bağ, Narenciye</td>
+                            <td>	100-150 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Endüstri Bitkileri</td>
+                            <td> 	100-150 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
                             <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
+                            <td>100-150 cc</td>
+                            <td>0,5-1 lt.</td>
 
                         </tr>
+                       
+
                     </tbody>
                 </table>
+
+
                 <hr>
                 <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            NUTRIPAK PRIMA; tüm AgXplore Inc. firmasının ürünleri ile rahatlıkla karışabilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
                             (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
                         </li>
+
 
 
 
@@ -413,16 +437,14 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 0,5 lt</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 1 lt</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                      
+
 
 
 
@@ -443,7 +465,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("ag").click();
     };
 </script>
 

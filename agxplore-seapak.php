@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li> <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li> <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -106,14 +107,14 @@
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
-                                            <li><a href="">Calcium 12%</a></li>
-                                            <li><a href="">Copper 5%</a></li>
-                                            <li><a href="">Nutripak Prima </a></li>
+                                            <li ><a href="agxplore-calcium.php">Calcium 12%</a></li>
+                                            <li ><a href="agxplore-copper.php">Copper 5%</a></li>
+                                            <li ><a href="agxplore-nutripak.php">Nutripak Prima </a></li>
                                             <li><a href=""> RainCoat</a></li>
-                                            <li><a href="">SeaPak </a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="">SeaPak </a></li>
                                             <li><a href="">Sursil </a></li>
                                             <li><a href="">Valupak</a></li>
 
@@ -221,19 +222,18 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/seapak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> SeaPak Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/seapak-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> SeaPak Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">SeaPak</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">"SIVI DENİZ YOSUNU"</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +246,41 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Toplam Organik Madde</td>
+                            <td> 	5</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <th scope="row">1</th>
+                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td> 2</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
+                            <th scope="row">1</th>
+                            <td>Alginik Asit</td>
+                            <td>	0,5 ppm</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
+                            <th scope="row">1</th>
+                            <td>Giberalik Asit</td>
+                            <td>	0,5</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
+                            <th scope="row">1</th>
+                            <td>EC (dS/m)</td>
+                            <td>	19</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
+                            <th scope="row">1</th>
+                            <td>pH Aralığı</td>
+                            <td>	6,8 - 8,8</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
 
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,116 +288,105 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            SeaPak tarımda kullanılmak üzere en çok tercih edilen Ascophyllum nodosum deniz yosunundan yüksek teknoloji ile elde edilen organik esaslı yapraktan ve damla sulama yöntemi ile uygulanabilen çok üstün kalitede üretilmiş bir gübredir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            SeaPak üretiminde kullanılan Ascophyllum nodosum sayesinde hem makro besin (N, P, K, Ca, Mg, S, vb.) hemde mikro besin (Mn, Cu, Fe, Zn, vb.) bileşiminden dolayı bir çok ürün çeşidinde organik gübre ve ana gübre olarak uzun süredir kullanılmaktadır. Ayrıca bu bütünüyle çok faydalı olan ve tarımda yaygın olarak kullanılan sitokininler, oksin benzeri giberalinler, betainler, mannitol, organik asitler, polisakkaritler, amino asitler ve proteinler için depo vazifesi görür.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            SeaPak formülasyonunda herhangi bir canlı organizma içermez. Doğadaki tüm diğer canlılara karşı zararsızdır. Uygulama sonrasında kalıntı bırakmaz. Her çeşit Pestisitler, Yaprak Gübreleri ve yayıcı-yapıştırıcılar ile karıştırılabilir. Organik tarıma uygun olup her türlü ilaçlama aleti ile kullanılabilir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            SeaPak tüm Sebzelerde ve Tarla Bitkilerinde, Meyvelerde, Turunçgillerde, Zeytinde, Pamukta, Bağ, Çilek ve diğer tüm bitkiler için yapraktan ve damla sulama yöntemi ile uygulanmak üzere formüle edilmiştir.
+                        </li>
+<h5 style="margin-top: 25px;">     Tarımda SeaPak Kullanımının Yararları;</h5>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkide canlılığı arttırarak daha kuvvetli gelişmesini sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Kök gelişimini hızlandırır, kılcal kök gelişimini teşvik eder.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Fidelerin canlılığını arttırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkileri soğuktan (don) korur.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Ürün daha iyi işlenir ve raf ömrü daha uzun olur.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkilerin mildiyö ve diğer hastalıklara, zararlılara karşı dirençli olmasını sağlar.
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Makro ve Mikro besin maddelerinin köklerden alınarak bitkiye taşınmasını sağlar ve hızlandırır.
+                        </li>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Çiçek ve Meyve tutumunu arttırır.
+                        </li>
+
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Meyvelerde olgunlaşma üründe erkencilik sağlar.
+                        </li>
+                       
+
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
+        
+              
+
+
+                <hr>
+                <h5 style="margin-top: 20px;">Kullanma Talimatı</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Damlamadan Uygulama: Sezon (büyüme) boyunca 1-2 hafta arayla 200-250 ml/da olacak şekilde çoklu uygulama yapılır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            Yapraktan Uygulama: Bitkinin canlı ve kuvvetli olduğu, büyüme ve stres altında olmadığı dönemde 10-14 gün arayla 100-150 ml/100 lt olarak çoklu uygulama yapılır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            Tüm gübre uygulamalarını öncede alacağınız toprak testi veya bitki doku analizleri sonuçlarına göre yapınız. SeaPak yaprak gübreleri, Herbisit, İnsektisit, Fungusit ve Defoliantlarla karıştırılarak kullanıma uygundur.
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
+
+
+
 
                     </ul><!-- /.list-unstyled -->
                 </div>
                 <hr>
-                <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                    </tbody>
-                </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
+                <h5 style="margin-top: 20px;">Karıştırma Talimatı:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            Pestisitlerle karışım sırasında izlenecek sıra 1- Su, 2- Pestisit, 3- SeaPak. Diğer gübrelerle karışım sırasında izlenecek sıra 1- Su, 2- Gübre, 3- SeaPak, (Karışımın homojenliği için çok iyi karıştırınız). Tüm bitki uygulamalarında sıvı gübrelerle karışıp uygulamaya uygundur. Fakat, mutlaka ön karışım testi yaparak karışabilirliği kontrol ediniz
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
-
+                      
 
 
                     </ul><!-- /.list-unstyled -->
@@ -411,18 +395,13 @@
                 <h5 style="margin-top: 20px;">Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
+                   
                         <li>
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 1 lt</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                      
+
 
 
 
@@ -443,7 +422,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("ag").click();
     };
 </script>
 

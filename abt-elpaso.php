@@ -71,16 +71,16 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
+                                    <li><a id="abt" href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
                                             <li><a href="">Attack DF</a></li>
-                                            <li><a href="">Elpaso</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="">Elpaso</a></li>
                                         </ul>
 
                                     </div>
@@ -221,19 +221,19 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/elpaso-etkiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Elpaso Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/elpaso-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Elpaso Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Elpaso</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">“ÇİÇEKTE TUTUM MEYVEDE KALİTE”</h3>
+                <h5>Bio - Activator Complex</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +246,11 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Mangan (Mn)</td>
+                            <td> 3</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,35 +258,63 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            Bütün topraklarda kullanılmak üzere hazırlanmış, tamamı bitki tarafından alınabilen yüksek kaliteye sahip bio-nutrient içerikli sıvı bir gübredir. Bitkilerin tüm gelişim döneminde topraktan ve yapraktan uygulanır.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            Elpaso; özel formüle edilmiş olduğundan, yapraktan tamamen absorbe olur ve meyveye taşınır, toprak uygulamalarında ise bitki kökleri tarafından kolayca alınır.
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Elpaso; bitkilerin bünyesine hızlı bir şekilde girerek protein üretimi sağlar. Bu da enerji ve zaman kaybını asgariye indirir. Hızla oluşan bu proteinler yeni filiz, çiçek, meyve ve aynı zamanda köklere gönderilir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
+                            Elpaso; içerdiği özel natürel kompleks maddeleri sayesinde fotosentez ürünlerini optimum seviyeye ulaştırır.
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            Elpaso; bitkilerde oksin-sitokinin hormonları dengesine yardımcı olur ve daha çok sitokinin hormonlarını teşvik ederek özümleme ürünlerinin verime dönük taşınmasına yardımcı olur. Bu da boğum aralarını kısaltır ve verime yönelik güçlü yan dal oluşumunu sağlar.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            Rroprietary Cultured Complex of Natural Vitamin, Aminoacids, Enzyme Bio Catalysts
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
+                            Organic matter
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
+                            Humic & Fulvic acids
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Kelp extract
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Manganese (Mn)
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Gibberellins (GA)
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Indolacetic acid (IAA)
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Indolbutiric acid (IBA)
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Auxins
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Stabilizer and inert ingredients
                         </li>
 
                     </ul><!-- /.list-unstyled -->
@@ -341,53 +334,41 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td> 	100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
+                            <td> 	100 cc</td>
 
-                            <td>2-3 lt</td>
+                            <td>0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Bağ, Narenciye</td>
+                            <td> 	100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Endüstri Bitkileri</td>
+                            <td> 	100 cc</td>
+                            <td>0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
                             <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
+                            <td> 	100 cc</td>
+                            <td>	0,5-1 lt.</td>
 
                         </tr>
+                      
+                    
                     </tbody>
                 </table>
                 <hr>
@@ -396,7 +377,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
+                            Yağlar, Kükürt, bakır ve alkali reaksiyona sahip preparatlarla asla karıştırmayınız.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -415,14 +396,7 @@
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 1 lt</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                    
 
 
 
@@ -443,7 +417,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("abt").click();
     };
 </script>
 

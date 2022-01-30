@@ -71,23 +71,23 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
+                                    <li><a id="abt" href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
-                                            <li><a href="">Attack DF</a></li>
-                                            <li><a href="">Elpaso</a></li>
+                                            <li><a href="abt-attack-df.php">Attack DF</a></li>
+                                            <li ><a href="abt-elpaso.php">Elpaso</a></li>
                                         </ul>
 
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
+                                    <li><a id="chi" data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="">CHI-Liquid Humus 24</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
                                     <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
@@ -221,19 +221,20 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/liquid-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Elpaso Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/liquid-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Elpaso Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">CHI-Liquid Humus 24</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">"Canadian Humalite International Inc."</h3>
+                <h5>Made in Canada</h5>
+                <h5>"Leonardit Kaynaklı Sıvı Humik Asit"</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,183 +247,46 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Toplam Organik Madde</td>
+                            <td>6,6</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <td>Toplam (Humik+Fülvik) Asit</td>
+                            <td> 	12</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
+                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td> 2,5</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
+                            <td>pH Aralığı</td>
+                            <td>	7-9</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
+                    
 
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
+               
+               
                 <hr>
-                <h5 style="margin-top: 20px;">Uygulama Alanı Ve Dozları :</h5>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                    </tbody>
-                </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
-
-
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
-                <hr>
+              
+               
                 <h5 style="margin-top: 20px;">Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;"> 20 lt</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                    
 
 
 
@@ -443,7 +307,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("chi").click();
     };
 </script>
 

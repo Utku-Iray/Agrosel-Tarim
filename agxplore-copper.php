@@ -70,10 +70,10 @@
                                             <li><a href="fertoro-chinco.php">Chinco</a></li>
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
-                                            <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
-                                            <li><a href="">Porto-P</a></li>
-                                            <li><a href="">Seelife</a></li>
+                                            <li><a href="mz.">MZFe Plus</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-porto.php">Porto-P</a></li>
+                                            <li><a href="fertoro-seelife.php">Seelife</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li> <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li> <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -106,11 +107,11 @@
 
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
-                                            <li><a href="">Calcium 12%</a></li>
-                                            <li><a href="">Copper 5%</a></li>
+                                            <li><a href="agxplore-calcium.php">Calcium 12%</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="agxplore-copper.php">Copper 5%</a></li>
                                             <li><a href="">Nutripak Prima </a></li>
                                             <li><a href=""> RainCoat</a></li>
                                             <li><a href="">SeaPak </a></li>
@@ -221,19 +222,17 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/copper-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Copper 5% Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/copper-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Copper 5% Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Copper 5%</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +245,13 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Suda Çözünür Bakır (Cu)</td>
+                            <td>5</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,36 +259,75 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            Copper 5%, klorofil sentezinde ve fotosentez elektron transferinde etkili olup bitkide hareketsizdir. Sistemik çalışır ulaştığı bölgelerde hızla etkisini gösterir. her tip toprakta ve iklim koşullarında uygulanabilen, bitkinin kökleri ve yaprakları tarafından kolayca ve tamamen alınan özel yapıya sahip sıvı “sistemik” bakır gübresidir. Yapraktan uygulama sonrası hava sıcaklığına bağlı olarak 2 (iki) saat içerisinde bitki içerisine alım hızı 100% ‘ dür. Bakteriyel ve mantarı hastalıklara karşı anti bakteriyel olarak iş görür ve bitkinin bakır ihtiyacını hızlı bir şekilde giderir.
+                        </li>
+                        <h5 style="margin-top: 25px;">Bitkilerde Copper eksikliğinde görülen sorunlar;</h5>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Kapsüllerin az sayıda dane bağlanması veya kapsül içlerinin boş olmasına neden olur.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            Baş kısmı basıktır, oluşan taneler ise buruşuk görünümlüdür.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitki gelişimi durur ve bunun sonucu olarak yeşil aksam hastalıkları kaçınılmaz olur.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Genç yapaklar solgun görünür, sonrasında tepe noktasında ölümler başlar.
+
+                        </li>
+                        <h5 style="margin-top: 25px;"> Copper 5% kullanıldığı durumlarda;</h5>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkiye verildiğinde ortamdaki hiçbir madde ile tepkimeye girmeden sadece bitki tarafından kullanılır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Hasat ve budamadan kaynaklanan yaraların kapatılmasını sağlar.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Bitkiyi besler ve direnç kazandırır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Meyvede leke ve kalıntı bırakmaz.
+
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Uygulandığı bitkileri besler.
+
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            Mükemmel bir şekilde koruyucu ve tedavi edici özelliği vardır.
                         </li>
+
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
+                            Fotosentezi arttırır, dolayısıyla yeşil aksamın düzgün renkte olmasını sağlar.
+                        </li>
+
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            Topraktaki organik madde miktarı yüksek olan yerlerde Copper 5% sayesinde bakırın bitki içine girişi ve bitki bünyesine taşınması hızla olmakta
                         </li>
+
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            ve bakırın eksikliğinden doğan sorunlar giderilmektedir.
+
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
-                        </li>
+
+
+
+
+
 
                     </ul><!-- /.list-unstyled -->
                 </div>
@@ -333,80 +338,62 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
+                            <th scope="col"> Topraktan</th>
+                            <th scope="col"> Damlamadan (da)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Meyvelerde</td>
+                            <td> 0,5-1 lt.</td>
+                            <td>Meyve Ağaçları</td>
+
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
+                            <td>Nar, Narenciye</td>
+                            <td> 100-200 cc</td>
+                            <td> 0,5-1 lt.</td>
 
                         </tr>
+
                         <tr>
                             <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Sebzelerde</td>
+                            <td> 100-200 cc</td>
+                            <td> 0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Pamuk, Yer Fıstığı</td>
+                            <td> 100-200 cc</td>
+                            <td> 0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Çiçek, Süs Bitkileri</td>
+                            <td> 100-200 cc</td>
+                            <td> 0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
                             <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
+                            <td> 100-200 cc</td>
+                            <td> 0,5-1 lt.</td>
 
                         </tr>
+
                     </tbody>
                 </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
 
 
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
+         
+              
                 <hr>
                 <h5 style="margin-top: 20px;">Ambalaj:</h5>
                 <div>
@@ -415,14 +402,8 @@
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 1 lt</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+                    
+
 
 
 
@@ -443,7 +424,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("ag").click();
     };
 </script>
 

@@ -71,7 +71,7 @@
                                             <li><a href="fertoro-khank.php">Khan-K</a></li>
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
+                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
                                             <li><a href="">Porto-P</a></li>
                                             <li><a href="">Seelife</a></li>
                                         </ul>
@@ -90,13 +90,14 @@
                                             <li><a href="">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
-                                            <li> <a href="">Dabquel Mix</a></li>
-                                            <li> <a href="">Ferrosel %6 Fe</a></li>
-                                            <li> <a href="">Power Fe</a></li>
-                                            <li> <a href="">Torofer %6 Fe</a></li>
+                                            <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
+                                            <li> <a href="dabeer-ferrosel.php">Ferrosel %6 Fe</a></li>
+                                            <li > <a href="dabeer-kelanthren.php">Kelanthren %6 Fe</a></li>
+                                            <li > <a href="dabeer-power.php">Power Fe</a></li>
+                                            <li style="background-color: #e3e3e3;"> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
@@ -221,19 +222,18 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Etiket</span> </a>
+                        <a target="_blank" href="assets/images/pdf/torofer-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Torofer %6 Fe Etiket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="assets/images/pdf/nitrognyo-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nitrogenyo-N Tescil</span></a>
+                        <a target="_blank" href="assets/images/pdf/torofer-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Torofer %6 Fe Tescil</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Nitrogenyo-N</h2>
+                <h2 style="margin-top: 0px;">Torofer %6 Fe</h2>
                 <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">“BİTKİNİZ ŞİMDİ DAHA CANLI”</h3>
-                <h5>Azotlu Gübre Çözeltisi (25-0-0)</h5>
+                <h3 style="margin-top: 20px;">Demir şelatı – EDDHSA</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -246,46 +246,24 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
-                            <td> 25</td>
+                            <td>Suda Çözünür Demir (Fe)</td>
+                            <td> 6</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">-</th>
+                            <td>EDDHSA Şelatlı Demir (Fe)</td>
+                            <td> 6</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Amonyum Azotu (NH4-N)</td>
-                            <td> 5</td>
+                            <td>pH Aralığı</td>
+                            <td> 3-11</td>
 
                         </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
-                            <td> 5</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td> 15</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Biüre</td>
-                            <td> < 0,39</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>Yoğunluk</td>
-                            <td> 1,3 kg/lt</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">7</th>
-                            <td>pH</td>
-                            <td>6</td>
-
-                        </tr>
                     </tbody>
                 </table>
 
@@ -293,36 +271,57 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Vejetatif bitki gelişmesinde üstün rol oynayan bir teknoloji harikasıdır.
+                            TOROFER 6 % Fe, piyasadaki demirlerden farklı olarak bir şelat maddesiyle şelatlanmıştır. Bu şelat maddesi “EDDHSA “ dediğimiz kükürtlü bir şelat maddesidir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerdeki Azot (N) noksanlığını bünyesinde yüksek konsantrasyonu (% 25 N) sayesinde hızlı bir şekilde çözer.
+                            EDDHSA; kükürt tri oksit’in (SO3) oksitlenmesi sonucu ortaya çıkan amonyum gazının (NH) demirle birleşmesi sonucu meydana gelen şelattır.
                         </li>
 
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitki gelişmesinde hızlı bir şekilde canlılık getirir.
+                            EDDHSA iki fenol grubu içeren bir etilen diamin şelatlayıcı molekül olup bu yapıda kükürt grubuna bağlı fenollerde karbon para pozisyonundadır. Bu durum orto pozisyonlarında bağların daha güçlü olmasını sağlar ve Fe gibi katyonları kendine daha sıkı bağlayıp pH’sı 11’e kadar olan topraklarda demiri bünyesinde tutarak bitki köklerine sunarlar.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkilerin bol, kaliteli ve lezzetli meyve vermeleri için öncelikle güçlü bir vejetatif aksama ihtiyaçları vardır. İşte bu aksamın istenilen şekilde olmasını NITROGENYO-N sağlar.
+                            EDDHSA şelatlı Fe, EDDHA’lı demire göre daha geniş ph aralıklı (pH 3-11) topraklarda faydalı halde olup kıymetlidir.
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Kalite ve safiyeti çok yüksel ürünlerden üretilmiştir.
+                            Piyasadaki demir gruplarının çoğu 3.2 veya 3.6 orto-orto’ya sahipken Ferrosel Fe 4.8 orto-orto’ya sahiptir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde çevre için zararlı maddeler yoktur.
+                            Kireçli topraklarda EDDHSA-Fe, EDDHA-Fe’ye göre daha iyi çözünür. EDDHSA ile şelatlı demir meyve ağaçlarında demir klorozunun önlenmesi ve düzeltilmesi için çok etkilidir, özellikle sulamada kullanıldığında. (Ancak son yapılan araştırmalar ışığında bu özelliğin sadece meyve ağaçlarında olmadığı ortaya çıkmıştır. Yani demit klorozun görüldüğü her üründe EDDHSA-Fe hem onarımda hem de önlemede oldukça etkilidir.)
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkiler için son derece emniyetlidir, yakıcı özelliği yoktur.
+                            TOROFER 6 % Fe ürününün 1 kg’’nı ortalama 2 lt suda rahatlıkla eridiğini göreceksiniz.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkinin her döneminde, İhtiyaç duyulduğu zaman yapraktan ve topraktan güvenle kullanılır.
+                            Ayrıca içerisindeki şelattan ötürü (EDDHSA) ilaçlama esnasında suyun pH’sını düzenleyerek ilacın etkinliğini arttırdığı da deneylerle kanıtlanmıştır. Örneğin; sebzelerde kök çürüklüğüne “Hexythiazox” etken maddeli ilaçlarla karıştırıldığında damlamadan erilmek suretiyle iyi geldiği ve aynı zamanda damlamada herhangi bir tıkanıklığa yol açmadığı yine deneylerle kanıtlanmıştır.
                         </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            TOROFER 6 % Fe, tamamen kimyasal olup % 100 mikro granüldür.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            TOROFER 6 % Fe, içerisindeki kükürtten dolayı bitki açısından alımı hem daha kolay hem de daha hızlıdır.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            Paket açıldığı zaman hiçbir şekilde tozuma yapmaz.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            TOROFER 6 % Fe yapraktan ve damlamadan kullanılabilir.
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            TOROFER 6 % Fe zirai ilaçlar ve gübrelerle karışabilir.
+                        </li>
+
 
                     </ul><!-- /.list-unstyled -->
                 </div>
@@ -333,96 +332,98 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col"> Bitki Adı</th>
+                            <th scope="col"> Topraktan</th>
                             <th scope="col"> Yapraktan (100 lt.)</th>
-                            <th scope="col"> Damlamadan(da)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td> 	200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Meyve Ağaçları</td>
+
+
+                        </tr>
+                        <tr>
+                            <th scope="row">-</th>
+                            <td>Fidanlarda</td>
+                            <td> 5-15 gr./Ağaç</td>
+                            <td> 15-50 gr.</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">-</th>
+                            <td>3-5 yaş arası ağaçlarda</td>
+                            <td> 	10-30 gr./Ağaç</td>
+                            <td>	30-100 gr.</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">-</th>
+                            <td>5 yaş üzeri ağaçlarda</td>
+                            <td> 	15-100 gr./Ağaç</td>
+                            <td> 	30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td> 200-300 cc</td>
-
-                            <td>2-3 lt</td>
+                            <td>Sebzelerde</td>
+                            <td> 	100-1000 gr./da</td>
+                            <td> 	30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Narenciye, Nar</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Süs Bitkileri</td>
+                            <td> 75-150 gr./da</td>
+                            <td>	30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Bağ, Zeytin</td>
-                            <td> 200-300 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Çilek</td>
+                            <td> 	100-1000 gr./da</td>
+                            <td> 	30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çilek, Kavun, Karpuz, Kabak vs.</td>
-                            <td> 150-250 cc</td>
-                            <td>2-3 lt</td>
+                            <td>Muz</td>
+                            <td> 	500-1000 gr./da</td>
+                            <td> 	30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Süs Bitkileri</td>
-                            <td>150-250 cc</td>
-                            <td>	2-3 lt</td>
+                            <td>Bağ(Omca Başına)</td>
+                            <td> 	5-15 gr./Ağaç</td>
+                            <td> 	30-100 gr.</td>
 
-                        </tr>
-                        <tr>
+                        </tr><tr>
                             <th scope="row">7</th>
+                            <td>Zeytin</td>
+                            <td> 	15-100 gr./Ağaç</td>
+                            <td> 30-100 gr.</td>
+
+                        </tr><tr>
+                            <th scope="row">8</th>
                             <td>Tarla Bitkileri</td>
-                            <td>200-300 cc</td>
-                            <td>	2-3 lt</td>
+                            <td>100-200 gr./da</td>
 
                         </tr>
                     </tbody>
                 </table>
-                <hr>
-                <h5 style="margin-top: 20px;">Karışabilirlik:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> NITROGENYO-N;</span>, tüm Fertoro ürünleri ve pestisitlerle rahatlıkla karışabilir.
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            (Ön karışabilirlik testlerinin yapılmasını her zaman tavsiye ederiz.)
-                        </li>
 
 
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
                 <hr>
                 <h5 style="margin-top: 20px;">Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 1 lt</span>
+                            <span style="font-weight: bold;"> 1 kg</span>
                         </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> 5 lt</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">20lt</span>
-                        </li>
+
 
 
 
@@ -443,7 +444,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("dabeer").click();
     };
 </script>
 
