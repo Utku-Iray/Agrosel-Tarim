@@ -1038,25 +1038,25 @@
     color: #fff;
 }
 
-.blog-home-two {
+.blog-Anasayfa-two {
     border-top: 1px solid #e9e7e2;
     padding-top: 80px;
     padding-bottom: 50px;
 }
 
 @media (min-width: 1200px) {
-    .blog-home-two {
+    .blog-Anasayfa-two {
         padding-top: 120px;
         padding-bottom: 90px;
     }
 }
 
-.blog-home-two .top-row {
+.blog-Anasayfa-two .top-row {
     margin-bottom: 30px;
 }
 
 @media (min-width: 992px) {
-    .blog-home-two .top-row {
+    .blog-Anasayfa-two .top-row {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -1067,76 +1067,76 @@
 }
 
 @media (min-width: 1200px) {
-    .blog-home-two .top-row {
+    .blog-Anasayfa-two .top-row {
         margin-bottom: 60px;
     }
 }
 
-.blog-home-two .block-title {
+.blog-Anasayfa-two .block-title {
     margin-bottom: 25px;
 }
 
 @media (min-width: 992px) {
-    .blog-home-two .block-title {
+    .blog-Anasayfa-two .block-title {
         margin-bottom: 0;
         max-width: 505px;
     }
 }
 
 @media (min-width: 992px) {
-    .blog-home-two .block-text {
+    .blog-Anasayfa-two .block-text {
         margin-top: 30px;
     }
 }
 
-.home-one__boxed-bg {
+.Anasayfa-one__boxed-bg {
     position: absolute;
     bottom: 0;
     left: 0;
 }
 
-.blog-home-one {
+.blog-Anasayfa-one {
     padding-bottom: 60px;
     position: relative;
 }
 
-.blog-home-one hr {
+.blog-Anasayfa-one hr {
     margin: 0;
     border-color: #e9e7e2;
     border-width: 1px;
     margin-top: 30px;
 }
 
-.blog-home__slogan {
+.blog-Anasayfa__slogan {
     padding-bottom: 80px;
 }
 
 @media (min-width: 1200px) {
-    .blog-home__slogan {
+    .blog-Anasayfa__slogan {
         margin-top: -20px;
         padding-bottom: 120px;
     }
 }
 
-.blog-home__slogan i {
+.blog-Anasayfa__slogan i {
     font-size: 50px;
     color: var(--thm-base);
 }
 
 @media (min-width: 992px) {
-    .blog-home__slogan i {
+    .blog-Anasayfa__slogan i {
         font-size: 60px;
         margin-right: 30px;
     }
 }
 
 @media (min-width: 1200px) {
-    .blog-home__slogan i {
+    .blog-Anasayfa__slogan i {
         margin-right: 45px;
     }
 }
 
-.blog-home__slogan h3 {
+.blog-Anasayfa__slogan h3 {
     margin: 0;
     font-size: 20px;
     color: var(--thm-black);
@@ -1146,29 +1146,29 @@
 }
 
 @media (min-width: 1200px) {
-    .blog-home__slogan h3 {
+    .blog-Anasayfa__slogan h3 {
         font-size: 30px;
         margin-bottom: 20px;
     }
 }
 
-.blog-home__slogan p {
+.blog-Anasayfa__slogan p {
     margin: 0;
     line-height: 2.125;
 }
 
 @media (min-width: 1200px) {
-    .blog-home__slogan p {
+    .blog-Anasayfa__slogan p {
         max-width: 670px;
     }
 }
 
-.blog-home__slogan-main {
+.blog-Anasayfa__slogan-main {
     text-align: center;
 }
 
 @media (min-width: 992px) {
-    .blog-home__slogan-main {
+    .blog-Anasayfa__slogan-main {
         display: -webkit-box;
         display: -ms-flexbox;
         display: flex;
@@ -1179,13 +1179,13 @@
     }
 }
 
-.blog-home__slogan-image {
+.blog-Anasayfa__slogan-image {
     margin-top: 30px;
     position: relative;
 }
 
 @media (min-width: 768px) {
-    .blog-home__slogan-image {
+    .blog-Anasayfa__slogan-image {
         max-width: 270px;
         margin-left: auto;
         margin-right: auto;
@@ -1193,7 +1193,7 @@
 }
 
 @media (min-width: 768px) {
-    .blog-home__slogan-image::before {
+    .blog-Anasayfa__slogan-image::before {
         content: "";
         width: 20px;
         height: 100%;
@@ -1206,7 +1206,7 @@
     }
 }
 
-.blog-home__slogan-image>img {
+.blog-Anasayfa__slogan-image>img {
     display: block;
     border-radius: 5px;
     margin-left: auto;
@@ -1978,12 +1978,12 @@ h6 {
     }
 }
 
-.gray-boxed-wrapper.home-one__boxed {
+.gray-boxed-wrapper.Anasayfa-one__boxed {
     margin-top: -60px;
 }
 
 @media (min-width: 992px) {
-    .gray-boxed-wrapper.home-one__boxed {
+    .gray-boxed-wrapper.Anasayfa-one__boxed {
         margin-top: -205px;
     }
 }
@@ -4026,8 +4026,8 @@ h6 {
 .page-header .container {
     position: relative;
     z-index: 10;
-    padding-top: 160px;
-    padding-bottom: 160px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     text-align: center;
 }
 
@@ -4101,12 +4101,12 @@ h6 {
 # Google Map
 --------------------------------------------------------------*/
 
-.google-map__home-two {
+.google-map__Anasayfa-two {
     width: 100%;
     margin-bottom: -16px;
 }
 
-.google-map__home-two iframe {
+.google-map__Anasayfa-two iframe {
     display: block;
     border: none;
     outline: none;
@@ -5399,20 +5399,20 @@ h6 {
 }
 
 @media (min-width: 1440px) {
-    .project-one__home-one {
+    .project-one__Anasayfa-one {
         padding-top: 0;
         padding-bottom: 120px;
     }
 }
 
 @media (min-width: 1200px) {
-    .project-one__home-one .swiper-container {
+    .project-one__Anasayfa-one .swiper-container {
         overflow: visible;
     }
 }
 
 @media (min-width: 1200px) {
-    .project-one__home-one .projects-one__content {
+    .project-one__Anasayfa-one .projects-one__content {
         top: auto;
         bottom: 25px;
         left: 30px;
@@ -5438,14 +5438,14 @@ h6 {
 }
 
 @media (min-width: 1200px) {
-    .project-one__home-one .projects-one__content h3 {
+    .project-one__Anasayfa-one .projects-one__content h3 {
         margin-left: 0;
         margin-bottom: 0;
     }
 }
 
 @media (min-width: 1200px) {
-    .project-one__home-one .projects-one__button {
+    .project-one__Anasayfa-one .projects-one__button {
         position: relative;
         top: auto;
         right: auto;
@@ -6074,12 +6074,12 @@ h6 {
     color: var(--thm-black);
 }
 
-.call-to-action__two-home-two {
+.call-to-action__two-Anasayfa-two {
     padding-bottom: 140px;
 }
 
 @media (min-width: 1200px) {
-    .call-to-action__two-home-two {
+    .call-to-action__two-Anasayfa-two {
         padding-bottom: 335px;
     }
 }
@@ -6497,29 +6497,29 @@ h6 {
     display: none;
 }
 
-.service-two__home-two {
+.service-two__Anasayfa-two {
     padding-bottom: 50px;
 }
 
 @media (min-width: 1200px) {
-    .service-two__home-two {
+    .service-two__Anasayfa-two {
         padding-bottom: 90px;
         padding-top: 200px;
         margin-top: -80px;
     }
 }
 
-.service-two__home-two .row {
+.service-two__Anasayfa-two .row {
     margin-left: -15px;
     margin-right: -15px;
 }
 
-.service-two__home-two .row [class*="col-"] {
+.service-two__Anasayfa-two .row [class*="col-"] {
     padding-left: 15px;
     padding-right: 15px;
 }
 
-.service-two__home-two .service-two__card-content {
+.service-two__Anasayfa-two .service-two__card-content {
     margin-top: 0;
     padding-top: 10px;
     text-align: left;
@@ -6527,20 +6527,20 @@ h6 {
 }
 
 @media (min-width: 1200px) {
-    .service-two__home-two .service-two__card-content {
+    .service-two__Anasayfa-two .service-two__card-content {
         padding-left: 40px;
         padding-right: 40px;
         padding-bottom: 35px;
     }
 }
 
-.service-two__home-two .service-two__card-content h3 {
+.service-two__Anasayfa-two .service-two__card-content h3 {
     margin-left: 0;
     margin-right: 0;
 }
 
 @media (min-width: 1200px) {
-    .service-two__home-two .service-two__card-content h3 {
+    .service-two__Anasayfa-two .service-two__card-content h3 {
         margin-top: 25px;
     }
 }
@@ -6916,7 +6916,7 @@ h6 {
     .call-to-action__three-image img {
         width: 70%;
     }
-    .blog-home-two {
+    .blog-Anasayfa-two {
         border-top: 0px;
     }
     .contact-two__content {

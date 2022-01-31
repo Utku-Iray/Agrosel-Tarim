@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service Details Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Ürün Detayları Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -42,11 +42,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Service Details</span></li>
+            <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Service Details</h2>
+        <h2>Ürün Detayları</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -56,7 +56,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                    <div class="service-sidebar__links">
+                <div class="service-sidebar__links">
                         <ul>
                             <li><a id="product" href="#in1" data-toggle="collapse" style="color: #000000;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
                             <div id="in1" class="collapse">
@@ -72,22 +72,22 @@
                                             <li><a href="fertoro-maestro.php">Maestro</a></li>
                                             <li><a href="#">MZFe Plus</a></li>
                                             <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
-                                            <li><a href="">Porto-P</a></li>
-                                            <li><a href="">Seelife</a></li>
+                                            <li><a href="fertoro-porto.php">Porto-P</a></li>
+                                            <li><a href="fertoro-seelife.php">Seelife</a></li>
                                         </ul>
                                     </div>
                                     <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
-                                            <li><a href="">Attack DF</a></li>
-                                            <li><a href="">Elpaso</a></li>
+                                            <li><a href="abt-attack-df.php">Attack DF</a></li>
+                                            <li><a href="abt-elpaso.php">Elpaso</a></li>
                                         </ul>
 
                                     </div>
                                     <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
@@ -103,7 +103,7 @@
                                     <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
                                     <div id="in6" class="collapse">
                                         <ul>
-                                            <li><a href="">Lithovit CO2</a></li>
+                                            <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
 
                                         </ul>
                                     </div>
@@ -173,7 +173,7 @@
                                     <div id="in13" class="collapse">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">13.13.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>
@@ -187,31 +187,32 @@
                                     <div id="in15" class="collapse">
                                         <ul>
                                             <li><a href="neovent-15.5.35.php">Neovent 15.5.35 + TE</a></li>
-                                            <li ><a href="neovent-16.8.24.php">Neovent 16.8.24+2MgO + TE</a></li>
-                                            <li ><a href="neovent-18.18.18.php">Neovent 18.18.18 + TE</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="neovent-19.6.20.php">Neovent 19.6.20+2MgO + TE</a></li>
-                                            <li><a href="">Neovent 20.10.20 + TE</a></li>
+                                            <li><a href="neovent-16.8.24.php">Neovent 16.8.24+2MgO + TE</a></li>
+                                            <li><a href="neovent-18.18.18.php">Neovent 18.18.18 + TE</a></li>
+                                            <li  style="background-color: #e3e3e3;"><a href="neovent-19.6.20.php">Neovent 19.6.20+2MgO + TE</a></li>
+                                            <li><a href="neovent-20.10.20.php">Neovent 20.10.20 + TE</a></li>
                                         </ul>
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in16" style="font-weight:bold">JR PETERS Inc.</a></li>
-                                    <div id="in16" class="collapse">
-                                        <ul>
-                                            <li><a href="">Jack's Professional 10.52.10+ME</a></li>
-                                            <li><a href="">Jack's Professional 13.5.38+ME</a></li>
-                                            <li><a href="">Jack's Professional </a></li>
-                                            <li><a href="">15.5.15+Ca+Mg</a></li>
-                                            <li><a href="">Jack's Professional 17.5.24+Mg</a></li>
-                                            <li><a href="">Jack's Professional 20.10.20+ME</a></li>
-                                            <li><a href="">Jack's Professional 20.20.20+ME</a></li>
-                                            <li><a href="">Jack's Professional 25.5.15+ME</a></li>
-                                            <li><a href="">Jack's Professional MOST</a></li>
-                                        </ul>
-                                    </div>
+
+                                </ul>
+                            </div>
+                            <li><a id="product4" data-toggle="collapse" href="#in16" style="color: #000000; font-weight:bold">JR PETERS Inc.</a></li>
+                            <div id="in16" class="collapse">
+                                <ul>
+                                    <li><a href="jr-jacks-professional-10.52.10.php">Jack's Professional 10.52.10+ME</a></li>
+                                    <li><a href="jr-jacks-professional-14.5.38.php">Jack's Professional 14.5.38+ME</a></li>
+                                    <li><a href="jr-jacks-professional-15.5.15.php">Jack's Professional 15.5.15+Ca+Mg</a></li>
+                                    <li><a href="jr-jacks-professional-17.5.24.php">Jack's Professional 17.5.24+Mg</a></li>
+                                    <li><a href="jr-jacks-professional-20.10.20.php">Jack's Professional 20.10.20+ME</a></li>
+                                    <li><a href="jr-jacks-professional-20.20.20.php">Jack's Professional 20.20.20+ME</a></li>
+                                    <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
+                                    <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
                                 </ul>
                             </div>
 
                         </ul>
-                    </div><!-- /.service-sidebar__links -->
+                    </div>
+                    <!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
                         <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
                         

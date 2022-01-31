@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service Details Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Ürün Detayları Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -42,11 +42,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Service Details</span></li>
+            <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Service Details</h2>
+        <h2>Ürün Detayları</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -172,7 +172,7 @@
                                     <div id="in13" class="collapse">
                                         <ul>
                                             <li><a href="">Haifa Turbo-K</a></li>
-                                            <li><a href="">13.13.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
                                             <li><a href="">Haifa Turbo-K</a></li>
                                             <li><a href="">15.15.15+2MgO+20SO3+ME</a></li>
                                         </ul>

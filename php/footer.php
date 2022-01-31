@@ -5,7 +5,7 @@
         <div class="row">
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                 <div class="footer-widget">
-                    <a href="index.html" class="footer-widget__Logo">
+                    <a href="index.php" class="footer-widget__Logo">
                         <img src="assets/images/logo-light.png" width="153" alt="">
                     </a>
                     <p>There are many variations of passages of lorem ipsum available, but the majority suffered.
@@ -123,7 +123,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="far fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="" /></a>
+            <a href="index.php" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="" /></a>
         </div>
         <!-- /.logo-box -->
         <div class="mobile-nav__container"></div>
