@@ -170,12 +170,12 @@
                                     </div>
                                     <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse">
-                                        <ul>
-                                            <li><a href="">Haifa Turbo-K</a></li>
-                                            <li><a href="">13.13.17+ME+S+Fe,Zn</a></li>
-                                            <li><a href="">Haifa Turbo-K</a></li>
-                                            <li><a href="">15.15.15+2MgO+20SO3+ME</a></li>
-                                        </ul>
+                                    <ul>
+                                           
+                                           <li ><a href="tabangubreleri-turbo-k-14.14.17.php">13.13.17+ME+S+Fe,Zn</a></li>
+                                           <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
+                                      
+                                       </ul>
                                     </div>
                                 </ul>
                             </div>
