@@ -60,10 +60,10 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-1.jpg" alt="">
-                            <div class="service-one__box-content">
+                            <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
+                            <!-- <div class="service-one__box-content">
                                 <h3><a href="service-details.html">Agriculture Leader</a></h3>
-                            </div>
+                            </div> -->
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
@@ -71,10 +71,8 @@
                     <!-- /.col-md-12 col-lg-4 -->
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-2.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Quality Standards</a></h3>
-                            </div>
+                            <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
+                           
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
@@ -82,50 +80,40 @@
                     <!-- /.col-md-12 col-lg-4 -->
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
-                            </div>
+                            <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
+                           
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
-                            </div>
+                            <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
+                         
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
-                            </div>
+                            <img src="assets/images/ref5.jpeg" alt="">
+                            
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
-                            </div>
+                            <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
+                          
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
-                            <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
-                            </div>
+                            <img src="assets/images/agxplore.png" alt="">
+                        
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->

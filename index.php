@@ -114,7 +114,7 @@
 <section class="service-one">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+            <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
                     <img src="assets/images/service-1-3.jpg" alt="">
                     <div class="service-one__box-content">
@@ -124,7 +124,7 @@
                 </div>
                 <!-- /.service-one__box -->
             </div>
-            <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+            <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
                     <img src="assets/images/damla.jpg" alt="">
                     <div class="service-one__box-content">
@@ -135,11 +135,21 @@
                 <!-- /.service-one__box -->
             </div>
             <!-- /.col-md-12 col-lg-4 -->
-            <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+            <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
                     <img src="assets/images/multi.jpg" alt="">
                     <div class="service-one__box-content">
                         <h3><a href="haifa-npk-12.5.40.php">HAIFA Ürünleri</a></h3>
+                    </div>
+                    <!-- /.service-one__box-content -->
+                </div>
+                <!-- /.service-one__box -->
+            </div>
+            <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
+                <div class="service-one__box">
+                    <img src="assets/images/foto3.jfif" alt="">
+                    <div class="service-one__box-content">
+                        <h3><a href="jr-jacks-professional-10.52.10.php">Jakc's Professional</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -254,7 +264,7 @@
                     <div class="service-two__card-image">
                         <img class="shadow-box-image" src="assets/images/fertoro1.jpg" alt="">
                     </div>
-                   
+
                     <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-tractor"></i>
@@ -383,7 +393,7 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto2.jfif" alt="">
-                       
+
                         <!-- /.projects-one__content -->
                     </div>
                     <!-- /.projects-one__single -->
@@ -392,8 +402,8 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto3.jfif" alt="">
-                       
-                       
+
+
                         <!-- /.projects-one__content -->
                     </div>
                     <!-- /.projects-one__single -->
@@ -402,7 +412,7 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto4.jfif" alt="">
-                     
+
                         <!-- /.projects-one__content -->
                     </div>
                     <!-- /.projects-one__single -->
@@ -413,7 +423,7 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto7.jfif" alt="">
-                       
+
                         <!-- /.projects-one__content -->
                     </div>
                     <!-- /.projects-one__single -->
@@ -421,12 +431,12 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto6.jfif" alt="">
-                      
-                    
+
+
                     </div>
-                   
+
                 </div>
-               
+
             </div>
             <!-- /.swiper-wrapper -->
             <div class="swiper-pagination" id="projects-one__swiper-pagination"></div>
@@ -602,7 +612,7 @@
                 <div class="col-md-12 col-lg-4">
                     <div class="blog-card">
                         <div class="blog-card__image">
-                            <img src="assets/images/ref3.jpg" alt="Best Way to Do Eco and Agriculture">
+                            <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="Best Way to Do Eco and Agriculture">
                             <a href="haberler.php"></a>
                         </div>
                         <!-- /.blog-card__image -->
@@ -626,7 +636,7 @@
                 <div class="col-md-12 col-lg-4">
                     <div class="blog-card">
                         <div class="blog-card__image">
-                            <img src="assets/images/ref4.jpg" alt="Leverage agile frameworks to provide">
+                            <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="Leverage agile frameworks to provide">
                             <a href="haberler.php"></a>
                         </div>
                         <!-- /.blog-card__image -->
@@ -812,19 +822,19 @@
             }}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="assets/images/ref1.jpg" alt="">
+                    <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/ref2.jpg" alt="">
+                    <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/ref3.jpg" alt="">
+                    <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/ref4.jpg" alt="">
+                    <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
@@ -832,14 +842,14 @@
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/ref6.png" alt="">
+                    <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
-                
+
                 <!-- /.swiper-slide -->
-               
+
                 <!-- /.swiper-slide -->
-               
+
                 <!-- /.swiper-slide -->
             </div>
             <!-- /.swiper-wrapper -->

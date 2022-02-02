@@ -47,10 +47,10 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>About</span></li>
+            <li><span>Dosyalar</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>About Us</h2>
+        <h2>Dosyalar</h2>
     </div>
     <!-- /.container -->
 </section>

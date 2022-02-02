@@ -47,10 +47,10 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>About</span></li>
+            <li><span>Kurumsal</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>About Us</h2>
+        <h2>Hakkımızda</h2>
     </div>
     <!-- /.container -->
 </section>
@@ -146,22 +146,25 @@
             }}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="assets/images/resources/brand-1-1.png" alt="">
+                    <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/resources/brand-1-1.png" alt="">
+                    <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/resources/brand-1-1.png" alt="">
+                    <img src="assets/images/ref5.jpeg" alt="">
                 </div>
                 <!-- /.swiper-slide -->
                 <div class="swiper-slide">
-                    <img src="assets/images/resources/brand-1-1.png" alt="">
+                    <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
                 </div>
                 <div class="swiper-slide">
-                    <img src="assets/images/resources/brand-1-1.png" alt="">
+                    <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
+                </div>
+                <div class="swiper-slide">
+                    <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
                 </div>
             </div>
             <!-- /.swiper-wrapper -->

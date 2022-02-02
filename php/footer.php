@@ -6,22 +6,21 @@
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
                 <div class="footer-widget">
                     <a href="index.php" class="footer-widget__Logo">
-                        <img src="assets/images/logo-light.png" width="153" alt="">
+                        <img src="assets/images/agrosel-logo-black.png" width="253" alt="">
                     </a>
-                    <p>There are many variations of passages of lorem ipsum available, but the majority suffered.
+                    <p>Agrosel Tarim ve Haifa Group Isbirligi <br>
+                        JR. PETERS INC.'den Jack's Professional <br>
+                        Neovent ACF'den Yeni Formülasyonlar
+
                     </p>
-                    <form action="#" data-url="YOUR_MAILCHIMP_URL" class="mc-form">
-                        <input type="email" name="EMAIL" placeholder="Email Address">
-                        <button type="submit"><i class="agrikon-icon-right-arrow"></i></button>
-                    </form>
+
                     <!-- /.mc-form -->
-                    <div class="mc-form__response"></div>
+                    <!-- <div class="mc-form__response"></div> -->
                     <!-- /.mc-form__response -->
-                    <div class="footer__social">
-                        <a href="#" class="fab fa-facebook-square"></a>
-                        <a href="#" class="fab fa-twitter"></a>
-                        <a href="#" class="fab fa-pinterest-p"></a>
-                        <a href="#" class="fab fa-instagram"></a>
+                    <div class="footer__social" style="margin-top: 25px;">
+                        <a href="https://tr-tr.facebook.com/agroselltd/" class="fab fa-facebook-square"></a>
+                        <a href="https://twitter.com/agroseltarim" class="fab fa-twitter"></a>
+                        <a href="https://www.instagram.com/agroseltarim/" class="fab fa-instagram"></a>
                     </div>
                     <!-- /.topbar__social -->
                 </div>
@@ -30,14 +29,14 @@
             <!-- /.col-sm-12 col-md-6 col-lg-4 -->
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-2">
                 <div class="footer-widget footer-widget__links-widget">
-                    <h3 class="footer-widget__title">Links</h3>
+                    <h3 class="footer-widget__title">Linkler</h3>
                     <!-- /.footer-widget__title -->
                     <ul class="list-unstyled footer-widget__links">
-                        <li><a href="#">Our Projects</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">New Campaign</a></li>
-                        <li><a href="#">Upcoming Events</a></li>
-                        <li><a href="#">Volunteers</a></li>
+                        <li><a href="index.php">Anasayfa</a></li>
+                        <li><a href="about.php">Hakkımızda</a></li>
+                        <li><a href="haberler.php">Haberler</a></li>
+                        <li><a href="dosyalar.php">Dosyalar</a></li>
+                        <li><a href="contact.php">İletişim</a></li>
                     </ul>
                     <!-- /.list-unstyled -->
                 </div>
@@ -46,25 +45,22 @@
             <!-- /.col-sm-12 col-md-6 col-lg-2 -->
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-3">
                 <div class="footer-widget">
-                    <h3 class="footer-widget__title">News</h3>
+                    <h3 class="footer-widget__title">Gerekli Bağlantılar</h3>
                     <!-- /.footer-widget__title -->
                     <ul class="list-unstyled footer-widget__post">
                         <li>
-                            <img src="assets/images/resources/footer-post-1.png" alt="">
+                            <!-- <img src="assets/images/resources/footer-post-1.png" alt=""> -->
                             <div class="footer-widget__post-content">
-                                <span>Nov 16, 2020</span>
-                                <h4><a href="blog-details.html">How to grow vagetables in the forms</a></h4>
+                                <a href="https://www.tarimorman.gov.tr/"> <span>Tarım Bakanlığı</span></a> <br>
+                                <a href="https://antalya.tarimorman.gov.tr/"> <span>Antalya İl Müd.</span></a> <br>
+                                <a href="https://www.tarimkredi.org.tr/"> <span>Tarım Kredi Kooperatifleri</span></a> <br>
+                                <a href="https://www.tarimorman.gov.tr/TAGEM"> <span>Tarımsal Araştırmalar G.Müd.</span></a>
+                                <a href="https://www.tarimorman.gov.tr/BUGEM"> <span>Bitkisel Üretim ve Geliş.Gen.Müd.</span></a>
+                                <a href="https://www.halfiyatlari.org/"> <span>Antalya Hal Fiyatları</span></a>
                             </div>
                             <!-- /.footer-widget__post-content -->
                         </li>
-                        <li>
-                            <img src="assets/images/resources/footer-post-2.png" alt="">
-                            <div class="footer-widget__post-content">
-                                <span>Nov 16, 2020</span>
-                                <h4><a href="blog-details.html">How to grow vagetables in the forms</a></h4>
-                            </div>
-                            <!-- /.footer-widget__post-content -->
-                        </li>
+
                     </ul>
                     <!-- /.list-unstyled footer-widget__post -->
                 </div>
@@ -72,21 +68,20 @@
             </div>
             <!-- /.col-sm-12 col-md-6 col-lg-3 -->
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-3">
-                <h3 class="footer-widget__title">Contact</h3>
+                <h3 class="footer-widget__title">İletişim</h3>
                 <!-- /.footer-widget__title -->
                 <ul class="list-unstyled footer-widget__contact">
                     <li>
                         <i class="agrikon-icon-telephone"></i>
-                        <a href="tel:666-888-0000">666 888 0000</a>
+                        <a href="tel:0 (242) 313 16 26">0 (242) 313 16 26</a>
                     </li>
                     <li>
                         <i class="agrikon-icon-email"></i>
-                        <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                        <a href="mailto:agrosel@agroseltarim.com">agrosel@agroseltarim.com</a>
                     </li>
                     <li>
                         <i class="agrikon-icon-pin"></i>
-                        <a href="#">80 broklyn golden street line
-                                    New York, USA</a>
+                        <a href="#"> Demircikara Mah. 1429 Sk. Özcan Apt. No:34 Kat: 1/4 ANTALYA</a>
                     </li>
                 </ul>
                 <!-- /.list-unstyled -->
@@ -100,12 +95,8 @@
 <!-- /.site-footer -->
 <div class="bottom-footer">
     <div class="container">
-        <p>© Copyright 2020 by Company.com</p>
-        <div class="bottom-footer__links">
-            <a href="#">Terms & Conditions</a>
-            <a href="#">Privacy Policy</a>
-            <a href="#">Sitemap</a>
-        </div>
+        <p>© Copyright 2022 by <a style="color: #f7c35f;" href="https://ideapol.net/">Ideapol Idea Agency</a></p>
+
         <!-- /.bottom-footer__links -->
     </div>
     <!-- /.container -->
@@ -146,9 +137,9 @@
                 <label class="sr-only" for="language-select">select language</label>
                 <!-- /#language-select.sr-only -->
                 <select class="selectpicker" id="language-select">
-                        <option value="english">English</option>
-                        <option value="arabic">Arabic</option>
-                    </select>
+                    <option value="english">English</option>
+                    <option value="arabic">Arabic</option>
+                </select>
             </div>
             <!-- /.mobile-nav__language -->
             <div class="mobile-nav__social">
@@ -177,8 +168,8 @@
             <!-- /.sr-only -->
             <input type="text" id="search" placeholder="Search Here..." />
             <button type="submit" aria-label="search submit" class="thm-btn">
-                    <i class="fa fa-search"></i>
-                </button>
+                <i class="fa fa-search"></i>
+            </button>
         </form>
     </div>
     <!-- /.search-popup__content -->

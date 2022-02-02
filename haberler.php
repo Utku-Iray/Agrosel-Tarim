@@ -58,7 +58,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="about-three__image">
-                            <img src="assets/images/ref3.jpg" alt="">
+                            <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                         </div>
                         <!-- /.about-three__image -->
                     </div>
@@ -87,7 +87,7 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="about-three__image">
-                            <img src="assets/images/ref4.jpg" alt="">
+                            <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
                         </div>
                         <!-- /.about-three__image -->
                     </div>

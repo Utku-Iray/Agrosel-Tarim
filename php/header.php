@@ -9,16 +9,15 @@
                 <div class="container">
                     <div class="topbar__left">
                         <div class="topbar__social">
-                            <a href="#" class="fab fa-facebook-square"></a>
-                            <a href="#" class="fab fa-twitter"></a>
-                            <a href="#" class="fab fa-pinterest-p"></a>
-                            <a href="#" class="fab fa-instagram"></a>
+                        <a href="https://tr-tr.facebook.com/agroselltd/" class="fab fa-facebook-square"></a>
+                        <a href="https://twitter.com/agroseltarim" class="fab fa-twitter"></a>
+                        <a href="https://www.instagram.com/agroseltarim/" class="fab fa-instagram"></a>
                         </div><!-- /.topbar__social -->
-                        <p>Welcome to Agriculture HTML Template</p>
+                        <p>AGROSEL TARIMSAL ÜRETİM PAZ.SAN. VE TİC.LTD.ŞTİ.</p>
                     </div><!-- /.topbar__left -->
-                    <div class="topbar__right">
-                        <a href="#"><i class="agrikon-icon-email"></i>needhelp@company.com</a>
-                        <a href="#"><i class="agrikon-icon-clock"></i>Mon - Sat 8:00 - 6:30, Sunday - CLOSED</a>
+                    <div class="topbar__right" style="padding-right: 30px;">
+                        <a href="mailto:agrosel@agroseltarim.com"><i class="agrikon-icon-email"></i>agrosel@agroseltarim.com</a>
+                        <!-- <a href="#"><i class="agrikon-icon-clock"></i>Mon - Sat 8:00 - 6:30, Sunday - CLOSED</a> -->
                     </div><!-- /.topbar__right -->
                 </div><!-- /.container -->
             </div><!-- /.topbar -->
@@ -88,11 +87,11 @@
 
                     <div class="main-header__info">
                       
-                        <a href="tel:92-666-888-0000" class="main-header__info-phone">
+                        <a href="tel:0 (242) 313 16 26" class="main-header__info-phone">
                             <i class="agrikon-icon-phone-call"></i>
                             <span class="main-header__info-phone-content">
                                 <span class="main-header__info-phone-text">Telefon</span>
-                                <span class="main-header__info-phone-title">92 666 888 0000</span>
+                                <span class="main-header__info-phone-title">0 (242) 313 16 26</span>
                             </span>
                         </a>
                     </div>
