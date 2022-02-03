@@ -6487,8 +6487,7 @@ h6 {
     margin: 0;
     padding: 0;
     list-style: none;
-    padding-left: 20px;
-    padding-right: 20px;
+   
 }
 .service-sidebar__links ul li {
     display: block;
@@ -6514,10 +6513,9 @@ h6 {
 }
 @media (min-width: 992px) {
     .service-sidebar__links ul li a {
-        line-height: 45px;
+        line-height: 35px;
         font-size: 18px;
-        padding-left: 40px;
-        padding-right: 40px;
+        
     }
 }
 .service-sidebar__call {

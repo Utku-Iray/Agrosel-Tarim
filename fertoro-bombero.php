@@ -58,12 +58,12 @@
                 <div class="service-sidebar">
                 <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #000000;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
-                            <div id="in1" class="collapse">
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
+                            <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
-                                    <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
+                                    <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Fertoro</a></li>
                                     <div id="in2" class="collapse">
-                                        <ul>
+                                        <ul style="padding-left: 20px;">
                                             <li  style="background-color: #e3e3e3;"><a href="fertoro-bombero.php">Bombero</a></li>
                                             <li><a href="fertoro-bor10.php">Bor10</a></li>
                                             <li><a href="fertoro-caleco.php">Caleco</a></li>
@@ -76,7 +76,7 @@
                                             <li><a href="fertoro-seelife.php">Seelife</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
+                                    <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
                                             <li><a href="abt-attack-df.php">Attack DF</a></li>
@@ -84,13 +84,13 @@
                                         </ul>
 
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
+                                    <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
                                             <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
                                             <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
@@ -100,14 +100,14 @@
                                             <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
+                                    <li><a href="#in6" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">TRIBOdyn AG.</a></li>
                                     <div id="in6" class="collapse">
                                         <ul>
                                             <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
 
                                         </ul>
                                     </div>
-                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
                                             <li><a href="agxplore-calcium.php">Calcium 12%</a></li>
@@ -123,11 +123,11 @@
                                 </ul>
                             </div>
 
-                            <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #000000;font-weight:bold">HAIFA Group</a></li>
-                            <div id="in8" class="collapse">
+                            <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #ffffff;background-color:#255946;font-weight:bold">HAIFA Group</a></li>
+                            <div id="in8" class="collapse" style="padding-left:20px">
                                 <ul>
-                                    <li><a id="npk" href="#in9" data-toggle="collapse" style="font-weight:bold">Haifa NPK</a></li>
-                                    <div id="in9" class="collapse">
+                                    <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
+                                    <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
@@ -139,14 +139,14 @@
 
                                         </ul>
                                     </div>
-                                    <li><a id="micro" href="#in10" data-toggle="collapse" style="font-weight:bold">Haifa Micro</a></li>
-                                    <div id="in10" class="collapse">
+                                    <li><a id="micro" href="#in10" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa Micro</a></li>
+                                    <div id="in10" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
-                                    <div id="in11" class="collapse">
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
@@ -157,8 +157,8 @@
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="potasyum" href="#in12" data-toggle="collapse" style="font-weight:bold">Potasyum Nitrat</a></li>
-                                    <div id="in12" class="collapse">
+                                    <li><a id="potasyum" href="#in12" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Potasyum Nitrat</a></li>
+                                    <div id="in12" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li>
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
@@ -169,8 +169,8 @@
                                             <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
-                                    <div id="in13" class="collapse">
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
                                             <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
@@ -180,11 +180,11 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Damla Sulama Gübreleri</a></li>
-                            <div class="collapse" id="in14" style="font-weight:bold">
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
-                                    <li><a id="neovent" data-toggle="collapse" href="#in15" style="font-weight:bold">Neovent ACF</a></li>
-                                    <div id="in15" class="collapse">
+                                    <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
+                                    <div id="in15" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="neovent-15.5.35.php">Neovent 15.5.35 + TE</a></li>
                                             <li><a href="neovent-16.8.24.php">Neovent 16.8.24+2MgO + TE</a></li>
@@ -196,8 +196,8 @@
 
                                 </ul>
                             </div>
-                            <li><a id="product4" data-toggle="collapse" href="#in16" style="color: #000000; font-weight:bold">JR PETERS Inc.</a></li>
-                            <div id="in16" class="collapse">
+                            <li><a id="product4" data-toggle="collapse" href="#in16" style="color: #ffffff;background-color:#255946;font-weight:bold">JR PETERS Inc.</a></li>
+                            <div id="in16" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a href="jr-jacks-professional-10.52.10.php">Jack's Professional 10.52.10+ME</a></li>
                                     <li><a href="jr-jacks-professional-14.5.38.php">Jack's Professional 14.5.38+ME</a></li>
