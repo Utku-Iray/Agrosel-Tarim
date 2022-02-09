@@ -62,7 +62,7 @@
                             </ul>
                         </li> -->
                         <li class="dropdown">
-                            <a href="#">Ürünler</a>
+                            <a href="urunler.php">Ürünler</a>
                             <ul>
                                 <li><a href="terrafert-adept.php">Bitki Beslenme Ürünleri</a></li>
                                 <li><a href="haifa-npk-12.5.40.php">HAIFA Group</a></li>

@@ -66,12 +66,12 @@
                                         <ul style="padding-left: 20px;">
                                             <li ><a href="terrafert-adept.php">Adept</a></li>
                                             <li ><a href="terrafert-syngergyl.php">Synergyl</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
                                             <li><a href="terrafert-progency.php">Progency </a></li>
                                             <li><a href="terrafert-augment.php">Augment</a></li>
-                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
-                                            <li><a href="terrafert-grose-cal.php">Carbo - Cal</a></li>
-                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li  ><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
+                                            <li  ><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
@@ -245,32 +245,32 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert Liquid Alg Humus</h2>
-                <img src="assets/images/LIQUID.jpg" alt="">
+                <h2 style="margin-top: 0px;">Terrafert Grose - Mix</h2>
+                <img src="assets/images/GROSE-MiX.jpg" alt="">
                 <hr>
-                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/LIQUID-HUMUS.jpeg" alt=""></a>
+                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">
-                                <img src="assets/images/LIQUID-HUMUS.jpeg" class="img-responsive">
+                                <img src="assets/images/GROSE-MiX.jpeg" class="img-responsive">
                             </div>
                         </div>
                     </div>
                 </div>
                 <hr>
-                <a href="#myModal2"data-toggle="modal" data-target="#myModal2"><img src="assets/images/LIQUID-ALG-HUMUS-kullanim.jpg" alt=""></a>
+                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX-kullanim.jpg" alt=""></a>
 
-                <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/LIQUID-ALG-HUMUS-kullanim.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" style="max-width:1000px !important">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="assets/images/GROSE-MiX-kullanim.jpg" class="img-responsive">
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -278,11 +278,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/LIQUID-HUMUS-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> Liquid Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/CARBO CAL-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/LIQUID-HUMUS-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Liquid Tescil</span></a>
+                            <a target="_blank" href="assets/images/pdf/CARBO-CAL-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Tescil</span></a>
                         </div>
                     </div>
                 </div>

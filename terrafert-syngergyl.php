@@ -64,15 +64,15 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
-                                            <li ><a href="terrafert-adept.php">Adept</a></li>
+                                            <li><a href="terrafert-adept.php">Adept</a></li>
                                             <li style="background-color: #e3e3e3;"><a href="terrafert-syngergyl.php">Synergyl</a></li>
-                                            <li><a href="#">Liquid Alg Humus</a></li>
-                                            <li><a href="#">Progency </a></li>
-                                            <li><a href="#">Augment</a></li>
-                                            <li><a href="#">Grose - Cal</a></li>
-                                            <li><a href="#">Carbo - Cal</a></li>
-                                            <li><a href="#">Grose - Mix</a></li>
-                                            <li><a href="#">Grose - Cup</a></li>
+                                            <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li><a href="terrafert-progency.php">Progency </a></li>
+                                            <li><a href="terrafert-augment.php">Augment</a></li>
+                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
+                                            <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -247,13 +247,26 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Synergyl</h2>
                 <img src="assets/images/SYNERGYL4.jpg" alt="">
-                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/SYNERGYL.jpeg" alt=""></a>
+                <hr>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/SYNERGYL.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">
                                 <img src="assets/images/SYNERGYL.jpeg" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/SYNERGYL-kullanim.jpg" alt=""></a>
+
+                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" style="max-width:1000px !important">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="assets/images/SYNERGYL-kullanim.jpg" class="img-responsive">
                             </div>
                         </div>
                     </div>

@@ -247,13 +247,26 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Adept</h2>
                 <img src="assets/images/ADEPT4.jpg" alt="">
-                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/ADEPT.jpeg" alt=""></a>
+                <hr>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/ADEPT.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">
                                 <img src="assets/images/ADEPT.jpeg" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<hr>
+                <a href="#myModal2" data-toggle="modal" data-target="#myModal2"><img src="assets/images/ADEPT-kullanim-alani.jpg" alt=""></a>
+
+                <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" style="max-width:1000px !important">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="assets/images/ADEPT-kullanim-alani.jpg" class="img-responsive">
                             </div>
                         </div>
                     </div>

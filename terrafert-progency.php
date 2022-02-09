@@ -69,10 +69,10 @@
                                             <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
                                             <li style="background-color: #e3e3e3;"><a href="terrafert-progency.php">Progency </a></li>
                                             <li><a href="terrafert-augment.php">Augment</a></li>
-                                            <li><a href="#">Grose - Cal</a></li>
-                                            <li><a href="#">Carbo - Cal</a></li>
-                                            <li><a href="#">Grose - Mix</a></li>
-                                            <li><a href="#">Grose - Cup</a></li>
+                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
+                                            <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -247,6 +247,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Progency</h2>
                 <img src="assets/images/PROGENCY4.jpg" alt="">
+                <hr>
                 <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/PROGENCY.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
@@ -254,6 +255,18 @@
                         <div class="modal-content">
                             <div class="modal-body">
                                 <img src="assets/images/PROGENCY.jpeg" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <a href="#myModal2"data-toggle="modal" data-target="#myModal2"><img src="assets/images/PROGENCY-kullanim.jpg" alt=""></a>
+
+                <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" style="max-width:1000px !important">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="assets/images/PROGENCY-kullanim.jpg" class="img-responsive">
                             </div>
                         </div>
                     </div>

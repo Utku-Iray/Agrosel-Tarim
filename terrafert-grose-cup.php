@@ -64,15 +64,15 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
-                                            <li ><a href="terrafert-adept.php">Adept</a></li>
-                                            <li ><a href="terrafert-syngergyl.php">Synergyl</a></li>
-                                            <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li><a href="terrafert-adept.php">Adept</a></li>
+                                            <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
+                                            <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
                                             <li><a href="terrafert-progency.php">Progency </a></li>
                                             <li><a href="terrafert-augment.php">Augment</a></li>
-                                            <li  style="background-color: #e3e3e3;"><a href="terrafert-grose.php">Grose - Cal</a></li>
-                                            <li><a href="#">Carbo - Cal</a></li>
-                                            <li><a href="#">Grose - Mix</a></li>
-                                            <li><a href="#">Grose - Cup</a></li>
+                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
+                                            <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -245,15 +245,28 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert Grose - Cal</h2>
-                <img src="assets/images/GROSE-CAL4.jpg" alt="">
-                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-CAL.jpeg" alt=""></a>
+                <h2 style="margin-top: 0px;">Terrafert Grose - Cup</h2>
+                <img src="assets/images/GROSE-CUP.jpg" alt="">
+                <hr>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-CUP.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">
-                                <img src="assets/images/GROSE-CAL.jpeg" class="img-responsive">
+                                <img src="assets/images/GROSE-CUP.jpeg" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <a href="#myModal2" data-toggle="modal" data-target="#myModal2"><img src="assets/images/GROSE-CUP-kullanim.jpg" alt=""></a>
+
+                <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" style="max-width:1000px !important">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="assets/images//GROSE-CUP-kullanim.jpg" class="img-responsive">
                             </div>
                         </div>
                     </div>
@@ -261,15 +274,16 @@
 
 
 
+
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-CAL-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cal Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/GROSE-CUP-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-CAL-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cal Tescil</span></a>
+                            <a target="_blank" href="assets/images/pdf/GROSE-CUP-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Tescil</span></a>
                         </div>
                     </div>
                 </div>

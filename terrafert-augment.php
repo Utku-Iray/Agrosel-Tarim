@@ -69,7 +69,7 @@
                                             <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
                                             <li ><a href="terrafert-progency.php">Progency </a></li>
                                             <li style="background-color: #e3e3e3;"><a href="terrafert-augment.php">Augment</a></li>
-                                            <li><a href="terrafert-grose.php">Grose - Cal</a></li>
+                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="#">Carbo - Cal</a></li>
                                             <li><a href="#">Grose - Mix</a></li>
                                             <li><a href="#">Grose - Cup</a></li>
