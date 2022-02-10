@@ -53,21 +53,21 @@
 <section class="service-one" style="background-color: white; padding-top:10px;position:initial">
     <div class="container">
         <div class="row">
-            <a href="terrafert-adept.php">
+            <a href="bitki-besleme-urunleri.php">
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
                     <div class="service-one__box">
 
                         <img width="100%" style="border-radius: 5px;" src="assets/images/service-1-3.jpg" alt="">
 
                         <div class="service-one__box-content">
-                            <h3><a href="fertoro-bombero.php">Bitki Beslenme Ürünleri</a></h3>
+                            <h3><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>
                     <!-- /.service-one__box -->
                 </div>
             </a>
-            <a href="#">
+            <a href="damla-sulama-gubreleri.php">
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
                     <div class="service-one__box">
                         <img width="100%" style="border-radius: 5px;" src="assets/images/damla.jpg" alt="">
@@ -92,7 +92,7 @@
                     <!-- /.service-one__box -->
                 </div>
             </a>
-            <a href="">
+            <a href="#">
             <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
                 <div class="service-one__box">
                     <img src="assets/images/foto3.jpg" alt="">
