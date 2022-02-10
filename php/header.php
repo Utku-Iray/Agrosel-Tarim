@@ -64,9 +64,9 @@
                         <li class="dropdown">
                             <a href="urunler.php">Ürünler</a>
                             <ul>
-                                <li><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></li>
-                                <li><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></li>
+                                <li><a href="terrafert-adept.php">Bitki Beslenme Ürünleri</a></li>
                                 <li><a href="haifa-npk-12.5.40.php">HAIFA Group</a></li>
+                                <li><a href="neovent-15.5.35.php">Damla Sulama Gübreleri</a></li>
                                 <li><a href="jr-jacks-professional-10.52.10.php">Jack's Professional</a></li>
                             </ul>
                         </li>
@@ -87,11 +87,11 @@
 
                     <div class="main-header__info">
                       
-                        <a href="assets/images/pdf/AGROSEL-uRuN-KATALOgU.pdf" target="_blank" class="main-header__info-phone">
-                           <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
+                        <a href="tel:0 (242) 313 16 26" class="main-header__info-phone">
+                            <i class="agrikon-icon-phone-call"></i>
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">PDF</span>
-                                <span class="main-header__info-phone-title">Ürün Kataloğu</span>
+                                <span class="main-header__info-phone-text">Telefon</span>
+                                <span class="main-header__info-phone-title">0 (242) 313 16 26</span>
                             </span>
                         </a>
                     </div>
