@@ -56,27 +56,26 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                <div class="service-sidebar__links">
+                    <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #000000;font-weight:bold">Bitki Beslenme Ürünleri</a></li>
-                            <div id="in1" class="collapse">
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
-                                    <li><a id="fertoro" href="#in2" data-toggle="collapse" style="font-weight:bold">Fertoro</a></li>
+                                    <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
-                                        <ul>
-                                            <li><a href="fertoro-bombero.php">Bombero</a></li>
-                                            <li><a href="fertoro-bor10.php">Bor10</a></li>
-                                            <li><a href="fertoro-caleco.php">Caleco</a></li>
-                                            <li><a href="fertoro-chinco.php">Chinco</a></li>
-                                            <li><a href="fertoro-khank.php">Khan-K</a></li>
-                                            <li><a href="fertoro-maestro.php">Maestro</a></li>
-                                            <li><a href="#">MZFe Plus</a></li>
-                                            <li><a href="fertoro-nitrogenyo-n.php">Nitrogenyo-N</a></li>
-                                            <li><a href="fertoro-porto.php">Porto-P</a></li>
-                                            <li><a href="fertoro-seelife.php">Seelife</a></li>
+                                        <ul style="padding-left: 20px;">
+                                            <li><a href="terrafert-adept.php">Adept</a></li>
+                                            <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
+                                            <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li><a href="terrafert-progency.php">Progency </a></li>
+                                            <li><a href="terrafert-augment.php">Augment</a></li>
+                                            <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
+                                            <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in3" data-toggle="collapse" style="font-weight:bold">ABT Inc.</a></li>
+                                    <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
                                     <div id="in3" class="collapse">
                                         <ul>
                                             <li><a href="abt-attack-df.php">Attack DF</a></li>
@@ -84,13 +83,13 @@
                                         </ul>
 
                                     </div>
-                                    <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
+                                    <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
                                             <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
+                                    <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
                                     <div id="in5" class="collapse">
                                         <ul>
                                             <li> <a href="dabeer-dabquel.php">Dabquel Mix</a></li>
@@ -100,14 +99,14 @@
                                             <li> <a href="dabeer-torofer.php">Torofer %6 Fe</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in6" data-toggle="collapse" style="font-weight:bold">TRIBOdyn AG.</a></li>
+                                    <li><a href="#in6" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">TRIBOdyn AG.</a></li>
                                     <div id="in6" class="collapse">
                                         <ul>
-                                            <li  style="background-color: #e3e3e3;"><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
+                                            <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
 
                                         </ul>
                                     </div>
-                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="font-weight:bold">AgXplore Inc.</a></li>
+                                    <li><a id="ag" data-toggle="collapse" href="#in7" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">AgXplore Inc.</a></li>
                                     <div id="in7" class="collapse">
                                         <ul>
                                             <li><a href="agxplore-calcium.php">Calcium 12%</a></li>
@@ -119,15 +118,40 @@
                                             <li><a href="agxplore-valupak.php">Valupak</a></li>
 
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </ul>
                             </div>
-
-                            <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #000000;font-weight:bold">HAIFA Group</a></li>
-                            <div id="in8" class="collapse">
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
-                                    <li><a id="npk" href="#in9" data-toggle="collapse" style="font-weight:bold">Haifa NPK</a></li>
-                                    <div id="in9" class="collapse">
+                                    <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
+                                    <div id="in3" class="collapse" style="padding-left: 20px;">
+                                        <ul>
+                                            <li><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
+                                            <li><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
+                                            <li><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
+                                            <li><a href="terrafert-acf-15-30-15.php">15-30-15 + TE</a></li>
+                                            <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
+                                        </ul>
+                                    </div>
+                                    <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
+                                    <div id="in15" class="collapse" style="padding-left: 20px;">
+                                        <ul>
+                                            <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
+                                            <li><a href="neovent-acf-16-8-24.php">16.8.24+2MgO + TE</a></li>
+                                            <li><a href="neovent-acf-18-18-18.php">18.18.18 + TE</a></li>
+                                            <li><a href="neovent-acf-19-6-20.php">19.6.20+2MgO + TE</a></li>
+                                            <li><a href="neovent-acf-20-10-20.php">20.10.20 + TE</a></li>
+                                        </ul>
+                                    </div>
+
+                                </ul>
+                            </div>
+                            <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #ffffff;background-color:#255946;font-weight:bold">HAIFA Group</a></li>
+                            <div id="in8" class="collapse" style="padding-left:20px">
+                                <ul>
+                                    <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
+                                    <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
@@ -139,14 +163,14 @@
 
                                         </ul>
                                     </div>
-                                    <li><a id="micro" href="#in10" data-toggle="collapse" style="font-weight:bold">Haifa Micro</a></li>
-                                    <div id="in10" class="collapse">
+                                    <!-- <li><a id="micro" href="#in10" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa Micro</a></li>
+                                    <div id="in10" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
-                                    </div>
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
-                                    <div id="in11" class="collapse">
+                                    </div> -->
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
@@ -155,10 +179,18 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li>
+                                            <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li>
+                                            <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
+                                            <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="potasyum" href="#in12" data-toggle="collapse" style="font-weight:bold">Potasyum Nitrat</a></li>
-                                    <div id="in12" class="collapse">
+                                    <!-- <li><a id="potasyum" href="#in12" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Potasyum Nitrat</a></li>
+                                    <div id="in12" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li>
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
@@ -168,9 +200,9 @@
                                             <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li>
                                             <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
                                         </ul>
-                                    </div>
-                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
-                                    <div id="in13" class="collapse">
+                                    </div> -->
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
                                             <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
@@ -180,24 +212,9 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Damla Sulama Gübreleri</a></li>
-                            <div class="collapse" id="in14" style="font-weight:bold">
-                                <ul>
-                                    <li><a id="neovent" data-toggle="collapse" href="#in15" style="font-weight:bold">Neovent ACF</a></li>
-                                    <div id="in15" class="collapse">
-                                        <ul>
-                                            <li><a href="neovent-15.5.35.php">Neovent 15.5.35 + TE</a></li>
-                                            <li><a href="neovent-16.8.24.php">Neovent 16.8.24+2MgO + TE</a></li>
-                                            <li><a href="neovent-18.18.18.php">Neovent 18.18.18 + TE</a></li>
-                                            <li><a href="neovent-19.6.20.php">Neovent 19.6.20+2MgO + TE</a></li>
-                                            <li><a href="neovent-20.10.20.php">Neovent 20.10.20 + TE</a></li>
-                                        </ul>
-                                    </div>
 
-                                </ul>
-                            </div>
-                            <li><a id="product4" data-toggle="collapse" href="#in16" style="color: #000000; font-weight:bold">JR PETERS Inc.</a></li>
-                            <div id="in16" class="collapse">
+                            <li><a id="product4" data-toggle="collapse" href="#in16" style="color: #ffffff;background-color:#255946;font-weight:bold">JR PETERS Inc.</a></li>
+                            <div id="in16" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a href="jr-jacks-professional-10.52.10.php">Jack's Professional 10.52.10+ME</a></li>
                                     <li><a href="jr-jacks-professional-14.5.38.php">Jack's Professional 14.5.38+ME</a></li>
@@ -207,100 +224,104 @@
                                     <li><a href="jr-jacks-professional-20.20.20.php">Jack's Professional 20.20.20+ME</a></li>
                                     <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
                                     <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
+                                    <li style="background-color: #e3e3e3;"><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
+                                    <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
                                 </ul>
                             </div>
 
                         </ul>
                     </div>
-                <!-- /.service-sidebar -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Lithovit CO2</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
-                <h3 style="margin-top: 20px;">Yapraktan Uygulamalar İçin Doğal CO2 Kaynağı</h3>
-                <h5>NATURAL CO2 SOURCE FOR FOLIAR APPLICATIONS</h5>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                    <!-- /.service-sidebar -->
+                    </div></div><!-- /.col-lg-4 -->
+                <div class="col-lg-8">
+                    <h2 style="margin-top: 0px;">Lithovit CO2</h2>
+                    <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                    <h3 style="margin-top: 20px;">Yapraktan Uygulamalar İçin Doğal CO2 Kaynağı</h3>
+                    <h5>NATURAL CO2 SOURCE FOR FOLIAR APPLICATIONS</h5>
+                    <table class="table" style="margin-top: 20px;">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">#</th>
+                                <th scope="col">Garanti Edilen İçerik</th>
 
-                            <th scope="col"> %w/w</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>Toplam Kalsiyum Karbonat (CaCO3)</td>
-                            <td>% 72</td>
+                                <th scope="col"> %w/w</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">1</th>
+                                <td>Toplam Kalsiyum Karbonat (CaCO3)</td>
+                                <td>% 72</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Toplam Magnezyum Karbonat (MgCO3)</td>
-                            <td> 	% 7</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">2</th>
+                                <td>Toplam Magnezyum Karbonat (MgCO3)</td>
+                                <td> % 7</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Maksimum Nem</td>
-                            <td> 	% 0,3</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Maksimum Nem</td>
+                                <td> % 0,3</td>
 
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>Tane Büyüklüğü</td>
-                            <td> < 25µm</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>Tane Büyüklüğü</td>
+                                <td>
+                                    < 25µm</td>
 
-                        </tr>   <tr>
-                            <th scope="row">3</th>
-                            <td>pH</td>
-                            <td>	8-10</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">3</th>
+                                <td>pH</td>
+                                <td> 8-10</td>
 
-                        </tr>
-
-
-                    </tbody>
-                </table>
-
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Lithovit  Doğal CO2  yaprak gübresi açık ve kapalı alanlarda etkin olarak başarıyla kullanılabilir. Kalsiyum Karbonat, çok sayıda mikro besin elementi ile desteklenmektedir.   Lithovit parçacıkları bitki stomaları yoluyla emilimi doğrudan yapılabilecek kadar küçüktür. [tanecik çapları 200 nanometre(0,0002 mm) ve 10 mikron(0,01 mm) arasında] 
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Yapraklarda hücre boşlukları arasında Lithovit parçacıkları CO2 ve diğer mikro elementleri  serbest bırakarak aktif hale geçmesini sağlar.
-                        </li>
-
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            Normal havanın CO2 içeriği %0.04(onbinde dört) vol.dır. Bu da düşük CO2 miktarı anlamına gelir. Düşük CO2 den ençok kültür bitkileri etkilenir ve optimum miktarda fotosentez yapamaz. Sıcaklık koşullarının olumlu olduğunu ve ortamda yeterli besin maddelerinin ve suyun bulunduğunu kabul etsek dahi maksimum fotosentez seviyesi havada CO2 miktarının %0.1 (binde bir) vol. olması halinde gerçekleşir. Doğal CO2 gübresi Lithovit, kullanımı bitkilerde fotosentez performansını arttırır ve buna ek olarak Lithovit  içerdiği mikro besin elementleriyle bu etkisini daha da güçlü hale getirir. Lithovit, bitkilerde net bir iyileştirme performansı gösterir. Birçok bitkide bu özellikler daha hızlı büyüme, daha yüksek verim ve bir çok durumda düşük su ihtiyacı, ayrıca genel bir canlılık olarak kendini göstermektedir. Buna ek olarak bitkilerde mantar hastalıklarına karşı (yapraklarda pas, mildiyö, meyve çürüklüğü gibi) direncin arttığı, duyarlılığın azaldığı bilimsel olarak tespit edilmiştir.
-                        </li>
-                     
-                    
-                  
+                            </tr>
 
 
-                    </ul><!-- /.list-unstyled -->
-                </div>
-          
-            
+                        </tbody>
+                    </table>
+
+                    <div>
+                        <ul class="list-unstyled service-details__list-2">
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                Lithovit Doğal CO2 yaprak gübresi açık ve kapalı alanlarda etkin olarak başarıyla kullanılabilir. Kalsiyum Karbonat, çok sayıda mikro besin elementi ile desteklenmektedir. Lithovit parçacıkları bitki stomaları yoluyla emilimi doğrudan yapılabilecek kadar küçüktür. [tanecik çapları 200 nanometre(0,0002 mm) ve 10 mikron(0,01 mm) arasında]
+                            </li>
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                Yapraklarda hücre boşlukları arasında Lithovit parçacıkları CO2 ve diğer mikro elementleri serbest bırakarak aktif hale geçmesini sağlar.
+                            </li>
+
+                            <li>
+                                <i class="fa fa-check-circle"></i>
+                                Normal havanın CO2 içeriği %0.04(onbinde dört) vol.dır. Bu da düşük CO2 miktarı anlamına gelir. Düşük CO2 den ençok kültür bitkileri etkilenir ve optimum miktarda fotosentez yapamaz. Sıcaklık koşullarının olumlu olduğunu ve ortamda yeterli besin maddelerinin ve suyun bulunduğunu kabul etsek dahi maksimum fotosentez seviyesi havada CO2 miktarının %0.1 (binde bir) vol. olması halinde gerçekleşir. Doğal CO2 gübresi Lithovit, kullanımı bitkilerde fotosentez performansını arttırır ve buna ek olarak Lithovit içerdiği mikro besin elementleriyle bu etkisini daha da güçlü hale getirir. Lithovit, bitkilerde net bir iyileştirme performansı gösterir. Birçok bitkide bu özellikler daha hızlı büyüme, daha yüksek verim ve bir çok durumda düşük su ihtiyacı, ayrıca genel bir canlılık olarak kendini göstermektedir. Buna ek olarak bitkilerde mantar hastalıklarına karşı (yapraklarda pas, mildiyö, meyve çürüklüğü gibi) direncin arttığı, duyarlılığın azaldığı bilimsel olarak tespit edilmiştir.
+                            </li>
 
 
 
 
 
+                        </ul><!-- /.list-unstyled -->
+                    </div>
 
-            </div><!-- /.col-lg-8 -->
-        </div><!-- /.row -->
-    </div><!-- /.container -->
+
+
+
+
+
+
+
+                </div><!-- /.col-lg-8 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
 </section><!-- /.service-details -->
 
 <script>
     window.onload = function() {
-        document.getElementById("product").click();
+        document.getElementById("product4").click();
         document.getElementById("tribo").click();
     };
 </script>

@@ -2651,7 +2651,7 @@ h6 {
     align-items: flex-start;
     background-color: var(--thm-primary);
     border-radius: 5px;
-    padding: 18px 17px;
+    padding: 10px 16px;
     -webkit-transition: all 500ms ease;
     transition: all 500ms ease;
 }
@@ -6487,7 +6487,6 @@ h6 {
     margin: 0;
     padding: 0;
     list-style: none;
-   
 }
 .service-sidebar__links ul li {
     display: block;
@@ -6515,7 +6514,6 @@ h6 {
     .service-sidebar__links ul li a {
         line-height: 35px;
         font-size: 18px;
-        
     }
 }
 .service-sidebar__call {
