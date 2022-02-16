@@ -44,9 +44,9 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Ürünler</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Ürünler</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 

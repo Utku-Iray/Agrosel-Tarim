@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa MAP</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Haifa-cal-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Mono Amonyum Fosfat (12-61-0)"</h3>
                 <p>Haifa MAPTM, tüm mahsüller için NutrigationTM ve yapraktan besleme uygulamalarına yönelik suda tamamen çözünebilir bir gübredir. Haifa MAPTM' nin, fosfor mevcudiyetinin kök sistemlerinin oluşturulması için son derece önemli olduğu büyüme mevsiminin başlangıcında kullanılması önerilmektedir. Haifa MAPTM büyüme döngüsü boyunca mahsulün beslenme ihtiyaçlarını karşılamak için diğer gübrelerle birlikte tankta karıştırılabilir*. Haifa MAPTM, gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için uygun bir üründür.</p>
 

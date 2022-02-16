@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Haifa-Turbo-K-14-14-17-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Haifa Turbo-KTM 14.14.17+ME+S+Fe,Zn" </h3>
                 <h5>"Potasyum Nitrat ile Oluşturulan Karışım NPK Gübresi"</h5>
                 <h5>"MAKSİMUM VERİM VE GÜÇLÜ BİTKİ"</h5>
@@ -355,11 +355,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/turbo-k-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Turbo-K Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Turbo-K Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/turbo-k-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Turbo-K Tescil</span></a>
+                            <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Turbo-K Tescil</span></a>
                         </div>
                     </div>
                 </div>

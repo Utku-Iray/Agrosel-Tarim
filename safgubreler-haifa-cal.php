@@ -252,7 +252,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa Cal</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Haifa-cal-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Kalsiyum Nitrat (15.5-0-0+26.5CaO)"</h3>
                 <p>Haifa CalTM, bitkileri için yüksek verimliliğe sahip bir Kalsiyum ve Azot kaynağıdır. Kalsiyum, ürünlerin kalitesini iyileştiren ve raf ömrünü uzatan "kaliteli bir besin elementidir". Kalsiyum, bitki içinde hareketli olmadığından, bitki dokularında yeterli düzeyde tutmak ve uygun gelişmeyi sağlamak için büyüme sezonu boyunca sürekli uygulanmalıdır. Haifa CalTM' daki Nitrat Azotu bitki tarafından kolayca emilir ve Kalsiyum alımının verimliliğini arttırır.</p>
                

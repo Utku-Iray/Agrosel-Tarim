@@ -44,9 +44,9 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Ürünler</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Ürünler</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -56,8 +56,8 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                <div class="service-sidebar__links">
-                <ul>
+                    <div class="service-sidebar__links">
+                        <ul>
                             <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
@@ -153,7 +153,7 @@
                                     <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
                                     <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-16.8.24.php">Multifeed 16.8.24+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-18.18.18.php">Multifeed 18.18.18+2MgO+ME</a></li>
@@ -172,7 +172,7 @@
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="safgubreler-bittermag.php">BitterMag</a></li>
+                                            <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
                                             <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
@@ -241,107 +241,88 @@
                            
                     </div> -->
                     <!-- /.service-sidebar__call -->
-               
+
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">BitterMag</h2>
-                <img src="assets/images/BitterMag-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Magnezyum Sülfat"</h3>
-                <p>Haifa BitterMagTM uygulaması için suda çözünür, kristalize bir Magnezyum Sülfat gübresidir. Haifa BitterMagTM, gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için uygundur. Magnezyumun gerektiği ve Azot gübrelemesinden kaçınılması gereken durumlarda önerilmektedir.</p>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
-
-                            <th scope="col"> %w/w</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>MgO</td>
-                            <td>% 16,0</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Mg</td>
-                            <td>% 9.7</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>SO3</td>
-                            <td>% 32</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>S</td>
-                            <td>% 12,8</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
-                            <td>% 7</td>
-
-                        </tr>
-
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>pH (% 5 çözelti)</td>
-                            <td>	6,5</td>
-
-                        </tr>
-
-                       
-                      
-
-
-
-                    </tbody>
-                </table>
-
-              
-
-
-
-               
-
-
-                <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">25 kg</span>
-                        </li>
-                  
-
-
-
-
-
-
-                    </ul><!-- /.list-unstyled -->
+                <div style="text-align: center;">
+                    <h2 style="margin-top: 0px;">JR Peters Inc.</h2>
                 </div>
+                <div>
 
-                <hr>
-                <div class="container" style="margin-top: 30px;">
+                    <hr>
                     <div class="row">
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/bittermag-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">BitterMag Etiket</span> </a>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-18-18-18.php">
+                                <img src="assets/images/181818.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 10.52.10+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-16-8-24.php">
+                                <img src="assets/images/16824.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 14.5.38+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-20-10-20.php">
+                                <img src="assets/images/201020.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 15.5.15+Ca+Mg</h5>
+                            </a>
                         </div>
 
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/bittermag-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">BitterMag Tescil</span></a>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-15-30-15.php">
+                                <img src="assets/images/153015.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 17.5.24+Mg</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 20.10.20+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 20.20.20+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional 25.5.15+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Jack's Professional MOST</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Lithovit CO2</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-10-5-4.php">
+                                <img src="assets/images/10540.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">CHI-Liquid Humus 24</h5>
+                            </a>
                         </div>
                     </div>
+
+
+
                 </div>
+
+
+
+
+
 
 
 
@@ -354,8 +335,8 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product2").click();
-        document.getElementById("saf").click();
+        document.getElementById("product4").click();
+
     };
 </script>
 

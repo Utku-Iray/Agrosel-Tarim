@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa MKP</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/MKP-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Mono Potasyum Fosfat (0-52-34)"</h3>
                 <p>Haifa MKPTM, bitkiler için yüksek verimliliğe sahip bir Fosfor ve Potasyum kaynağıdır. NutrigationTM ve yapraktan uygulama için uygun olan Haifa MKPTM nin, Fosfor mevcudiyetinin kök sistemlerinin oluşması için son derece önemli olan büyüme mevsiminin başlangıcında kullanılması önerilmektedir. Haifa MKPTM büyüme döngüsü boyunca mahsulün beslenme ihtiyaçlarını karşılamak için diğer gübrelerle birlikte tankta karıştırılabilir. Haifa MKPTM gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için ideal bir üründür.</p>
 

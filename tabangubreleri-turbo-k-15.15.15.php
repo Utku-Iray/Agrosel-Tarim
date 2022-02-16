@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa Turbo-K 15.15.15+2MgO+20SO3+ME</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Haifa Turbo-KTM 15.15.15+2MgO+20SO3+ME"  </h3>
                 <h5>"Potasyum Nitrat ile Oluşturulan Karışım NPK Gübresi"</h5>
                 <h5>"MAKSİMUM VERİM VE GÜÇLÜ BİTKİ"</h5>

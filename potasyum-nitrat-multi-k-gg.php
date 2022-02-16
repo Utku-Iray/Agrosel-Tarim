@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Multi-K GG</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Multi-k-GG-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Multi-K TM GG"</h3>
                 <h5>"Potassium Nitrate Greenhouse Grade"</h5>
                 <h5>"13.5-0-46.2 Potasyum Nitrat, % 100 water soluble, NK gübresi"</h5>

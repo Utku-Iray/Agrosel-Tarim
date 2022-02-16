@@ -44,9 +44,9 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Ürünler</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Ürünler</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -56,8 +56,8 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                <div class="service-sidebar__links">
-                <ul>
+                    <div class="service-sidebar__links">
+                        <ul>
                             <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
@@ -153,7 +153,7 @@
                                     <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
                                     <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-16.8.24.php">Multifeed 16.8.24+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-18.18.18.php">Multifeed 18.18.18+2MgO+ME</a></li>
@@ -172,7 +172,7 @@
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="safgubreler-bittermag.php">BitterMag</a></li>
+                                            <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
                                             <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
@@ -201,7 +201,7 @@
                                             <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
                                         </ul>
                                     </div> -->
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a id="taban" href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -241,107 +241,195 @@
                            
                     </div> -->
                     <!-- /.service-sidebar__call -->
-               
+
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">BitterMag</h2>
-                <img src="assets/images/BitterMag-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Magnezyum Sülfat"</h3>
-                <p>Haifa BitterMagTM uygulaması için suda çözünür, kristalize bir Magnezyum Sülfat gübresidir. Haifa BitterMagTM, gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için uygundur. Magnezyumun gerektiği ve Azot gübrelemesinden kaçınılması gereken durumlarda önerilmektedir.</p>
-                <table class="table" style="margin-top: 20px;">
-                    <thead class="thead-dark">
-                        <tr>
-                            <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
-
-                            <th scope="col"> %w/w</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">1</th>
-                            <td>MgO</td>
-                            <td>% 16,0</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">2</th>
-                            <td>Mg</td>
-                            <td>% 9.7</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">3</th>
-                            <td>SO3</td>
-                            <td>% 32</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">4</th>
-                            <td>S</td>
-                            <td>% 12,8</td>
-
-                        </tr>
-                        <tr>
-                            <th scope="row">5</th>
-                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
-                            <td>% 7</td>
-
-                        </tr>
-
-                        <tr>
-                            <th scope="row">6</th>
-                            <td>pH (% 5 çözelti)</td>
-                            <td>	6,5</td>
-
-                        </tr>
-
-                       
-                      
-
-
-
-                    </tbody>
-                </table>
-
-              
-
-
-
-               
-
-
-                <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div style="text-align: center;">
+            <h2 style="margin-top: 0px;">Haifa Group</h2>
+            </div>
                 <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">25 kg</span>
-                        </li>
-                  
-
-
-
-
-
-
-                    </ul><!-- /.list-unstyled -->
-                </div>
-
-                <hr>
-                <div class="container" style="margin-top: 30px;">
+                    <div>
+                        <h4 style="margin-top: 0px;">Haifa ACF</h4>
+                    </div>
+                    <hr>
                     <div class="row">
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/bittermag-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">BitterMag Etiket</span> </a>
+                        <div class="col-md-4">
+                            <a href="haifa-npk-12.5.40.php">
+                                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">12.5.40+2MgO+ME</h5>
+                            </a>
                         </div>
+                        <div class="col-md-4">
+                            <a href="haifa-npk-15.30.15.php">
+                                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">15.30.15+2MgO+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="haifa-npk-16.8.24.php">
+                                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">16.8.24+2MgO+ME</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="haifa-npk-18.18.18.php">
+                                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">18.18.18+2MgO+ME</h5>
+                            </a>
+                        </div>
+                        
+                            <div class="col-md-4">
+                                <a href="haifa-npk-18.9.27.php">
+                                    <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">18.9.27+2MgO+ME</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="haifa-npk-20.20.20.php">
+                                    <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">20.20.20+ME</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="haifa-npk-23.7.23.php">
+                                    <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">23.7.23+2MgO+ME</h5>
+                                </a>
+                            </div>
+                    
 
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/bittermag-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">BitterMag Tescil</span></a>
-                        </div>
+
                     </div>
                 </div>
+                <div style="margin-top: 50px;">
+                    <div >
+                        <h4 style="margin-top: 0px;">Saf Gübreler</h4>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <a href="safgubreler-bittermag.php">
+                                <img src="assets/images/BitterMag-kapak.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">BitterMag</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="safgubreler-haifa-cal.php">
+                                <img src="assets/images/Haifa-cal-kapak.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Multi Cal</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="safgubreler-haifa-map.php">
+                                <img src="assets/images/MAP-kapak.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Haifa Map</h5>
+                            </a>
+                        </div>
+                        
+                            <div class="col-md-4">
+                                <a href="safgubreler-haifa-mkp.php">
+                                    <img src="assets/images/MKP-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Haifa MKP</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="safgubreler-haifa-sop.php">
+                                    <img src="assets/images/Haifa-sop-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Haifa SOP</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="safgubreler-haifa-up.php">
+                                    <img src="assets/images/Haifa-UP-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Haifa UP</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="safgubreler-magnisal.php">
+                                    <img src="assets/images/Magnisal-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Magnisal</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-classic.php">
+                                    <img src="assets/images/Multi-k-GG-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K Classic</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-gg.php">
+                                    <img src="assets/images/Multi-k-GG-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K GG</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-gg.php">
+                                    <img src="assets/images/Multi-k-GG-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K MG 12.0.43+'MgO</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-phast.php">
+                                    <img src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K pHast</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-s-12.0.46.php">
+                                    <img src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K S 12.0.46+4SO3</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-k-zn-12.0.43.php">
+                                    <img src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-K Zn 12.0.43+2Zn</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="potasyum-nitrat-multi-npk.php">
+                                    <img src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Multi-npK 13.5.42</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="edha.ç">
+                                    <img src="assets/images/Kfer-kapak.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">Kfer % 6 EDDHA (H.M.FE)</h5>
+                                </a>
+                            </div>
+
+                    </div>
+                </div>
+
+                <div>
+                    <div>
+                        <h4 style="margin-top:50px;">Taban Gübreleri</h4>
+                    </div>
+                    <hr>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <a href="tabangubreleri-turbo-k-14.14.17.php">
+                                <img src="assets/images/Haifa-Turbo-K-14-14-17-kapak.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">14.14.17+ME+S+Fe,Zn</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="tabangubreleri-turbo-k-15.15.15.php">
+                                <img src="assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">Haifa Turbo-K 15.15.15</h5>
+                            </a>
+                        </div>
+                   
+                    
+
+
+                    </div>
+                </div>
+
+
+
 
 
 
@@ -355,7 +443,9 @@
 <script>
     window.onload = function() {
         document.getElementById("product2").click();
+        document.getElementById("npk").click();
         document.getElementById("saf").click();
+        document.getElementById("taban").click();
     };
 </script>
 

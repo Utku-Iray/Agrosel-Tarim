@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">"Multifeed 12.5.40+2MgO+ME" by Haifa Group</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -424,11 +424,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 10-5-4 0 + TE Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">  12.5.40 + TE Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/muti-12.5.40-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 10-5-4 0 + TE Tescil</span></a>
+                            <a target="_blank" href="assets/images/pdf/muti-12.5.40-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">  12.5.40 + TE Tescil</span></a>
                         </div>
                     </div>
                 </div>

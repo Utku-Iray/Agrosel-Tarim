@@ -5899,7 +5899,7 @@ h6 {
 --------------------------------------------------------------*/
 .service-one {
     background-color: var(--thm-primary);
-    padding-top: 80px;
+    padding-top: 30px;
     padding-bottom: 50px;
     position: relative;
 }
@@ -5930,7 +5930,7 @@ h6 {
 }
 @media (min-width: 1200px) {
     .service-one {
-        padding-top: 120px;
+        padding-top: 30px;
     }
 }
 .service-one__box {

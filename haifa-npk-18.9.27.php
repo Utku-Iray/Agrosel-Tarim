@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Multifeed 18.9.27+2MgO+ME</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
                 <h3 style="margin-top: 20px;">"Multifeed 18.9.27+2MgO+ME" by Haifa Group</h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">

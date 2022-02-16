@@ -1,7 +1,8 @@
 <body>
-    <div class="preloader">
+    <!-- <div class="preloader">
         <img class="preloader__image" width="55" src="assets/images/loader.png" alt="">
-    </div><!-- /.preloader -->
+    </div> -->
+    <!-- /.preloader -->
     <div class="page-wrapper">
 
         <header class="main-header">
@@ -66,8 +67,8 @@
                             <ul>
                                 <li><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></li>
                                 <li><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></li>
-                                <li><a href="haifa-npk-12.5.40.php">HAIFA Group</a></li>
-                                <li><a href="jr-jacks-professional-10.52.10.php">Jack's Professional</a></li>
+                                <li><a href="haifa-group.php">HAIFA Group</a></li>
+                                <li><a href="jr-peters-inc.php">Jack's Professional</a></li>
                             </ul>
                         </li>
                         <!-- <li class="dropdown"><a href="blog.html">Haberler</a>

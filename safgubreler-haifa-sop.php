@@ -246,7 +246,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa SOP</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/Haifa-sop-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Potasyum Sülfat"</h3>
                 <p>Haifa SOPTM, toprak pH değerinin düşürülmesi gerektiği, Sülfüre ihtiyaç duyulan veya N uygulama sıklıklarının sınırlandırılması gerektiği (örneğin sezon sonunda) durumlarda önerilen bir potasyum kaynağıdır. Haifa SOPTM çözünür sınıf, tüm mahsüllerin NutrigationTM ve yapraktan beslenme uygulamaları ve sıvı gübrelerin üretimi için önerilir. Haifa SOPTM tarım sınıfı, doğrudan toprak uygulamaları ve gübre karışımlarının hazırlanması için önerilir.</p>
 
