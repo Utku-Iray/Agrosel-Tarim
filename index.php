@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anasayfa One || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers">
+    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -53,7 +53,7 @@
             "prevEl": "#main-slider__swiper-button-prev"
         }
     }'>
-        <div class="swiper-wrapper">
+        <div class="swiper-wrapper" style="height:700px">
             <div class="swiper-slide">
                 <div class="image-layer" style="background-image: url(assets/images/slider2.jpg);">
                 </div>
@@ -118,7 +118,7 @@
                 <div class="service-one__box">
                     <img src="assets/images/service-1-3.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="fertoro-bombero.php">Bitki Beslenme Ürünleri</a></h3>
+                        <h3><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -128,7 +128,7 @@
                 <div class="service-one__box">
                     <img src="assets/images/damla.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="neovent-15.5.35.php">Damla Sulama Gübreleri</a></h3>
+                        <h3><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -139,7 +139,7 @@
                 <div class="service-one__box">
                     <img src="assets/images/multi.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="haifa-npk-12.5.40.php">HAIFA Ürünleri</a></h3>
+                        <h3><a href="haifa-group.php">HAIFA Ürünleri</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -149,7 +149,7 @@
                 <div class="service-one__box">
                     <img src="assets/images/foto3.jfif" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="jr-jacks-professional-10.52.10.php">Jakc's Professional</a></h3>
+                        <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -255,14 +255,14 @@
             <div class="block-title__image"></div>
             <!-- /.block-title__image -->
             <p>Bitki Beslenme Ürünleri</p>
-            <h3>Fertoro</h3>
+            <h3>Terrafert</h3>
         </div>
         <!-- /.block-title -->
         <div class="row">
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/fertoro1.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/ADEPT4.jpg" alt="">
                     </div>
 
                     <!-- <div class="service-two__card-content">
@@ -281,7 +281,7 @@
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/fertoro2.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/SYNERGYL4.jpg" alt="">
                     </div>
                     <!-- /.service-two__card-image -->
                     <!-- <div class="service-two__card-content">
@@ -301,7 +301,7 @@
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/fertoro3.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/LIQUID.jpg" alt="">
                     </div>
                     <!-- /.service-two__card-image -->
                     <!-- <div class="service-two__card-content">
@@ -321,7 +321,7 @@
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/fertoro4.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/PROGENCY4.jpg" alt="">
                     </div>
                     <!-- /.service-two__card-image -->
                     <!-- <div class="service-two__card-content">
@@ -792,7 +792,7 @@
 
 
 
-<div class="client-carousel client-carousel__has-border-top">
+<!-- <div class="client-carousel client-carousel__has-border-top">
     <div class="container">
         <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 140, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
                 "0": {
@@ -824,40 +824,34 @@
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+            
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <img src="assets/images/ref5.jpeg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+          
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
-
-                <!-- /.swiper-slide -->
-
-                <!-- /.swiper-slide -->
-
-                <!-- /.swiper-slide -->
+           
             </div>
-            <!-- /.swiper-wrapper -->
+   
         </div>
-        <!-- /.thm-swiper__slider -->
+   
     </div>
-    <!-- /.container -->
-</div>
+  
+</div> -->
 <!-- /.client-carousel -->
 <?php include 'php/footer.php' ?>
 </body>

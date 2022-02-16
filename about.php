@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers">
+    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -116,7 +116,7 @@
     </div>
     <!-- /.container -->
 </section>
-<div class="client-carousel client-carousel__has-border-top client-carousel__about-page">
+<!-- <div class="client-carousel client-carousel__has-border-top client-carousel__about-page">
     <div class="container">
         <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 140, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
                 "0": {
@@ -148,15 +148,15 @@
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+           
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+                
                 <div class="swiper-slide">
                     <img src="assets/images/ref5.jpeg" alt="">
                 </div>
-                <!-- /.swiper-slide -->
+            
                 <div class="swiper-slide">
                     <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
                 </div>
@@ -167,12 +167,12 @@
                     <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
                 </div>
             </div>
-            <!-- /.swiper-wrapper -->
+           
         </div>
-        <!-- /.thm-swiper__slider -->
+
     </div>
-    <!-- /.container -->
-</div>
+    
+</div> -->
 <!-- /.client-carousel -->
 
 <section class="team-one">
@@ -183,28 +183,28 @@
                 <div class="team-one__content">
                     <div class="block-title">
                         <div class="block-title__image"></div>
-                        <!-- /.block-title__image -->
-                        <p>meet the team</p>
-                        <h3>Expert Farmers</h3>
+                  
+                        <!-- <p>meet the team</p> -->
+                        <h3>Personel</h3>
                     </div>
                     <!-- /.block-title -->
                     <div class="team-one__summery">
                         <p>Lorem ipsum is simply free text available. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum.</p>
                     </div>
-                    <!-- /.team-one__summery -->
+                  
 
-                    <!-- If we need navigation buttons -->
+                    
                     <div class="team-one__nav">
                         <div class="swiper-button-prev" id="team-one__swiper-button-next"><i class="agrikon-icon-left-arrow"></i>
                         </div>
                         <div class="swiper-button-next" id="team-one__swiper-button-prev"><i class="agrikon-icon-right-arrow"></i></div>
                     </div>
-                    <!-- /.team-one__nav -->
+                  
 
                 </div>
-                <!-- /.team-one__content -->
+               
             </div>
-            <!-- /.col-md-12 col-lg-5 -->
+        
         </div>
         <!-- /.row -->
     </div>

@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Ürün Detayları  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers">
+    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -60,7 +60,7 @@
                         <img width="100%" style="border-radius: 5px;" src="assets/images/service-1-3.jpg" alt="">
 
                         <div class="service-one__box-content">
-                            <h3><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></h3>
+                            <h3><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>
@@ -72,7 +72,7 @@
                     <div class="service-one__box">
                         <img width="100%" style="border-radius: 5px;" src="assets/images/damla.jpg" alt="">
                         <div class="service-one__box-content">
-                            <h3><a href="neovent-15.5.35.php">Damla Sulama Gübreleri</a></h3>
+                            <h3><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>
@@ -80,24 +80,24 @@
                 </div>
             </a>
             <!-- /.col-md-12 col-lg-4 -->
-            <a href="#">
+            <a href="haifa-group.php">
                 <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
                     <div class="service-one__box">
                         <img src="assets/images/multi.jpg" alt="">
                         <div class="service-one__box-content">
-                            <h3><a href="haifa-npk-12.5.40.php">HAIFA Ürünleri</a></h3>
+                            <h3><a href="haifa-group.php">HAIFA Ürünleri</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>
                     <!-- /.service-one__box -->
                 </div>
             </a>
-            <a href="#">
+            <a href="jr-peters-inc.php">
             <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
                 <div class="service-one__box">
                     <img src="assets/images/foto3.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="jr-jacks-professional-10.52.10.php">Jakc's Professional</a></h3>
+                        <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>

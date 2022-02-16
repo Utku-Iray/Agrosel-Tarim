@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers">
+    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -58,38 +58,30 @@
             
                 <!-- /.block-title -->
                 <div class="row">
-                    <div class="col-md-12 col-lg-4">
+                    <!-- <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/ferto.jpg" alt="">
-                            <!-- <div class="service-one__box-content">
+                            <div class="service-one__box-content">
                                 <h3><a href="service-details.html">Agriculture Leader</a></h3>
-                            </div> -->
-                            <!-- /.service-one__box-content -->
+                            </div>
+                            
                         </div>
-                        <!-- /.service-one__box -->
-                    </div>
+                       
+                    </div> -->
                     <!-- /.col-md-12 col-lg-4 -->
-                    <div class="col-md-12 col-lg-4">
+                    <!-- <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/daber.jpg" alt="">
                            
-                            <!-- /.service-one__box-content -->
+                           
                         </div>
-                        <!-- /.service-one__box -->
-                    </div>
-                    <!-- /.col-md-12 col-lg-4 -->
+                 
+                    </div> -->
+                
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                            
-                            <!-- /.service-one__box-content -->
-                        </div>
-                        <!-- /.service-one__box -->
-                    </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="service-one__box">
-                            <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
-                         
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
@@ -104,20 +96,14 @@
                     </div>
                     <div class="col-md-12 col-lg-4">
                         <div class="service-one__box">
-                            <img src="assets/images/logolar-agrosel/tribodayn.jpg" alt="">
-                          
+                            <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
+                         
                             <!-- /.service-one__box-content -->
                         </div>
                         <!-- /.service-one__box -->
                     </div>
-                    <div class="col-md-12 col-lg-4">
-                        <div class="service-one__box">
-                            <img src="assets/images/agxplore.png" alt="">
-                        
-                            <!-- /.service-one__box-content -->
-                        </div>
-                        <!-- /.service-one__box -->
-                    </div>
+                
+                  
                     <!-- /.col-md-12 col-lg-4 -->
                 </div>
                 <!-- /.row -->

@@ -8,11 +8,11 @@
                     <a href="index.php" class="footer-widget__Logo">
                         <img src="assets/images/agrosel-logo-black.png" width="253" alt="">
                     </a>
-                    <p>Agrosel Tarim ve Haifa Group Isbirligi <br>
+                    <!-- <p>Agrosel Tarim ve Haifa Group Isbirligi <br>
                         JR. PETERS INC.'den Jack's Professional <br>
                         Neovent ACF'den Yeni Formülasyonlar
 
-                    </p>
+                    </p> -->
 
                     <!-- /.mc-form -->
                     <!-- <div class="mc-form__response"></div> -->

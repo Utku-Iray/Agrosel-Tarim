@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları Page || Agrikon || HTML Template For Agriculture Farm & Farmers</title>
+    <title>Ürün Detayları  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Agrikon HTML Template For Agriculture Farm & Farmers">
+    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -142,7 +142,7 @@
                                     <li><a id="micro" href="#in10" data-toggle="collapse" style="font-weight:bold">Haifa Micro</a></li>
                                     <div id="in10" class="collapse">
                                         <ul>
-                                            <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li>
+                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> -->
                                         </ul>
                                     </div>
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
@@ -160,13 +160,13 @@
                                     <li><a id="potasyum" href="#in12" data-toggle="collapse" style="font-weight:bold">Potasyum Nitrat</a></li>
                                     <div id="in12" class="collapse">
                                         <ul>
-                                            <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li>
+                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                            <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li>
+                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                            <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li>
-                                            <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li>
-                                            <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
+                                             <!--<!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> --> -->
                                         </ul>
                                     </div>
                                     <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
