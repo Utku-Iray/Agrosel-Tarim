@@ -230,7 +230,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Jack's Professional MOST</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/most.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional Mix Of Soluble Trace Elements"</h3>
                 <h5>% 100 Water Soluble</h5>
                 <h5>"Mikro Bitki Besin Maddeleri Karışımı"</h5>

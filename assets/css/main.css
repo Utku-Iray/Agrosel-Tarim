@@ -3606,7 +3606,7 @@ h6 {
     margin: 0;
     color: #fff;
     font-family: var(--special-font);
-    font-size: 100px;
+    font-size: 60px;
     line-height: 1.1;
     margin-top: 15px;
     font-weight: 700;
@@ -3630,7 +3630,8 @@ h6 {
     position: relative;
 }
 
-.main-slider .swiper-slide h2 span::before {
+
+/* .main-slider .swiper-slide h2 span::before {
     content: "";
     width: 108px;
     height: 101px;
@@ -3639,7 +3640,7 @@ h6 {
     position: absolute;
     top: -10px;
     right: -70px;
-}
+} */
 
 @media (max-width: 575px) {
     .main-slider .swiper-slide h2 span::before {
@@ -4026,8 +4027,8 @@ h6 {
 .page-header .container {
     position: relative;
     z-index: 10;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 45px;
+    padding-bottom: 45px;
     text-align: center;
 }
 
@@ -4043,7 +4044,7 @@ h6 {
     line-height: 1;
     font-family: var(--special-font);
     color: #fff;
-    font-size: 70px;
+    font-size: 40px;
     font-weight: 700;
     margin-top: 30px;
 }
@@ -6291,13 +6292,13 @@ h6 {
     }
 }
 .service-details {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 @media (min-width: 1200px) {
     .service-details {
-        padding-top: 120px;
-        padding-bottom: 120px;
+        padding-top: 70px;
+        padding-bottom: 70px;
     }
 }
 .service-details img {
@@ -7991,3 +7992,13 @@ h6 {
 }
 
 /*# sourceMappingURL=main.css.map */
+table {
+    border-style: solid;
+    border-width: 1px;
+}
+.table td,
+.table th {
+    padding: 0.18rem;
+    vertical-align: top;
+    border-top: 1px solid #c2baba;
+}

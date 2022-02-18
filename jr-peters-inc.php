@@ -237,63 +237,63 @@
                     <hr>
                     <div class="row">
                         <div class="col-md-4">
-                            <a href="terrafert-acf-18-18-18.php">
-                                <img src="assets/images/181818.jpg" alt="">
+                            <a href="jr-jacks-professional-10.52.10.php">
+                                <img src="assets/images/jr-10-52-10.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 10.52.10+ME</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-16-8-24.php">
-                                <img src="assets/images/16824.jpg" alt="">
+                            <a href="jr-jacks-professional-14.5.38.php">
+                                <img src="assets/images/jr-14-5-38.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 14.5.38+ME</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-20-10-20.php">
-                                <img src="assets/images/201020.jpg" alt="">
+                            <a href="jr-jacks-professional-15.5.15.php">
+                                <img src="assets/images/jr-15-5-15.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 15.5.15+Ca+Mg</h5>
                             </a>
                         </div>
 
                         <div class="col-md-4">
-                            <a href="terrafert-acf-15-30-15.php">
-                                <img src="assets/images/153015.jpg" alt="">
+                            <a href="jr-jacks-professional-17.5.24.php">
+                                <img src="assets/images/jr-17-5-24.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 17.5.24+Mg</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="jr-jacks-professional-20.10.20.php">
+                                <img src="assets/images/jr-20-10-20.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 20.10.20+ME</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="jr-jacks-professional-20.20.20.php">
+                                <img src="assets/images/jr-20-20-20.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 20.20.20+ME</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="jr-jacks-professional-25.5.15.php">
+                                <img src="assets/images/jr-25-5-15.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional 25.5.15+ME</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="jr-jacks-professional-most.php">
+                                <img src="assets/images/most.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Jack's Professional MOST</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="tribodyn-lithovit.php">
+                                <img src="assets/images/lithovit.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">Lithovit CO2</h5>
                             </a>
                         </div>
                         <div class="col-md-4">
-                            <a href="terrafert-acf-10-5-4.php">
-                                <img src="assets/images/10540.jpg" alt="">
+                            <a href="chi-liquid.php">
+                                <img src="assets/images/humus.jpg" alt="">
                                 <h5 style="margin-top: 0px; text-align:center">CHI-Liquid Humus 24</h5>
                             </a>
                         </div>

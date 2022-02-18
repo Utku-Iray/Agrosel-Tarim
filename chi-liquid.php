@@ -230,7 +230,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">CHI-Liquid Humus 24</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/humus.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Canadian Humalite International Inc."</h3>
                 <h5>Made in Canada</h5>
                 <h5>"Leonardit Kaynaklı Sıvı Humik Asit"</h5>

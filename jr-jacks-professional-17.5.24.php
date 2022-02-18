@@ -230,7 +230,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Jack's Professional 17.5.24+Mg</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/jr-17-5-24.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional Low Acid Peat-Lite 17.5.24 + 2MgO + ME"</h3>
                 <h5>% 100 Water Soluble Fertilizer</h5>
 

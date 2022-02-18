@@ -231,7 +231,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Jack's Professional 15.5.15+Ca+Mg</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/jr-15-5-15.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional Cal Mg LX
                     <br>
                     15.5.15+(4CaO)+(2MgO)+ME"

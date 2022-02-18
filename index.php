@@ -53,7 +53,7 @@
             "prevEl": "#main-slider__swiper-button-prev"
         }
     }'>
-        <div class="swiper-wrapper" style="height:700px">
+        <div class="swiper-wrapper" style="height:500px">
             <div class="swiper-slide">
                 <div class="image-layer" style="background-image: url(assets/images/slider2.jpg);">
                 </div>

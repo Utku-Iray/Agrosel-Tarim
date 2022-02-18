@@ -230,7 +230,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Jack's Professional 25.5.15+ME</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/jr-25-5-15.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional High Performance 25.5.15+ME"</h3>
                 <h5>% 100 Water Soluble Fertilizer</h5>
 
