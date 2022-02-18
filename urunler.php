@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Ürün Detayları </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -52,9 +52,9 @@
 
 <section class="service-one" style="background-color: white; padding-top:10px;position:initial">
     <div class="container">
-        <div class="row">
+        <div class="row" style="text-align:center;justify-content:center">
             <a href="bitki-besleme-urunleri.php">
-                <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
+                <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
 
                         <img width="100%" style="border-radius: 5px;" src="assets/images/service-1-3.jpg" alt="">
@@ -68,7 +68,7 @@
                 </div>
             </a>
             <a href="damla-sulama-gubreleri.php">
-                <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
+                <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
                         <img width="100%" style="border-radius: 5px;" src="assets/images/damla.jpg" alt="">
                         <div class="service-one__box-content">
@@ -79,11 +79,42 @@
                     <!-- /.service-one__box -->
                 </div>
             </a>
+
+
             <!-- /.col-md-12 col-lg-4 -->
-            <a href="haifa-group.php">
-                <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
+            <!-- <a href="haifa-group.php">
+                <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms" >
                     <div class="service-one__box">
                         <img src="assets/images/multi.jpg" alt="">
+                        <div class="service-one__box-content">
+                            <h3><a href="haifa-group.php">HAIFA Ürünleri</a></h3>
+                        </div>
+                       
+                    </div>
+                    
+                </div>
+            </a>
+            <a href="jr-peters-inc.php">
+            <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms" >
+                <div class="service-one__box">
+                    <img src="assets/images/foto3.jpg" alt="">
+                    <div class="service-one__box-content">
+                        <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
+                    </div>
+                
+                </div>
+             
+            </div>
+            </a> -->
+            <!-- /.col-md-12 col-lg-4 -->
+
+            <!-- /.col-md-12 col-lg-4 -->
+        </div>
+        <div class="row" style="margin-top: 150px; text-align:center;justify-content:center">
+        <a href="haifa-group.php">
+                <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img width="100%" style="border-radius: 5px;" src="assets/images/multi.jpg" alt="">
                         <div class="service-one__box-content">
                             <h3><a href="haifa-group.php">HAIFA Ürünleri</a></h3>
                         </div>
@@ -93,20 +124,18 @@
                 </div>
             </a>
             <a href="jr-peters-inc.php">
-            <div class="col-md-6 col-lg-6 wow fadeInUp" data-wow-duration="1500ms" style="padding: 100px;">
-                <div class="service-one__box">
-                    <img src="assets/images/foto3.jpg" alt="">
-                    <div class="service-one__box-content">
-                        <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
+                <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="service-one__box">
+                        <img width="100%" style="border-radius: 5px;" src="assets/images/foto3.jpg" alt="">
+                        <div class="service-one__box-content">
+                            <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
+                        </div>
+                        <!-- /.service-one__box-content -->
                     </div>
-                    <!-- /.service-one__box-content -->
+                    <!-- /.service-one__box -->
                 </div>
-                <!-- /.service-one__box -->
-            </div>
             </a>
-            <!-- /.col-md-12 col-lg-4 -->
 
-            <!-- /.col-md-12 col-lg-4 -->
         </div>
         <!-- /.row -->
     </div>

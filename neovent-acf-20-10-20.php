@@ -181,7 +181,7 @@
                                             <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> --> 
+                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
                                         </ul>
                                     </div>
                                     
@@ -231,19 +231,144 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Neovent ACF 20-10-20 + TE</h2>
                 <img src="assets/images/neovent-gorsel/201020.jpg" alt="">
-                <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/neovent-gorsel/NPK.jpeg" alt=""></a>
+                <h5 style="margin-top: 20px;">Neovent 20.10.20 + TE   </h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Neovent 20.10.20+TE, kuru kristal şeklinde, suda çabuk ve tamamen eriyen bir gübredir. İçeriğinde bulunan Azot (N), Fosfor (P) ve Potasyum (K)’un yanı sıra bitkilerin en çok istedikleri mikro elementleri içerir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Neovent 20.10.20+TE’nin azot kaynağı Amonyum ve Nitrat’tan oluşur. (Üresizdir.)</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Neovent 20.10.20+TE’nin içerisindeki mikro elementler şelatlanmıştır.  Böylece yıkanmaz ve fiske olmadığından her zaman bitkiler için alınabilir formdadır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Çimlenme ve tohum oluşumunu teşvik eder.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Kök oluşumu ve gelişimini hızlandırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Bitkinin soğuk ve kurağa karşı direncini arttırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Zayıf gelişme gösteren bitkileri canlandırmak için kullanılır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Üre içermediğinden dolayı sebzelerin her döneminde rahatlıkla kullanılır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Soğuk hava koşullarında dahi bitkide gerekli değişiklikleri gösterir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">İçeriğinde Klor (Cl) yoktur.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Damlama sisteminde tortu yapmaz ve tıkanmaya yol açmaz.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Yüksek çözünürlük ve alınabilirlik kapasitesine sahiptir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Ağır metaller içermez.</span>
+                        </li>
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/neovent-gorsel/NPK.jpeg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">İçeriğinde Klor (Cl) ve Sodyum (Na) olmadığından yoğun tarıma çok uygun bir gübredir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Hassas ürünlerde yapraktan rahatlıkla kullanılabilir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Çabuk alınabilen ve çabuk etkisini gösteren spesifik bir gübredir.</span>
+                        </li>
+
+                    </ul><!-- /.list-unstyled -->
                 </div>
-                <hr>
+
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Bitki Adı</th>
+                            <th scope="col">Topraktan (da/gün)</th>
+                            <th scope="col"> Yapraktan (100lt.)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Sebzelerde</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Meyve Ağaçları</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Süs Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Çilek, Muz</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Bağ(Omca Başına)</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Zeytin</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>Tarla Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+
+
+                    </tbody>
+                </table>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">

@@ -184,7 +184,7 @@
                                             <li style="background-color: #e3e3e3;"><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li>
                                             <li ><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li>
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> -->
+                                             <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
                                     

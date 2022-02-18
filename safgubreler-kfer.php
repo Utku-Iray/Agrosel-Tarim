@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Ürün Detayları </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -64,10 +64,10 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
-                                            <li ><a href="terrafert-adept.php">Adept</a></li>
-                                            <li ><a href="terrafert-syngergyl.php">Synergyl</a></li>
-                                            <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
-                                            <li ><a href="terrafert-progency.php">Progency </a></li>
+                                            <li><a href="terrafert-adept.php">Adept</a></li>
+                                            <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
+                                            <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li><a href="terrafert-progency.php">Progency </a></li>
                                             <li><a href="terrafert-augment.php">Augment</a></li>
                                             <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
@@ -127,8 +127,8 @@
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
                                     <div id="in3" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li ><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
+                                            <li><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
+                                            <li><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
                                             <li><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
                                             <li><a href="terrafert-acf-15-30-15.php">15-30-15 + TE</a></li>
                                             <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
@@ -137,7 +137,7 @@
                                     <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
                                     <div id="in15" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                        <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
+                                            <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
                                             <li><a href="neovent-acf-16-8-24.php">16.8.24+2MgO + TE</a></li>
                                             <li><a href="neovent-acf-18-18-18.php">18.18.18 + TE</a></li>
                                             <li><a href="neovent-acf-19-6-20.php">19.6.20+2MgO + TE</a></li>
@@ -153,7 +153,7 @@
                                     <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
                                     <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
+                                            <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-16.8.24.php">Multifeed 16.8.24+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-18.18.18.php">Multifeed 18.18.18+2MgO+ME</a></li>
@@ -163,7 +163,7 @@
 
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -174,17 +174,17 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li style="background-color: #e3e3e3;"><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -229,142 +229,156 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert ACF 16-8-24 + TE</h2>
-                <img src="assets/images/16824.jpg" alt="">
-                <h5 style="margin-top: 20px;">Terrafert 16.8.24+2MgO + TE  </h5>
-                <div>
-                    <ul class="list-unstyled service-details__list-2">
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Terrafert 16.8.24+2MgO+TE; suda çözünebilen yüksek oranda potasyum ve azot, yeterli miktarda fosfor ve mikro element ihtiva eden bir üründür.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Özellikle çiçeklenmeden sonra uygulanırsa içeriğinde bulunan yüksek miktardaki potasyum sayesinde şeker oranı yüksek, tam renklenmiş, albenisi fazla, kaliteli meyveler oluşur.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Meyvelerin raf ömrünün uzun olmasını sağlar.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğindeki yüksek azot sayesinde bitkinin vejetatif aksamında da etkilidir. Ayrıca bitkinin yeşil aksamı daha gür ve verimli olur.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Terrafert 16.8.24+2MgO+TE seranızın ve tarlanızın verimini arttırır.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğinde üre azotu yoktur.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Soğuk hava şartlarında dahi bitkinizde fark edilir değişikliklere yol açar.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Bitkinizin her döneminde rahatlıkla kullanabilirsiniz.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Bitkinizin hastalıklara karşı direncini arttırır.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Bulunduğu ortamın ve toprağın pH’sını olumlu yönde etkileyecek düzenleyiciler içerir.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Klor (Cl), Sodyum (Na) ve ağır metaller içermez.</span>
-                        </li>
-                       
+                <h2 style="margin-top: 0px;">KFER</h2>
+                <img src="assets/images/kfer-sayfa.jpg" alt="">
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Garanti Edilen İçerik</th>
 
-                      
-                    </ul><!-- /.list-unstyled -->
-                </div>
+                            <th scope="col"> %w/w</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Suda Çözünür Demir (Fe)</td>
+                            <td>6</td>
 
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>EDDHSA Şelatlı Demir (Fe)</td>
+                            <td>6</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>pH Aralığı</td>
+                            <td>3-11</td>
+
+                        </tr>
+
+
+
+
+
+                    </tbody>
+                </table>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">Bitki Adı</th>
-                            <th scope="col">Topraktan (da/gün)</th>
+                            <th scope="col">Topraktan</th>
                             <th scope="col"> Yapraktan (100lt.)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td rowspan="3">Meyve Ağaçları</td>
+
 
                         </tr>
-                      
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>Fidanlarda</td>
+                            <td>5-15 gr./Ağaç</td>
+                            <td>15-50 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>3-5 yaş arası ağaçlarda</td>
+                            <td>10-30 gr./Ağaç</td>
+                            <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Çilek, Muz</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>5 yaş üzeri ağaçlarda</td>
+                            <td>15-100 gr./Ağaç</td>
+                            <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Bağ(Omca Başına)</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>Sebzelerde</td>
+                            <td>100-1000 gr./da</td>
+                            <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Zeytin</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>Süs Bitkileri</td>
+                            <td>75-150 gr./da</td>
+                            <td>30-100 gr.</td>
 
                         </tr>
-                      
                         <tr>
                             <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
-                            <td>0,5-1,5 kg</td>
-                            <td>100-200 gr</td>
+                            <td>Çilek</td>
+                            <td>100-1000 gr./da</td>
+                            <td>30-100 gr.</td>
 
                         </tr>
-                      
+                        <tr>
+                            <th scope="row">8</th>
+                            <td>Muz</td>
+                            <td>500-1000 gr./da</td>
+                            <td>30-100 gr.</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">9</th>
+                            <td>Bağ(Omca Başına)</td>
+                            <td>5-15 gr./Ağaç</td>
+                            <td>30-100 gr.</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">10</th>
+                            <td>Zeytin</td>
+                            <td>15-100 gr./Ağaç</td>
+                            <td>30-100 gr.</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">11</th>
+                            <td>Tarla Bitkileri</td>
+                            <td>100-200 gr./da</td>
+
+                        </tr>
+
+
 
 
                     </tbody>
                 </table>
+
+
+
+
+
+
+
+
+              
+                
+                <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/16824-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">16-8-24 + TE Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/kfer-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> KFER Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/16824-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">16-8-24 + TE Tescil</span></a>
+                            <a target="_blank" href="assets/images/pdf/kfer-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> KFER Tescil</span></a>
                         </div>
                     </div>
                 </div>
-
-
-               
-
 
 
 
@@ -376,8 +390,8 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product3").click();
-        document.getElementById("terrafertacf").click();
+        document.getElementById("product2").click();
+        document.getElementById("npk").click();
     };
 </script>
 

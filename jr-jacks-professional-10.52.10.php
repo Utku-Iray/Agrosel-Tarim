@@ -181,7 +181,7 @@
                                                 <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> --> 
+                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li> 
                                         </ul>
                                     </div>
                                     
@@ -230,7 +230,7 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Jack's Professional 10.52.10+ME</h2>
-                <img src="assets/images/services/service-d-1-1.jpg" alt="">
+                <img src="assets/images/jr-10-52-10.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional Plant Starter 10-52-10+ME"</h3>
                 <h5>% 100 Water Soluble Fertilizer</h5>
 

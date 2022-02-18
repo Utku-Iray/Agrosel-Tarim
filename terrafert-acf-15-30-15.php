@@ -181,7 +181,7 @@
                                                 <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> --> 
+                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
                                         </ul>
                                     </div>
                                     
@@ -231,19 +231,113 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert ACF 15-30-15 + TE</h2>
                 <img src="assets/images/153015.jpg" alt="">
-                <hr>
-                <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/NPK.jpeg" alt=""></a>
+                <h5 style="margin-top: 20px;">Terrafert 15.30.15 + TE  </h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Terrafert 15.30.15+TE; suda çözünebilen yüksek oranda fosfor, yeterli miktarda azot, potasyum ve mikro element ihtiva eden bir üründür. </span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Terrafert 15.30.15+TE seranızın ve tarlanızın verimini arttırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">İçeriğinde üre azotu yoktur.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Soğuk hava şartlarında dahi bitkinizde fark edilir değişikliklere yol açar.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Bitkinizin her döneminde rahatlıkla kullanabilirsiniz.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Bitkinizin hastalıklara karşı direncini arttırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Bulunduğu ortamın ve toprağın pH’sını olumlu yönde etkileyecek düzenleyiciler içerir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Klor (Cl), Sodyum (Na) ve ağır metaller içermez.</span>
+                        </li>
+                       
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/NPK.jpeg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+                      
+                    </ul><!-- /.list-unstyled -->
                 </div>
-                <hr>
+
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Bitki Adı</th>
+                            <th scope="col">Topraktan (da/gün)</th>
+                            <th scope="col"> Yapraktan (100lt.)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Sebzelerde</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Meyve Ağaçları</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Süs Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Çilek, Muz</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Bağ(Omca Başına)</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Zeytin</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>Tarla Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                      
+
+
+                    </tbody>
+                </table>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">

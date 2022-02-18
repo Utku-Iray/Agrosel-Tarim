@@ -142,7 +142,7 @@
                                     <li><a id="micro" href="#in10" data-toggle="collapse" style="font-weight:bold">Haifa Micro</a></li>
                                     <div id="in10" class="collapse">
                                         <ul>
-                                             <!-- <li><a href="#">Kfer % 6 EDDHA (H.M.FE)</a></li> -->
+                                             <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
