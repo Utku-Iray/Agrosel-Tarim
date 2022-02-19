@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -87,7 +88,7 @@
                                     <li><a data-toggle="collapse" href="#in4">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a data-toggle="collapse" href="#in5">DABEER SA.</a></li>
@@ -149,7 +150,7 @@
                                         <ul>
                                             <li><a href="">BitterMag</a></li>
                                             <li><a href="">Haifa Cal</a></li>
-                                            <li><a href="">Haifa Map</a></li>
+                                            <li><a href="">Haifa MAP</a></li>
                                             <li><a href="">Haifa MKP</a></li>
                                             <li><a href="">Haifa SOP</a></li>
                                             <li><a href="">Haifa UP</a></li>
@@ -172,7 +173,7 @@
                                     <div id="in13" class="collapse">
                                         <ul>
                                             <li><a href="">Haifa Turbo-K</a></li>
-                                            <li><a href="">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="">Haifa Turbo-K</a></li>
                                             <li><a href="">15.15.15+2MgO+20SO3+ME</a></li>
                                         </ul>

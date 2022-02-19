@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -118,7 +119,7 @@
                 <div class="service-one__box">
                     <img src="assets/images/service-1-3.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="bitki-besleme-urunleri.php">Bitki Beslenme Ürünleri</a></h3>
+                        <h3><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -254,7 +255,7 @@
         <div class="block-title text-center">
             <div class="block-title__image"></div>
             <!-- /.block-title__image -->
-            <p>Bitki Beslenme Ürünleri</p>
+            <p>BİTKİ BESLEME ÜRÜNLERİ</p>
             <h3>Terrafert</h3>
         </div>
         <!-- /.block-title -->
@@ -262,7 +263,7 @@
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/ADEPT4.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/LIQUID.jpg" alt="">
                     </div>
 
                     <!-- <div class="service-two__card-content">
@@ -301,7 +302,7 @@
             <div class="col-sm-12 col-md-6 col-lg-3">
                 <div class="service-two__card">
                     <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/LIQUID.jpg" alt="">
+                        <img class="shadow-box-image" src="assets/images/AUGMENT4.jpg" alt="">
                     </div>
                     <!-- /.service-two__card-image -->
                     <!-- <div class="service-two__card-content">
@@ -344,16 +345,304 @@
     <!-- /.container -->
 </section>
 <!-- /.service-two -->
-
-<div class="projects-one project-one__Anasayfa-one">
+<section class="service-two">
+    <div class="service-two__bottom-curv"></div>
+    <!-- /.service-two__bottom-curv -->
     <div class="container">
         <div class="block-title text-center">
             <div class="block-title__image"></div>
             <!-- /.block-title__image -->
+            <p>DAMLA SULAMA GÜBRELERİ</p>
+            <h3>Terrafert ACF - Neovent ACF</h3>
+        </div>
+        <!-- /.block-title -->
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/181818.jpg" alt="">
+                    </div>
+
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-tractor"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Agriculture Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/16824.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-organic-food"></i>
+                        </div>
+                       
+                        <h3><a href="service-details.html">Oragnic
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/neovent-gorsel/181818.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-vegetable"></i>
+                        </div>
+                     
+                        <h3><a href="service-details.html">Fresh
+                                Vegetables</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/neovent-gorsel/16824.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-dairy"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Dairy
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+<section class="service-two">
+    <div class="service-two__bottom-curv"></div>
+    <!-- /.service-two__bottom-curv -->
+    <div class="container">
+        <div class="block-title text-center">
+            <div class="block-title__image"></div>
+            <!-- /.block-title__image -->
+            <p>HAIFA GROUP</p>
+            <h3>Suda Çözünür Gübreler</h3>
+            <!-- <h3>Multifeed - </h3> -->
+        </div>
+        <!-- /.block-title -->
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                    </div>
+
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-tractor"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Agriculture Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/Haifa-cal-kapak.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-organic-food"></i>
+                        </div>
+                       
+                        <h3><a href="service-details.html">Oragnic
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-vegetable"></i>
+                        </div>
+                     
+                        <h3><a href="service-details.html">Fresh
+                                Vegetables</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-dairy"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Dairy
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+<section class="service-two">
+    <div class="service-two__bottom-curv"></div>
+    <!-- /.service-two__bottom-curv -->
+    <div class="container">
+        <div class="block-title text-center">
+            <div class="block-title__image"></div>
+            <!-- /.block-title__image -->
+            <p>JR PETER INC</p>
+            <h3>Jack's Professional</h3>
+        </div>
+        <!-- /.block-title -->
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/jr-10-52-10.jpg" alt="">
+                    </div>
+
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-tractor"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Agriculture Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/most.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-organic-food"></i>
+                        </div>
+                       
+                        <h3><a href="service-details.html">Oragnic
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/humus.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-vegetable"></i>
+                        </div>
+                     
+                        <h3><a href="service-details.html">Fresh
+                                Vegetables</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <div class="col-sm-12 col-md-6 col-lg-3">
+                <div class="service-two__card">
+                    <div class="service-two__card-image">
+                        <img class="shadow-box-image" src="assets/images/lithovit.jpg" alt="">
+                    </div>
+                    <!-- /.service-two__card-image -->
+                    <!-- <div class="service-two__card-content">
+                        <div class="service-two__card-icon">
+                            <i class="agrikon-icon-dairy"></i>
+                        </div>
+                        
+                        <h3><a href="service-details.html">Dairy
+                                Products</a></h3>
+                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
+                    </div> -->
+                    <!-- /.service-two__card-content -->
+                </div>
+                <!-- /.service-two__card -->
+            </div>
+            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container -->
+</section>
+<!-- <div class="projects-one project-one__Anasayfa-one">
+    <div class="container">
+        <div class="block-title text-center">
+            <div class="block-title__image"></div>
+           
             <p>Fotoğraf</p>
             <h3>Galeri</h3>
         </div>
-        <!-- /.block-title -->
+      
         <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 0, "slidesPerView": 1, "loop": true, "slidesPerGroup": 1, "pagination": {
             "el": "#projects-one__swiper-pagination",
             "type": "bullets",
@@ -380,53 +669,46 @@
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto1.jfif" alt="">
-                        <!-- <div class="projects-one__content">
-                            <h3>Harvest Innovation</h3>
-                            <a href="project-details.html" class="projects-one__button"><i class="agrikon-icon-right-arrow"></i></a>
-                          
-                        </div> -->
-                        <!-- /.projects-one__content -->
+                        
                     </div>
-                    <!-- /.projects-one__single -->
+                   
                 </div>
-                <!-- /.swiper-slide -->
+              
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto2.jfif" alt="">
 
-                        <!-- /.projects-one__content -->
+                       
                     </div>
-                    <!-- /.projects-one__single -->
+                 
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto3.jfif" alt="">
 
 
-                        <!-- /.projects-one__content -->
+                       
                     </div>
-                    <!-- /.projects-one__single -->
+                 
                 </div>
-                <!-- /.swiper-slide -->
+              
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto4.jfif" alt="">
 
-                        <!-- /.projects-one__content -->
+                      
                     </div>
-                    <!-- /.projects-one__single -->
+           
                 </div>
-                <!-- /.swiper-slide -->
-
-                <!-- /.swiper-slide -->
+              
                 <div class="swiper-slide">
                     <div class="projects-one__single">
                         <img src="assets/images/foto7.jfif" alt="">
 
-                        <!-- /.projects-one__content -->
+                    
                     </div>
-                    <!-- /.projects-one__single -->
+                   
                 </div>
                 <div class="swiper-slide">
                     <div class="projects-one__single">
@@ -438,13 +720,13 @@
                 </div>
 
             </div>
-            <!-- /.swiper-wrapper -->
+            
             <div class="swiper-pagination" id="projects-one__swiper-pagination"></div>
         </div>
-        <!-- /.swiper-container -->
+      
     </div>
-    <!-- /.container -->
-</div>
+  
+</div> -->
 <!-- /.projects-one -->
 
 <!-- <section class="call-to-action__three jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 50%">
@@ -476,7 +758,7 @@
 </section> -->
 <!-- /.call-to-action__three -->
 
-<section class="testimonials-one">
+<!-- <section class="testimonials-one">
     <img src="assets/images/icons/testimonials-bg-1-1.png" class="testimonials-one__bg" alt="">
     <div class="container">
         <h2 class="testimonials-one__title">Testimonials</h2>
@@ -490,10 +772,10 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <!-- /.testimonials-one__icons -->
+                   
                     <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <div class="testimonials-one__icons">
                         <i class="fas fa-star"></i>
@@ -502,10 +784,10 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <!-- /.testimonials-one__icons -->
+                    
                     <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <div class="testimonials-one__icons">
                         <i class="fas fa-star"></i>
@@ -514,14 +796,14 @@
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
                     </div>
-                    <!-- /.testimonials-one__icons -->
+                  
                     <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
                 </div>
-                <!-- /.swiper-slide -->
+               
             </div>
-            <!-- /.swiper-wrapper -->
+           
         </div>
-        <!-- /#testimonials-one__carousel -->
+        
 
         <div id="testimonials-one__thumb" class="swiper-container">
             <div class="swiper-wrapper">
@@ -529,27 +811,27 @@
                     <div class="testimonials-one__image">
                         <img src="assets/images/resources/testimonials-1-1.jpg" alt="">
                     </div>
-                    <!-- /.testimonials-one__image -->
+                   
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <div class="testimonials-one__image">
                         <img src="assets/images/resources/testimonials-1-2.jpg" alt="">
                     </div>
-                    <!-- /.testimonials-one__image -->
+                    
                 </div>
-                <!-- /.swiper-slide -->
+                
                 <div class="swiper-slide">
                     <div class="testimonials-one__image">
                         <img src="assets/images/resources/testimonials-1-3.jpg" alt="">
                     </div>
-                    <!-- /.testimonials-one__image -->
+                   
                 </div>
-                <!-- /.swiper-slide -->
+               
             </div>
-            <!-- /.swiper-wrapper -->
+           
         </div>
-        <!-- /#testimonials-one__thumb.swiper-container -->
+      
 
         <div id="testimonials-one__meta" class="testimonials-one__carousel swiper-container">
             <div class="swiper-wrapper">
@@ -558,36 +840,36 @@
                         <h4>Jessica Brown</h4>
                         <span>Customer</span>
                     </div>
-                    <!-- /.testimonials-one__meta -->
+                    
                 </div>
-                <!-- /.swiper-slide -->
+              
                 <div class="swiper-slide">
                     <div class="testimonials-one__meta">
                         <h4>Caleb Hoffman</h4>
                         <span>Customer</span>
                     </div>
-                    <!-- /.testimonials-one__meta -->
+                    
                 </div>
-                <!-- /.swiper-slide -->
+               
                 <div class="swiper-slide">
                     <div class="testimonials-one__meta">
                         <h4>Bradley Kim</h4>
                         <span>Customer</span>
                     </div>
-                    <!-- /.testimonials-one__meta -->
+                   
                 </div>
-                <!-- /.swiper-slide -->
+              
             </div>
-            <!-- /.swiper-wrapper -->
+           
         </div>
-        <!-- /#testimonials-one__meta.swiper-container -->
+        
         <div class="swiper-pagination" id="testimonials-one__swiper-pagination"></div>
     </div>
-    <!-- /.container -->
-</section>
+   
+</section> -->
 <!-- /.testimonials-one -->
 
-<section class="gray-boxed-wrapper Anasayfa-one__boxed">
+<section class="gray-boxed-wrapper Anasayfa-one__boxed" style="background-color: white;">
     <img src="assets/images/icons/Anasayfa-1-blog-bg.png" alt="" class="Anasayfa-one__boxed-bg">
     <section class="blog-Anasayfa-two blog-Anasayfa-one">
         <div class="container">

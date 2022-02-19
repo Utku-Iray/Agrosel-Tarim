@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -79,27 +80,53 @@
                     </div> -->
                 
                     <div class="col-md-12 col-lg-4">
+                        <a href="damla-sulama-gubreleri.php">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
                            
                             <!-- /.service-one__box-content -->
                         </div>
+                        </a>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
+                        <a href="haifa-group.php">
                         <div class="service-one__box">
                             <img src="assets/images/ref5.jpeg" alt="">
                             
                             <!-- /.service-one__box-content -->
                         </div>
+                        </a>
                         <!-- /.service-one__box -->
                     </div>
                     <div class="col-md-12 col-lg-4">
+                        <a href="jr-peters-inc.php">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
                          
                             <!-- /.service-one__box-content -->
                         </div>
+                        </a>
+                        <!-- /.service-one__box -->
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <a href="bitki-besleme-urunleri.php">
+                        <div class="service-one__box">
+                            <img src="assets/images/logolar-agrosel/terrafert.jpeg" alt="">
+                         
+                            <!-- /.service-one__box-content -->
+                        </div>
+                        </a>
+                        <!-- /.service-one__box -->
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <a href="damla-sulama-gubreleri.php">
+                        <div class="service-one__box">
+                            <img src="assets/images/logolar-agrosel/terrafert-yesil.jpeg" alt="">
+                         
+                            <!-- /.service-one__box-content -->
+                        </div>
+                        </a>
                         <!-- /.service-one__box -->
                     </div>
                 

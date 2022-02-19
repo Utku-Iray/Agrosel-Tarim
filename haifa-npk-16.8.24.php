@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -86,7 +87,7 @@
                                     <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
@@ -169,7 +170,7 @@
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
-                                            <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
+                                            <li><a href="safgubreler-haifa-map.php">Haifa MAP</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
@@ -189,7 +190,7 @@
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>
@@ -209,7 +210,7 @@
                                     <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
                                     <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
                                     <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
-                                    <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                    <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                 </ul>
                             </div>
 
@@ -231,7 +232,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Multifeed 16.8.24+2MgO+ME</h2>
                 <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
-                <h3 style="margin-top: 20px;">"Multifeed 16.8.24+2MgO+ME" by Haifa Group</h3>
+                <h3 style="margin-top: 20px;">"Multifeed 16.8.24+2MgO+ME"  </h3>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
@@ -332,7 +333,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            MultifeedTM kristal yapıda ve suda tamamen çözünür NPK gübrelerinin bir serisidir.
+                             Multifeed kristal yapıda ve suda tamamen çözünür NPK gübrelerinin bir serisidir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -340,7 +341,7 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            MultifeedTM formülleri Magnezyum ve Mikro Besin Elementleri ile zenginleştirilmiştir.
+                             Multifeed formülleri Magnezyum ve Mikro Besin Elementleri ile zenginleştirilmiştir.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
@@ -348,9 +349,9 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            MultifeedTM hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
+                             Multifeed hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
                         </li>
-                        <h5 style="margin-top: 25px;">MultifeedTM'in Avantajla</h5>
+                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajla</h5>
 
                         <li>
                             <i class="fa fa-check-circle"></i>

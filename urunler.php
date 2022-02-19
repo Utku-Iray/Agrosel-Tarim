@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -126,9 +127,9 @@
             <a href="jr-peters-inc.php">
                 <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
-                        <img width="100%" style="border-radius: 5px;" src="assets/images/foto3.jpg" alt="">
+                        <img width="100%" style="border-radius: 5px;" src="assets/images/logolar-agrosel/jr-urunler.jpg" alt="">
                         <div class="service-one__box-content">
-                            <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
+                            <h3><a href="jr-peters-inc.php">Jr Peters Inc</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Ürün Detayları </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -64,10 +65,10 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
-                                            <li ><a href="terrafert-adept.php">Adept</a></li>
-                                            <li ><a href="terrafert-syngergyl.php">Synergyl</a></li>
-                                            <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
-                                            <li ><a href="terrafert-progency.php">Progency </a></li>
+                                            <li><a href="terrafert-adept.php">Adept</a></li>
+                                            <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
+                                            <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
+                                            <li><a href="terrafert-progency.php">Progency </a></li>
                                             <li><a href="terrafert-augment.php">Augment</a></li>
                                             <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
@@ -86,7 +87,7 @@
                                     <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
@@ -127,9 +128,9 @@
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
                                     <div id="in3" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li ><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
-                                            <li ><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
-                                            <li ><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
+                                            <li><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
+                                            <li><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
+                                            <li><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
                                             <li style="background-color: #e3e3e3;"><a href="terrafert-acf-15-30-15.php">15-30-15 + TE</a></li>
                                             <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
                                         </ul>
@@ -137,7 +138,7 @@
                                     <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
                                     <div id="in15" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                        <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
+                                            <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
                                             <li><a href="neovent-acf-16-8-24.php">16.8.24+2MgO + TE</a></li>
                                             <li><a href="neovent-acf-18-18-18.php">18.18.18 + TE</a></li>
                                             <li><a href="neovent-acf-19-6-20.php">19.6.20+2MgO + TE</a></li>
@@ -163,33 +164,33 @@
 
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
-                                            <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
+                                            <li><a href="safgubreler-haifa-map.php">Haifa MAP</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>
@@ -209,7 +210,7 @@
                                     <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
                                     <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
                                     <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
-                                    <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                    <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                 </ul>
                             </div>
 
@@ -231,7 +232,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert ACF 15-30-15 + TE</h2>
                 <img src="assets/images/153015.jpg" alt="">
-                <h5 style="margin-top: 20px;">Terrafert 15.30.15 + TE  </h5>
+                <h5 style="margin-top: 20px;">Terrafert 15.30.15 + TE </h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
@@ -266,9 +267,9 @@
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;">Klor (Cl), Sodyum (Na) ve ağır metaller içermez.</span>
                         </li>
-                       
 
-                      
+
+
                     </ul><!-- /.list-unstyled -->
                 </div>
 
@@ -289,7 +290,7 @@
                             <td>100-200 gr</td>
 
                         </tr>
-                      
+
                         <tr>
                             <th scope="row">2</th>
                             <td>Meyve Ağaçları</td>
@@ -325,7 +326,7 @@
                             <td>100-200 gr</td>
 
                         </tr>
-                      
+
                         <tr>
                             <th scope="row">7</th>
                             <td>Tarla Bitkileri</td>
@@ -333,11 +334,30 @@
                             <td>100-200 gr</td>
 
                         </tr>
-                      
+
 
 
                     </tbody>
                 </table>
+                <hr>
+
+
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 25 kg</span>
+                        </li>
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
+
+                <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
@@ -351,7 +371,7 @@
                 </div>
 
 
-               
+
 
 
 

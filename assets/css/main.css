@@ -5962,7 +5962,7 @@ h6 {
     bottom: 0;
     -webkit-transform: translateX(-50%) translateY(50%);
     transform: translateX(-50%) translateY(50%);
-    background-color: #fff;
+    background-color: #f7eded;
     border-radius: 5px;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -7998,7 +7998,24 @@ table {
 }
 .table td,
 .table th {
-    padding: 0.18rem;
-    vertical-align: top;
+    padding: 0.1px;
+    vertical-align: text-bottom;
     border-top: 1px solid #c2baba;
+}
+.float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 100;
+}
+.my-float {
+    margin-top: 16px;
 }

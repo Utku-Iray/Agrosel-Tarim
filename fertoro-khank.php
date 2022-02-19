@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -87,7 +88,7 @@
                                     <li><a data-toggle="collapse" href="#in4" style="font-weight:bold">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="font-weight:bold">DABEER SA.</a></li>
@@ -150,7 +151,7 @@
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
-                                            <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
+                                            <li><a href="safgubreler-haifa-map.php">Haifa MAP</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
@@ -173,7 +174,7 @@
                                     <div id="in13" class="collapse">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>

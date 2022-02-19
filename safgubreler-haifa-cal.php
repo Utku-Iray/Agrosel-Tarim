@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -86,7 +87,7 @@
                                     <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
@@ -169,7 +170,7 @@
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li style="background-color: #e3e3e3;"><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
-                                            <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
+                                            <li><a href="safgubreler-haifa-map.php">Haifa MAP</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
@@ -189,7 +190,7 @@
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>
@@ -209,7 +210,7 @@
                                     <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
                                     <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
                                     <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
-                                    <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                    <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                 </ul>
                             </div>
 
@@ -238,9 +239,9 @@
                 <h2 style="margin-top: 0px;">Haifa Cal</h2>
                 <img src="assets/images/Haifa-cal-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Kalsiyum Nitrat (15.5-0-0+26.5CaO)"</h3>
-                <p>Haifa CalTM, bitkileri için yüksek verimliliğe sahip bir Kalsiyum ve Azot kaynağıdır. Kalsiyum, ürünlerin kalitesini iyileştiren ve raf ömrünü uzatan "kaliteli bir besin elementidir". Kalsiyum, bitki içinde hareketli olmadığından, bitki dokularında yeterli düzeyde tutmak ve uygun gelişmeyi sağlamak için büyüme sezonu boyunca sürekli uygulanmalıdır. Haifa CalTM' daki Nitrat Azotu bitki tarafından kolayca emilir ve Kalsiyum alımının verimliliğini arttırır.</p>
+                <p>Haifa Cal, bitkileri için yüksek verimliliğe sahip bir Kalsiyum ve Azot kaynağıdır. Kalsiyum, ürünlerin kalitesini iyileştiren ve raf ömrünü uzatan "kaliteli bir besin elementidir". Kalsiyum, bitki içinde hareketli olmadığından, bitki dokularında yeterli düzeyde tutmak ve uygun gelişmeyi sağlamak için büyüme sezonu boyunca sürekli uygulanmalıdır. Haifa Cal' daki Nitrat Azotu bitki tarafından kolayca emilir ve Kalsiyum alımının verimliliğini arttırır.</p>
                
-                <h5 style="margin-top: 20px;">Haifa CalTM Ürününün Avantajları</h5>
+                <h5 style="margin-top: 20px;">Haifa Cal Ürününün Avantajları</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

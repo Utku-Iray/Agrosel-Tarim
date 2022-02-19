@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -86,7 +87,7 @@
                                     <li><a data-toggle="collapse" href="#in4" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">CHI Inc.</a></li>
                                     <div id="in4" class="collapse">
                                         <ul>
-                                            <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                            <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                         </ul>
                                     </div>
                                     <li><a id="dabeer" data-toggle="collapse" href="#in5" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">DABEER SA.</a></li>
@@ -169,7 +170,7 @@
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
                                             <li><a href="safgubreler-haifa-cal.php">Haifa Cal</a></li>
-                                            <li><a href="safgubreler-haifa-map.php">Haifa Map</a></li>
+                                            <li><a href="safgubreler-haifa-map.php">Haifa MAP</a></li>
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
@@ -189,7 +190,7 @@
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
-                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</a></li>
+                                            <li><a href="tabangubreleri-turbo-k-14.14.17.php">Haifa Turbo-K 14.14.17</a></li>
                                             <li><a href="tabangubreleri-turbo-k-15.15.15.php">Haifa Turbo-K 15.15.15</a></li>
 
                                         </ul>
@@ -209,7 +210,7 @@
                                     <li><a href="jr-jacks-professional-25.5.15.php">Jack's Professional 25.5.15+ME</a></li>
                                     <li><a href="jr-jacks-professional-most.php">Jack's Professional MOST</a></li>
                                     <li><a href="tribodyn-lithovit.php">Lithovit CO2</a></li>
-                                    <li><a href="chi-liquid.php">CHI-Liquid Humus 24</a></li>
+                                    <li><a href="chi-liquid.php">GHP Liquid Humus Plus</a></li>
                                 </ul>
                             </div>
 
@@ -276,77 +277,77 @@
                         </tr>
                     </thead>
                     <tbody>
-                        <tr>
+                        <tr  c>
                             <th scope="row">1</th>
-                            <td rowspan="3">Meyve Ağaçları</td>
+                            <td >Meyve Ağaçları</td>
 
 
                         </tr>
                         <tr>
-                            <th scope="row">2</th>
+                            <th scope="row">*</th>
                             <td>Fidanlarda</td>
                             <td>5-15 gr./Ağaç</td>
                             <td>15-50 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">3</th>
+                            <th scope="row">*</th>
                             <td>3-5 yaş arası ağaçlarda</td>
                             <td>10-30 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">4</th>
+                            <th scope="row">*</th>
                             <td>5 yaş üzeri ağaçlarda</td>
                             <td>15-100 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">5</th>
+                            <th scope="row">2</th>
                             <td>Sebzelerde</td>
                             <td>100-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">6</th>
+                            <th scope="row">3</th>
                             <td>Süs Bitkileri</td>
                             <td>75-150 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">7</th>
+                            <th scope="row">4</th>
                             <td>Çilek</td>
                             <td>100-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">8</th>
+                            <th scope="row">5</th>
                             <td>Muz</td>
                             <td>500-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">9</th>
+                            <th scope="row">6</th>
                             <td>Bağ(Omca Başına)</td>
                             <td>5-15 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">10</th>
+                            <th scope="row">7</th>
                             <td>Zeytin</td>
                             <td>15-100 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">11</th>
+                            <th scope="row">8</th>
                             <td>Tarla Bitkileri</td>
                             <td>100-200 gr./da</td>
 

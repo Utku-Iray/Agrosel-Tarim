@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -50,7 +51,7 @@
             <li><span>Kurumsal</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Hakkımızda</h2>
+        <h2>Biz Kimiz</h2>
     </div>
     <!-- /.container -->
 </section>
@@ -68,15 +69,14 @@
             <!-- /.col-lg-6 -->
             <div class="col-lg-6">
                 <div class="about-three__content">
-                    <div class="block-title">
+                    <!-- <div class="block-title">
                         <div class="block-title__image">
-                            <h3 style="padding-left: 50px;">Hakkımızda
+                            <h3 style="padding-left: 50px;">Biz&nbsp;Kimiz
                             </h3>
                         </div>
-                        <!-- /.block-title__image -->
-                        <!-- <p>Get to know us</p> -->
+              
 
-                    </div>
+                    </div> -->
                     <!-- /.block-title -->
                     <!-- <ul class="about-three__list list-unstyled">
                         <li>
@@ -176,8 +176,8 @@
 <!-- /.client-carousel -->
 
 <section class="team-one">
-    <img src="assets/images/icons/team-bg-1-1.png" alt="" class="team-one__bg">
-    <div class="container">
+    <!-- <img src="assets/images/icons/team-bg-1-1.png" alt="" class="team-one__bg"> -->
+    <div class="container" style="margin-bottom: 50px;">
         <div class="row">
             <div class="col-md-12 col-lg-12 col-xl-5">
                 <div class="team-one__content">
@@ -188,9 +188,9 @@
                         <h3>Personel</h3>
                     </div>
                     <!-- /.block-title -->
-                    <div class="team-one__summery">
+                    <!-- <div class="team-one__summery">
                         <p>Lorem ipsum is simply free text available. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum.</p>
-                    </div>
+                    </div> -->
                   
 
                     
@@ -237,20 +237,38 @@
         }}'>
 
             <div class="swiper-wrapper">
-                <div class="swiper-slide">
+            <div class="swiper-slide">
                     <div class="team-card">
                         <div class="team-card__image">
-                            <img src="assets/images/team/team-1-1.jpg" alt="Jessica Brown">
+                            <img src="assets/images/user-about.png" alt="Jessica Brown">
                             <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://tr-tr.facebook.com/agroselltd/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/agroseltarim"><i class="fab fa-twitter"></i></a>
                             </div>
                             <!-- /.team-card__social -->
                         </div>
                         <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
+                        <h3>Hilmi Durgun</h3>
+                        <p>Genel Müdür</p>
+                        <p>hilmidurgun@agroseltarim.com</p>
+                    </div>
+                    <!-- /.team-card -->
+                </div>
+                <div class="swiper-slide">
+                    <div class="team-card">
+                        <div class="team-card__image">
+                            <img src="assets/images/user-about.png" alt="Jessica Brown">
+                            <div class="team-card__social">
+                                <a href="https://tr-tr.facebook.com/agroselltd/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/agroseltarim"><i class="fab fa-twitter"></i></a>
+                            </div>
+                            <!-- /.team-card__social -->
+                        </div>
+                        <!-- /.team-card__image -->
+                        <h3>Osman Aydın</h3>
+                        <p>Antalya Batı Bölge Satış ve Pazarlama Sorumlusu</p>
+                        <p>Tel: 05394805350</p>
+                        <p>osmanaydin@agroseltarim.com</p>
                     </div>
                     <!-- /.team-card -->
                 </div>
@@ -258,17 +276,18 @@
                 <div class="swiper-slide">
                     <div class="team-card">
                         <div class="team-card__image">
-                            <img src="assets/images/team/team-1-2.jpg" alt="Jessica Brown">
+                            <img src="assets/images/user-about.png" alt="Jessica Brown">
                             <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://tr-tr.facebook.com/agroselltd/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/agroseltarim"><i class="fab fa-twitter"></i></a>
                             </div>
                             <!-- /.team-card__social -->
                         </div>
                         <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
+                        <h3>Soner Şükür</h3>
+                        <p>Antalya Doğu Bölge Satış ve Pazarlama Sorumlusu</p>
+                        <p>Tel: 05522495565</p>
+                        <p>sonersukur@agroseltarim.com</p>
                     </div>
                     <!-- /.team-card -->
                 </div>
@@ -276,74 +295,23 @@
                 <div class="swiper-slide">
                     <div class="team-card">
                         <div class="team-card__image">
-                            <img src="assets/images/team/team-1-3.jpg" alt="Jessica Brown">
+                            <img src="assets/images/user-about.png" alt="Jessica Brown">
                             <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a href="https://tr-tr.facebook.com/agroselltd/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://twitter.com/agroseltarim"><i class="fab fa-twitter"></i></a>
                             </div>
                             <!-- /.team-card__social -->
                         </div>
                         <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
+                        <h3>Ali Karaali</h3>
+                        <p>Muhasebe Lojistik Sorumlusu</p>
+                        <p>Tel: 05357348728</p>
+                        <p>alikaraali@agroseltarim.com</p>
                     </div>
                     <!-- /.team-card -->
                 </div>
                 <!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="team-card">
-                        <div class="team-card__image">
-                            <img src="assets/images/team/team-1-1.jpg" alt="Jessica Brown">
-                            <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <!-- /.team-card__social -->
-                        </div>
-                        <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
-                    </div>
-                    <!-- /.team-card -->
-                </div>
-                <!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="team-card">
-                        <div class="team-card__image">
-                            <img src="assets/images/team/team-1-2.jpg" alt="Jessica Brown">
-                            <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <!-- /.team-card__social -->
-                        </div>
-                        <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
-                    </div>
-                    <!-- /.team-card -->
-                </div>
-                <!-- /.swiper-slide -->
-                <div class="swiper-slide">
-                    <div class="team-card">
-                        <div class="team-card__image">
-                            <img src="assets/images/team/team-1-3.jpg" alt="Jessica Brown">
-                            <div class="team-card__social">
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                            </div>
-                            <!-- /.team-card__social -->
-                        </div>
-                        <!-- /.team-card__image -->
-                        <h3>Jessica Brown</h3>
-                        <p>Farmer</p>
-                    </div>
-                    <!-- /.team-card -->
-                </div>
+               
                 <!-- /.swiper-slide -->
             </div>
             <!-- /.swiper-wrapper -->

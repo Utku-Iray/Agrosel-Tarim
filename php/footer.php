@@ -1,4 +1,7 @@
 <footer class="site-footer">
+<a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola" style="color: white;" class="float" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
     <img src="assets/images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
     <img src="assets/images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt="">
     <div class="container">
@@ -53,10 +56,10 @@
                             <div class="footer-widget__post-content">
                                 <a href="https://www.tarimorman.gov.tr/"> <span>Tarım Bakanlığı</span></a> <br>
                                 <a href="https://antalya.tarimorman.gov.tr/"> <span>Antalya İl Müd.</span></a> <br>
-                                <a href="https://www.tarimkredi.org.tr/"> <span>Tarım Kredi Kooperatifleri</span></a> <br>
-                                <a href="https://www.tarimorman.gov.tr/TAGEM"> <span>Tarımsal Araştırmalar G.Müd.</span></a>
-                                <a href="https://www.tarimorman.gov.tr/BUGEM"> <span>Bitkisel Üretim ve Geliş.Gen.Müd.</span></a>
-                                <a href="https://www.halfiyatlari.org/"> <span>Antalya Hal Fiyatları</span></a>
+                                <!-- <a href="https://www.tarimkredi.org.tr/"> <span>Tarım Kredi Kooperatifleri</span></a> <br> -->
+                                <!-- <a href="https://www.tarimorman.gov.tr/TAGEM"> <span>Tarımsal Araştırmalar G.Müd.</span></a> <br>  -->
+                                <a href="https://www.tarimorman.gov.tr/BUGEM"> <span>Bitkisel Üretim ve Geliş.Gen.Müd.</span></a> <br>
+                                <a href="https://www.antalya.bel.tr/BilgiEdin/halden-gunluk-fiyatlar"> <span>Antalya Hal Fiyatları</span></a>
                             </div>
                             <!-- /.footer-widget__post-content -->
                         </li>

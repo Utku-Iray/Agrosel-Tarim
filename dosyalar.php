@@ -15,6 +15,7 @@
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -338,7 +339,7 @@
             </tr>
             <tr>
                 <th scope="row">28</th>
-                <td>Saf Gübreler BitterMag</td>
+                <td>  BitterMag</td>
                 <td> <a target="_blank" href="assets/images/pdf/bittermag-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/bittermag-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -348,7 +349,7 @@
             </tr>
             <tr>
                 <th scope="row">29</th>
-                <td>Saf Gübreler Haifa Cal</td>
+                <td>  Haifa Cal</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-cal-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-cal-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -358,7 +359,7 @@
             </tr>
             <tr>
                 <th scope="row">30</th>
-                <td>Saf Gübreler Haifa Map</td>
+                <td>  Haifa MAP</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-map-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-map-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -368,7 +369,7 @@
             </tr>
             <tr>
                 <th scope="row">31</th>
-                <td>Saf Gübreler Haifa MKP</td>
+                <td>  Haifa MKP</td>
                 <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -378,7 +379,7 @@
             </tr>
             <tr>
                 <th scope="row">32</th>
-                <td>Saf Gübreler Haifa SOP</td>
+                <td>  Haifa SOP</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-sop-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-sop-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -388,7 +389,7 @@
             </tr>
             <tr>
                 <th scope="row">33</th>
-                <td>Saf Gübreler Haifa UP</td>
+                <td>  Haifa UP</td>
                 <td> <a target="_blank" href="assets/images/pdf/Haifa-UP-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/Haifa-UP-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -398,7 +399,7 @@
             </tr>
             <tr>
                 <th scope="row">34</th>
-                <td>Saf Gübreler Magnisal</td>
+                <td>  Magnisal</td>
                 <td> <a target="_blank" href="assets/images/pdf/magnisal-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/magnisal-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -408,7 +409,7 @@
             </tr>
             <tr>
                 <th scope="row">35</th>
-                <td>Saf Gübreler Multi-K Classic</td>
+                <td>  Multi-K Classic</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -418,7 +419,7 @@
             </tr>
             <tr>
                 <th scope="row">36</th>
-                <td>Saf Gübreler Multi-K GG</td>
+                <td>  Multi-K GG</td>
                 <td> <a target="_blank" href="assets/images/pdf/gg-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/gg-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -428,7 +429,7 @@
             </tr>
             <tr>
                 <th scope="row">37</th>
-                <td>Saf Gübreler Multi-K MG 12.0.43+'MgO</td>
+                <td>  Multi-K MG 12.0.43+'MgO</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-mg-etiket.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-mg-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -438,7 +439,7 @@
             </tr>
             <tr>
                 <th scope="row">38</th>
-                <td>Saf Gübreler Multi-K pHast</td>
+                <td>  Multi-K pHast</td>
                 <td> <a target="_blank" href="assets/images/pdf/phast-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/phast-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -448,7 +449,7 @@
             </tr>
             <tr>
                 <th scope="row">39</th>
-                <td>Saf Gübreler Multi-K S 12.0.46+4SO3</td>
+                <td>  Multi-K S 12.0.46+4SO3</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-s-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-s-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -458,7 +459,7 @@
             </tr>
             <tr>
                 <th scope="row">40</th>
-                <td>Saf Gübreler Multi-K Zn 12.0.43+2Zn</td>
+                <td>  Multi-K Zn 12.0.43+2Zn</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-zn-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-zn-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -468,7 +469,7 @@
             </tr>
             <tr>
                 <th scope="row">41</th>
-                <td>Saf Gübreler Multi-npK 13.5.42</td>
+                <td>  Multi-npK 13.5.42</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-npk-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-npk-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -478,7 +479,7 @@
             </tr>
             <tr>
                 <th scope="row">42</th>
-                <td colspan="3">Saf Gübreler Kfer % 6 EDDHA (H.M.FE)</td>
+                <td colspan="3">  Kfer % 6 EDDHA (H.M.FE)</td>
                 <!-- <td> <a target="_blank" href="assets/images/pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -488,7 +489,7 @@
             </tr>
             <tr>
                 <th scope="row">43</th>
-                <td>Taban Gübreler Haifa Turbo-K 14.14.17+ME+S+Fe,Zn</td>
+                <td>   Haifa Turbo-K 14.14.17</td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -498,7 +499,7 @@
             </tr>
             <tr>
                 <th scope="row">44</th>
-                <td>Taban Gübreler Haifa Turbo-K 15.15.15</td>
+                <td>   Haifa Turbo-K 15.15.15</td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-15.15.15-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-15.15.15-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -599,10 +600,10 @@
             </tr>
             <tr>
                 <th scope="row">54</th>
-                <td>CHI-Liquid Humus 24</td>
-                <td> <a target="_blank" href="assets/images/pdf/LIQUID-HUMUS-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                <td>GHP Liquid Humus Plus</td>
+                <td> <a target="_blank" href="assets/images/pdf/jr-ghp.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
-                <td> <a target="_blank" href="assets/images/pdf/LIQUID-HUMUS-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                <td> <a target="_blank" href="assets/images/pdf/jr-ghp-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
                 </td>
 
 
