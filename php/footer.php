@@ -1,6 +1,6 @@
 <footer class="site-footer">
-<a href="https://api.whatsapp.com/send?phone=51955081075&text=Hola" style="color: white;" class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
+<a href="https://api.whatsapp.com/send?phone=+905079870707&text=Merhaba" style="color: white;" class="float" target="_blank">
+<i  class="fab fa-whatsapp my-float"></i>
 </a>
     <img src="assets/images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
     <img src="assets/images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt="">

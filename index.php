@@ -869,7 +869,7 @@
 </section> -->
 <!-- /.testimonials-one -->
 
-<section class="gray-boxed-wrapper Anasayfa-one__boxed" style="background-color: white;">
+<section class="gray-boxed-wrapper Anasayfa-one__boxed" style="background-color: #f6f5f2;">
     <img src="assets/images/icons/Anasayfa-1-blog-bg.png" alt="" class="Anasayfa-one__boxed-bg">
     <section class="blog-Anasayfa-two blog-Anasayfa-one">
         <div class="container">

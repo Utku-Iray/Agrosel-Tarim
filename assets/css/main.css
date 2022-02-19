@@ -8004,8 +8004,8 @@ table {
 }
 .float {
     position: fixed;
-    width: 60px;
-    height: 60px;
+    width: 70px;
+    height: 70px;
     bottom: 40px;
     right: 40px;
     background-color: #25d366;
@@ -8017,5 +8017,14 @@ table {
     z-index: 100;
 }
 .my-float {
-    margin-top: 16px;
+    margin-top: 20px;
+}
+.service-two {
+    background-color: #f6f5f2;
+    padding-top: 10px !important;
+    padding-bottom: 30px !important;
+    position: relative;
+}
+.gray-boxed-wrapper.Anasayfa-one__boxed {
+    margin-top: -10px;
 }
