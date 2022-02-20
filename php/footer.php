@@ -2,8 +2,8 @@
 <a href="https://api.whatsapp.com/send?phone=+905079870707&text=Merhaba" style="color: white;" class="float" target="_blank">
 <i  class="fab fa-whatsapp my-float"></i>
 </a>
-    <img src="assets/images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
-    <img src="assets/images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt="">
+    <!-- <img src="assets/images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
+    <img src="assets/images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt=""> -->
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-6 col-lg-6 col-xl-4">
@@ -117,7 +117,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="far fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.php" aria-label="logo image"><img src="assets/images/logo-light.png" width="155" alt="" /></a>
+            <a href="index.php" aria-label="logo image"><img src="assets/images/agrosel-logo-black.png" width="185" alt="" /></a>
         </div>
         <!-- /.logo-box -->
         <div class="mobile-nav__container"></div>
@@ -126,32 +126,31 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="agrikon-icon-email"></i>
-                <a href="mailto:needhelp@agrikon.com">needhelp@agrikon.com</a>
+                <a href="mailto:agrosel@agroseltarim.com">agrosel@agroseltarim.com</a>
             </li>
             <li>
                 <i class="agrikon-icon-telephone"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:0(242)313 16 26">0 (242) 313 16 26</a>
             </li>
         </ul>
         <!-- /.mobile-nav__contact -->
         <div class="mobile-nav__top">
-            <div class="mobile-nav__language">
+            <!-- <div class="mobile-nav__language">
                 <img src="assets/images/resources/flag-1-1.jpg" alt="">
                 <label class="sr-only" for="language-select">select language</label>
-                <!-- /#language-select.sr-only -->
+               
                 <select class="selectpicker" id="language-select">
                     <option value="english">English</option>
                     <option value="arabic">Arabic</option>
                 </select>
-            </div>
-            <!-- /.mobile-nav__language -->
+            </div> -->
+           
             <div class="mobile-nav__social">
-                <a href="#" aria-label="twitter"><i class="fab fa-twitter"></i></a>
-                <a href="#" aria-label="facebook"><i class="fab fa-facebook-square"></i></a>
-                <a href="#" aria-label="pinterest"><i class="fab fa-pinterest-p"></i></a>
-                <a href="#" aria-label="instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://tr-tr.facebook.com/agroselltd/" class="fab fa-facebook-square"></a>
+                        <a href="https://twitter.com/agroseltarim" class="fab fa-twitter"></a>
+                        <a href="https://www.instagram.com/agroseltarim/" class="fab fa-instagram"></a>
             </div>
-            <!-- /.mobile-nav__social -->
+           
         </div>
         <!-- /.mobile-nav__top -->
 

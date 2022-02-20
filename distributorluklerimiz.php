@@ -80,10 +80,30 @@
                     </div> -->
                 
                     <div class="col-md-12 col-lg-4">
+                        <a href="bitki-besleme-urunleri.php">
+                        <div class="service-one__box">
+                            <img src="assets/images/logolar-agrosel/terrafert.jpg" alt="">
+                           
+                            <!-- /.service-one__box-content -->
+                        </div>
+                        </a>
+                        <!-- /.service-one__box -->
+                    </div>
+                    <div class="col-md-12 col-lg-4">
                         <a href="damla-sulama-gubreleri.php">
                         <div class="service-one__box">
-                            <img src="assets/images/logolar-agrosel/eovent.jpeg" alt="">
-                           
+                            <img src="assets/images/logolar-agrosel/eovent.jpg" alt="">
+                            
+                            <!-- /.service-one__box-content -->
+                        </div>
+                        </a>
+                        <!-- /.service-one__box -->
+                    </div>
+                    <div class="col-md-12 col-lg-4">
+                        <a href="damla-sulama-gubreleri.php">
+                        <div class="service-one__box">
+                            <img src="assets/images/logolar-agrosel/terrafert-yesil.jpg" alt="">
+                         
                             <!-- /.service-one__box-content -->
                         </div>
                         </a>
@@ -93,7 +113,7 @@
                         <a href="haifa-group.php">
                         <div class="service-one__box">
                             <img src="assets/images/ref5.jpeg" alt="">
-                            
+                         
                             <!-- /.service-one__box-content -->
                         </div>
                         </a>
@@ -103,26 +123,6 @@
                         <a href="jr-peters-inc.php">
                         <div class="service-one__box">
                             <img src="assets/images/logolar-agrosel/jrpeters.jpg" alt="">
-                         
-                            <!-- /.service-one__box-content -->
-                        </div>
-                        </a>
-                        <!-- /.service-one__box -->
-                    </div>
-                    <div class="col-md-12 col-lg-4">
-                        <a href="bitki-besleme-urunleri.php">
-                        <div class="service-one__box">
-                            <img src="assets/images/logolar-agrosel/terrafert.jpeg" alt="">
-                         
-                            <!-- /.service-one__box-content -->
-                        </div>
-                        </a>
-                        <!-- /.service-one__box -->
-                    </div>
-                    <div class="col-md-12 col-lg-4">
-                        <a href="damla-sulama-gubreleri.php">
-                        <div class="service-one__box">
-                            <img src="assets/images/logolar-agrosel/terrafert-yesil.jpeg" alt="">
                          
                             <!-- /.service-one__box-content -->
                         </div>

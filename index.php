@@ -167,7 +167,7 @@
 <!-- /.service-one -->
 
 <section class="about-one">
-    <img src="assets/images/icons/about-bg-icon-1-1.png" class="about-one__bg-shape-1" alt="">
+    <!-- <img src="assets/images/icons/about-bg-icon-1-1.png" class="about-one__bg-shape-1" alt=""> -->
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
@@ -186,7 +186,7 @@
             <div class="col-lg-7">
                 <div class="about-one__content">
                     <div class="block-title text-left">
-                        <div class="block-title__image"></div>
+                        <!-- <div class="block-title__image"></div> -->
                         <!-- /.block-title__image -->
                         <!-- <p>Welcome to agricon</p> -->
                         <h3>Hakkımızda</h3>
@@ -253,7 +253,7 @@
     <!-- /.service-two__bottom-curv -->
     <div class="container">
         <div class="block-title text-center">
-            <div class="block-title__image"></div>
+            <!-- <div class="block-title__image"></div> -->
             <!-- /.block-title__image -->
             <p>BİTKİ BESLEME ÜRÜNLERİ</p>
             <h3>Terrafert</h3>
@@ -350,7 +350,7 @@
     <!-- /.service-two__bottom-curv -->
     <div class="container">
         <div class="block-title text-center">
-            <div class="block-title__image"></div>
+            <!-- <div class="block-title__image"></div> -->
             <!-- /.block-title__image -->
             <p>DAMLA SULAMA GÜBRELERİ</p>
             <h3>Terrafert ACF - Neovent ACF</h3>
@@ -446,7 +446,7 @@
     <!-- /.service-two__bottom-curv -->
     <div class="container">
         <div class="block-title text-center">
-            <div class="block-title__image"></div>
+            <!-- <div class="block-title__image"></div> -->
             <!-- /.block-title__image -->
             <p>HAIFA GROUP</p>
             <h3>Suda Çözünür Gübreler</h3>
@@ -543,7 +543,7 @@
     <!-- /.service-two__bottom-curv -->
     <div class="container">
         <div class="block-title text-center">
-            <div class="block-title__image"></div>
+            <!-- <div class="block-title__image"></div> -->
             <!-- /.block-title__image -->
             <p>JR PETER INC</p>
             <h3>Jack's Professional</h3>
@@ -876,7 +876,7 @@
             <div class="row top-row">
                 <div class="col-lg-6">
                     <div class="block-title">
-                        <div class="block-title__image"></div>
+                        <!-- <div class="block-title__image"></div> -->
                         <!-- /.block-title__image -->
                         <!-- <p>From the blog post</p> -->
                         <h3>Haberler</h3>

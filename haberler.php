@@ -67,7 +67,7 @@
                     <div class="col-lg-8">
                         <div class="about-three__content">
                             <div class="block-title">
-                                <div class="block-title__image"></div>
+                                <!-- <div class="block-title__image"></div> -->
                                 <!-- /.block-title__image -->
                                 <!-- <h3>30 Years Agriculture Experience
                                 </h3> -->
@@ -96,7 +96,7 @@
                     <div class="col-lg-8">
                         <div class="about-three__content">
                             <div class="block-title">
-                                <div class="block-title__image"></div>
+                                <!-- <div class="block-title__image"></div> -->
                                 <!-- /.block-title__image -->
                                 <!-- <h3>30 Years Agriculture Experience
                                 </h3> -->
@@ -125,7 +125,7 @@
                     <div class="col-lg-8">
                         <div class="about-three__content">
                             <div class="block-title">
-                                <div class="block-title__image"></div>
+                                <!-- <div class="block-title__image"></div> -->
                                 <!-- /.block-title__image -->
                                 <!-- <h3>30 Years Agriculture Experience
                                 </h3> -->

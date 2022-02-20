@@ -29,9 +29,12 @@
                         <span class="fa fa-bars mobile-nav__toggler"></span>
                     </div><!-- /.logo-box -->
                     <ul class="main-menu__list">
-                        <li class="dropdown">
+                    <li>
                             <a href="index.php">Anasayfa</a>
-                            <!-- <ul>
+                        </li>
+                        <!-- <li class="dropdown">
+                            <a href="index.php">Anasayfa</a>
+                            <ul>
                                 <li>
                                     <a href="index.php">Anasayfa One</a>
                                 </li>
@@ -43,8 +46,8 @@
                                         <li><a href="index-2.html">Header Two</a></li>
                                     </ul>
                                 </li>
-                            </ul> -->
-                        </li>
+                            </ul>
+                        </li> -->
                         <!-- <li>
                             <a href="about.html">Kurumsal</a>
                         </li> -->

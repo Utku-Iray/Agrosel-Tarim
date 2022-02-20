@@ -243,6 +243,18 @@
                         </div>
                     </div>
                 </div>
+                <hr>
+                <a href="#myModal1" data-toggle="modal" data-target="#myModal1"><img src="assets/images/AUGMENT-2.png" alt=""></a>
+
+                <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
+                    <div class="modal-dialog" style="max-width:1000px !important">
+                        <div class="modal-content">
+                            <div class="modal-body">
+                                <img src="assets/images/AUGMENT-2.png" class="img-responsive">
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
 
 
