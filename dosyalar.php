@@ -140,7 +140,7 @@
             <tr>
                 <th scope="row">8</th>
                 <td>Grose - Mix</td>
-                <td> <a target="_blank" href="assets/images/pdf/GROSE-MİX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                <td> <a target="_blank" href="assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/GROSE-MiX-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
                 </td>
