@@ -230,7 +230,7 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">"Multifeed 12.5.40+2MgO+ME"  </h2>
+                <h2 style="margin-top: 0px;">Multifeed 12.5.40+2MgO+ME  </h2>
                 <img src="assets/images/mullti-feed-kapak.jpeg" alt="">
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">

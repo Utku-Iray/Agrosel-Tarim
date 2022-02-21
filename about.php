@@ -94,12 +94,9 @@
                     </ul> -->
                     <!-- /.about-three__list list-unstyled -->
                     <div class="about-three__summery">
-                        <p>2001 yılında Antalya’da kurulan AGROSEL TARIM LTD.ŞTİ, kurulduğu günden bu yana tarım sektöründe devamlı olarak yenilikçiliği ve kaliteyi benimsemiştir. Gerek bitki besleme gerekse bitki koruma alanında kaliteyi siz değerli müşterilerimize sunmaktadır.
-                            <br><br>
-                            AGROSEL TARIM LTD.ŞTİ olarak hedefimiz, bayi ve üreticilerimizin ihtiyaçlarını en iyi şekilde karşılayıp, geliştirdiğimiz yeni çözümler ile daha kaliteli ürün ve yüksek verim elde etmelerine yardımcı olmaktır.
-                            <br><br>
-                            AGROSEL TARIM LTD.ŞTİ, tecrübeli teknik ekibi ile, kaliteli ürün çeşitlerini hızlı bir şekilde bayilerimiz aracılığı ile üreticilerimize sunmaktadır.
-                        </p>
+                        <p>Agrosel Tarım Limited Şirketi, 2001 yılında Antalya’ da kurulmuş olup; bitki besleme ürünleri, damla sulama gübreleri ve bitki gelişim düzenleyicileri alanında faaliyetlerde bulunmaktadır.
+                      <br><br>
+                        Firmamız; kalite ve hizmeti ön planda tutarak, geçmişten gelen tecrübesini ve deneyimini, kadromuzda bulunan satış & pazarlama personellerimiz aracılığıyla, ülkemizde ve satış gerçekleştirdiğimiz farklı ülkelerdeki, bitkisel üretim verimliliğini arttırmak amacı ile tarıma hizmet vermektedir. </p>
                     </div>
                     <!-- /.about-three__summery -->
                     <!-- <div class="about-three__signs">
@@ -191,8 +188,8 @@
                             <h3>Personel</h3>
                         </div>
                     </div>
-                    <div class="col-md-6" >
-                        <div class="team-one__nav" >
+                    <div class="col-md-6">
+                        <div class="team-one__nav">
                             <div class="swiper-button-prev" id="team-one__swiper-button-next"><i class="agrikon-icon-left-arrow"></i>
                             </div>
                             <div class="swiper-button-next" id="team-one__swiper-button-prev"><i class="agrikon-icon-right-arrow"></i></div>
@@ -251,7 +248,7 @@
                                     <!-- /.team-card__social -->
                                 </div>
                                 <!-- /.team-card__image -->
-                                <h3>Hilmi Durgun</h3>
+                                <h3>Hilmi DURGUN</h3>
                                 <p>Genel Müdür</p>
                                 <p>hilmidurgun@agroseltarim.com</p>
                             </div>
@@ -268,9 +265,9 @@
                                     <!-- /.team-card__social -->
                                 </div>
                                 <!-- /.team-card__image -->
-                                <h3>Osman Aydın</h3>
+                                <h3>Osman AYDIN</h3>
                                 <p>Antalya Batı Bölge Satış ve Pazarlama Sorumlusu</p>
-                                <p>Tel: 05394805350</p>
+                                <p>Tel: 0 (539) 480 53 50</p>
                                 <p>osmanaydin@agroseltarim.com</p>
                             </div>
                             <!-- /.team-card -->
@@ -287,9 +284,9 @@
                                     <!-- /.team-card__social -->
                                 </div>
                                 <!-- /.team-card__image -->
-                                <h3>Soner Şükür</h3>
+                                <h3>Soner ŞÜKÜR</h3>
                                 <p>Antalya Doğu Bölge Satış ve Pazarlama Sorumlusu</p>
-                                <p>Tel: 05522495565</p>
+                                <p>Tel: 0 (552)249 55 65</p>
                                 <p>sonersukur@agroseltarim.com</p>
                             </div>
                             <!-- /.team-card -->
@@ -306,9 +303,9 @@
                                     <!-- /.team-card__social -->
                                 </div>
                                 <!-- /.team-card__image -->
-                                <h3>Ali Karaali</h3>
+                                <h3>Ali KARAALİ</h3>
                                 <p>Muhasebe Lojistik Sorumlusu</p>
-                                <p>Tel: 05357348728</p>
+                                <p>Tel: 0 (535) 734 87 28</p>
                                 <p>alikaraali@agroseltarim.com</p>
                             </div>
                             <!-- /.team-card -->

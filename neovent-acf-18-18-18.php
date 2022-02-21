@@ -230,7 +230,7 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Neovent ACF 18-18-18 + TE</h2>
+                <h2 style="margin-top: 0px;">Neovent 18-18-18 + TE</h2>
                 <img src="assets/images/neovent-gorsel/181818.jpg" alt="">
                 <h5 style="margin-top: 20px;">Neovent 18.18.18 + TE </h5>
                 <div>

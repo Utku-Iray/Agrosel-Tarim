@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım</title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+    <link rel="apple-touch-icon"  href="assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png"  href="assets/images/favicons/favicon-3x32.png">
+    <link rel="icon" type="image/png"  href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
     <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    
+
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
@@ -114,6 +114,7 @@
 
 <section class="service-one">
     <div class="container">
+
         <div class="row">
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
@@ -148,9 +149,9 @@
             </div>
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
-                    <img src="assets/images/foto3.jfif" alt="">
+                    <img src="assets/images/logolar-agrosel/jr-urunler-yazisiz.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="jr-peters-inc.php">Jakc's Professional</a></h3>
+                        <h3><a href="jr-peters-inc.php">Jr Peters Inc</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>
@@ -235,7 +236,7 @@
                     
                     </div> -->
                     <!-- /.about-one__icon-row -->
-                    <a href="about.html" class="thm-btn">Hakkımızda</a>
+                    <a href="about.php" class="thm-btn">Hakkımızda</a>
                     <!-- /.thm-btn -->
                 </div>
                 <!-- /.about-one__content -->
@@ -251,119 +252,81 @@
 <section class="service-two">
     <div class="service-two__bottom-curv"></div>
     <!-- /.service-two__bottom-curv -->
-    <div class="container">
-        <div class="block-title text-center">
-            <!-- <div class="block-title__image"></div> -->
-            <!-- /.block-title__image -->
-            <p>BİTKİ BESLEME ÜRÜNLERİ</p>
-            <h3>Terrafert</h3>
-        </div>
-        <!-- /.block-title -->
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/LIQUID.jpg" alt="">
+    <a href="bitki-besleme-urunleri.php">
+        <div class="container">
+            <div class="block-title text-center">
+                <!-- <div class="block-title__image"></div> -->
+                <!-- /.block-title__image -->
+                <p>BİTKİ BESLEME ÜRÜNLERİ</p>
+                <h3>Terrafert</h3>
+            </div>
+            <!-- /.block-title -->
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/LIQUID.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/SYNERGYL4.jpg" alt="">
+                        </div>
+
                     </div>
 
-                    <!-- <div class="service-two__card-content">
-                        <div class="service-two__card-icon">
-                            <i class="agrikon-icon-tractor"></i>
-                        </div>
-                        
-                        <h3><a href="service-details.html">Agriculture Products</a></h3>
-                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
-                    </div> -->
-                    <!-- /.service-two__card-content -->
                 </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/SYNERGYL4.jpg" alt="">
+
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/AUGMENT4.jpg" alt="">
+                        </div>
+
+
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
-                        <div class="service-two__card-icon">
-                            <i class="agrikon-icon-organic-food"></i>
-                        </div>
-                       
-                        <h3><a href="service-details.html">Oragnic
-                                Products</a></h3>
-                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
-                    </div> -->
-                    <!-- /.service-two__card-content -->
+
                 </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/AUGMENT4.jpg" alt="">
+
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/PROGENCY4.jpg" alt="">
+                        </div>
+
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
-                        <div class="service-two__card-icon">
-                            <i class="agrikon-icon-vegetable"></i>
-                        </div>
-                     
-                        <h3><a href="service-details.html">Fresh
-                                Vegetables</a></h3>
-                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
-                    </div> -->
-                    <!-- /.service-two__card-content -->
+
                 </div>
-                <!-- /.service-two__card -->
+
             </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/PROGENCY4.jpg" alt="">
-                    </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
-                        <div class="service-two__card-icon">
-                            <i class="agrikon-icon-dairy"></i>
-                        </div>
-                        
-                        <h3><a href="service-details.html">Dairy
-                                Products</a></h3>
-                        <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
-                    </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <!-- /.row -->
         </div>
-        <!-- /.row -->
-    </div>
-    <!-- /.container -->
+    </a> <!-- /.container -->
 </section>
 <!-- /.service-two -->
 <section class="service-two">
     <div class="service-two__bottom-curv"></div>
     <!-- /.service-two__bottom-curv -->
-    <div class="container">
-        <div class="block-title text-center">
-            <!-- <div class="block-title__image"></div> -->
-            <!-- /.block-title__image -->
-            <p>DAMLA SULAMA GÜBRELERİ</p>
-            <h3>Terrafert ACF - Neovent ACF</h3>
-        </div>
-        <!-- /.block-title -->
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/181818.jpg" alt="">
-                    </div>
+    <a href="damla-sulama-gubreleri.php">
+        <div class="container">
+            <div class="block-title text-center">
+                <!-- <div class="block-title__image"></div> -->
+                <!-- /.block-title__image -->
+                <p>DAMLA SULAMA GÜBRELERİ</p>
+                <h3>Terrafert ACF - Neovent ACF</h3>
+            </div>
+            <!-- /.block-title -->
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/181818.jpg" alt="">
+                        </div>
 
-                    <!-- <div class="service-two__card-content">
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-tractor"></i>
                         </div>
@@ -371,18 +334,18 @@
                         <h3><a href="service-details.html">Agriculture Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/16824.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/16824.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-organic-food"></i>
                         </div>
@@ -391,18 +354,18 @@
                                 Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/neovent-gorsel/181818.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/neovent-gorsel/181818.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-vegetable"></i>
                         </div>
@@ -411,18 +374,18 @@
                                 Vegetables</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/neovent-gorsel/16824.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/neovent-gorsel/16824.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-dairy"></i>
                         </div>
@@ -431,36 +394,38 @@
                                 Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
+                        <!-- /.service-two__card-content -->
+                    </div>
+                    <!-- /.service-two__card -->
                 </div>
-                <!-- /.service-two__card -->
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
             </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <!-- /.row -->
         </div>
-        <!-- /.row -->
-    </div>
+    </a>
     <!-- /.container -->
 </section>
 <section class="service-two">
     <div class="service-two__bottom-curv"></div>
     <!-- /.service-two__bottom-curv -->
-    <div class="container">
-        <div class="block-title text-center">
-            <!-- <div class="block-title__image"></div> -->
-            <!-- /.block-title__image -->
-            <p>HAIFA GROUP</p>
-            <h3>Suda Çözünür Gübreler</h3>
-            <!-- <h3>Multifeed - </h3> -->
-        </div>
-        <!-- /.block-title -->
-        <div class="row">
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/mullti-feed-kapak.jpeg" alt="">
-                    </div>
+    <a href="haifa-group.php">
+        <div class="container">
+            <div class="block-title text-center">
+                <!-- <div class="block-title__image"></div> -->
+                <!-- /.block-title__image -->
+                <p>HAIFA GROUP</p>
+                <h3>Suda Çözünür Gübreler</h3>
+                <!-- <h3>Multifeed - </h3> -->
+            </div>
+            <!-- /.block-title -->
+            <div class="row">
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/mullti-feed-kapak.jpeg" alt="">
+                        </div>
 
-                    <!-- <div class="service-two__card-content">
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-tractor"></i>
                         </div>
@@ -468,18 +433,18 @@
                         <h3><a href="service-details.html">Agriculture Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/Haifa-cal-kapak.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/Haifa-cal-kapak.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-organic-food"></i>
                         </div>
@@ -488,18 +453,18 @@
                                 Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/Multi-K-pHast-kapak.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-vegetable"></i>
                         </div>
@@ -508,18 +473,18 @@
                                 Vegetables</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
-                </div>
-                <!-- /.service-two__card -->
-            </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <div class="service-two__card">
-                    <div class="service-two__card-image">
-                        <img class="shadow-box-image" src="assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
+                        <!-- /.service-two__card-content -->
                     </div>
-                    <!-- /.service-two__card-image -->
-                    <!-- <div class="service-two__card-content">
+                    <!-- /.service-two__card -->
+                </div>
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+                <div class="col-sm-12 col-md-6 col-lg-3">
+                    <div class="service-two__card">
+                        <div class="service-two__card-image">
+                            <img class="shadow-box-image" src="assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
+                        </div>
+                        <!-- /.service-two__card-image -->
+                        <!-- <div class="service-two__card-content">
                         <div class="service-two__card-icon">
                             <i class="agrikon-icon-dairy"></i>
                         </div>
@@ -528,19 +493,21 @@
                                 Products</a></h3>
                         <p>Lorem ium dolor sit ametad pisicing elit sed simply do ut.</p>
                     </div> -->
-                    <!-- /.service-two__card-content -->
+                        <!-- /.service-two__card-content -->
+                    </div>
+                    <!-- /.service-two__card -->
                 </div>
-                <!-- /.service-two__card -->
+                <!-- /.col-sm-12 col-md-6 col-lg-3 -->
             </div>
-            <!-- /.col-sm-12 col-md-6 col-lg-3 -->
+            <!-- /.row -->
         </div>
-        <!-- /.row -->
-    </div>
+    </a>
     <!-- /.container -->
 </section>
 <section class="service-two">
     <div class="service-two__bottom-curv"></div>
     <!-- /.service-two__bottom-curv -->
+    <a href="jr-peters-inc.php">
     <div class="container">
         <div class="block-title text-center">
             <!-- <div class="block-title__image"></div> -->
@@ -632,6 +599,7 @@
         </div>
         <!-- /.row -->
     </div>
+    </a>
     <!-- /.container -->
 </section>
 <!-- <div class="projects-one project-one__Anasayfa-one">

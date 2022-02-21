@@ -232,7 +232,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Magnisal</h2>
                 <img src="assets/images/Magnisal-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Mono Potasyum Fosfat (0-52-34)"</h3>
+                <h3 style="margin-top: 20px;">"Magnezyum Nitrat"</h3>
                 <p>Magnisal, bitkilerin fotosentez ve diğer süreçleri için son derece önemli olan Magnezyum emilimini kolaylaştırır. Magnisal' de bulunan Nitrat Azotu bitkiler tarafından kolayca emilir ve bu da Magnezyum alımının verimliliğini arttırır. Magnisal kolay kullanım için pul formunda tedarik edilmektedir ve tüm mahsüller için NutrigationTM ve yapraktan besleme uygulamalarına uygundur.</p>
 
                 <h5 style="margin-top: 20px;">Magnisal' ın Avantajları</h5>

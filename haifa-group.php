@@ -235,7 +235,7 @@
             </div>
                 <div>
                     <div>
-                        <h4 style="margin-top: 0px;">Haifa ACF</h4>
+                        <h4 style="margin-top: 0px;">Haifa NPK</h4>
                     </div>
                     <hr>
                     <div class="row">
@@ -372,7 +372,7 @@
                         <div class="col-md-4">
                             <a href="tabangubreleri-turbo-k-14.14.17.php">
                                 <img src="assets/images/Haifa-Turbo-K-14-14-17-kapak.jpg" alt="">
-                                <h5 style="margin-top: 0px; text-align:center">14.14.17+ME+S+Fe,Zn</h5>
+                                <h5 style="margin-top: 0px; text-align:center">Haifa Turbo-K 14.14.17</h5>
                             </a>
                         </div>
                         <div class="col-md-4">

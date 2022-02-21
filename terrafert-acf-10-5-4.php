@@ -230,7 +230,7 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert ACF 10-5-4 0 + TE</h2>
+                <h2 style="margin-top: 0px;">Terrafert 10-5-4 0 + TE</h2>
                 <img src="assets/images/10540.jpg" alt="">
                 <h5 style="margin-top: 20px;">Terrafert 10.05.40 + TE  </h5>
                 <div>

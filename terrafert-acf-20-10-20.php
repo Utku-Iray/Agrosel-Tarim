@@ -230,22 +230,22 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert ACF 20-10-20 + TE</h2>
+                <h2 style="margin-top: 0px;">Terrafert 20-10-20 + TE</h2>
                 <img src="assets/images/201020.jpg" alt="">
-                <h5 style="margin-top: 20px;">Neovent 20.10.20 + TE </h5>
+                <h5 style="margin-top: 20px;">Terrafert 20-10-20 + TE</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Neovent 20.10.20+TE; kuru kristal şeklinde, suda çabuk ve tamamen eriyen bir gübredir. İçeriğinde bulunan Azot (N), Fosfor (P) ve Potasyum (K)’un yanı sıra bitkilerin en çok istedikleri mikro elementleri içerir.</span>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE; kuru kristal şeklinde, suda çabuk ve tamamen eriyen bir gübredir. İçeriğinde bulunan Azot (N), Fosfor (P) ve Potasyum (K)’un yanı sıra bitkilerin en çok istedikleri mikro elementleri içerir.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Neovent 20.10.20+TE’nin azot kaynağı Amonyum ve Nitrat’tan oluşur. (Üresizdir.)</span>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE’nin azot kaynağı Amonyum ve Nitrat’tan oluşur. (Üresizdir.)</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Neovent 20.10.20+TE’nin içerisindeki mikro elementler şelatlanmıştır. Böylece yıkanmaz ve fiske olmadığından her zaman bitkiler için alınabilir formdadır.</span>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE’nin içerisindeki mikro elementler şelatlanmıştır. Böylece yıkanmaz ve fiske olmadığından her zaman bitkiler için alınabilir formdadır.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>

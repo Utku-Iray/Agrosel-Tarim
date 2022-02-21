@@ -250,7 +250,7 @@
                     <div class="col-md-4">
                         <a href="terrafert-liquid.php">
                             <img src="assets/images/LIQUID.jpg" alt="">
-                            <h5 style="margin-top: -20px; text-align:center">Terrafert Liquid Alg</h5>
+                            <h5 style="margin-top: -20px; text-align:center">Terrafert Liquid Humus</h5>
                         </a>
                     </div>
                     <div class="row">
@@ -263,7 +263,7 @@
                         <div class="col-md-4">
                             <a href="terrafert-augment.php">
                                 <img src="assets/images/AUGMENT4.jpg" alt="">
-                                <h5 style="margin-top: -20px; text-align:center">Terrafert Agument</h5>
+                                <h5 style="margin-top: -20px; text-align:center">Terrafert Augment</h5>
                             </a>
                         </div>
                         <div class="col-md-4">

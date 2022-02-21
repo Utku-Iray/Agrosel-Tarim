@@ -230,7 +230,7 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Neovent ACF 15-5-35 + TE</h2>
+                <h2 style="margin-top: 0px;">Neovent 15-5-35 + TE</h2>
                 <img src="assets/images/neovent-gorsel/15535.jpg" alt="">
                 <h5>Neovent 15.5.35+TE</h5>
                 <div>

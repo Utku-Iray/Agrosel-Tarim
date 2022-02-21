@@ -263,7 +263,7 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MİX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
+                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">

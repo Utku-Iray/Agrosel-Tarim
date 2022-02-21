@@ -238,7 +238,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa UP</h2>
                 <img src="assets/images/Haifa-UP-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Potasyum Sülfat"</h3>
+                <h3 style="margin-top: 20px;">"Üre Fosfat"</h3>
                 <p>Haifa UP, Tüm sebzeler ve meyve ağaçlarına yönelik NutrigationTM uygulaması için bir üre fosfattır. <br>
                     Haifa UP, gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için uygundur.</p>
 
