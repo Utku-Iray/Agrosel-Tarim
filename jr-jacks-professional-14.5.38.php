@@ -248,18 +248,18 @@
                         <tr>
                             <th scope="row">1</th>
                             <td> Toplam Azot (N)</td>
-                            <td> 10,5</td>
+                            <td> 14</td>
 
                         </tr>
                         <tr>
                             <th scope="row">-</th>
-                            <td>Üre Azotu (NH2-N)</td>
-                            <td>8,6</td>
+                            <td>Amonyak Azotu (NH3-N)</td>
+                            <td>10,5</td>
 
                         </tr>
                         <tr>
                             <th scope="row">-</th>
-                            <td>Nitrat Azotu (NO3-N)</td>
+                            <td>  Üre Azotu (NH2-N))</td>
                             <td> 3,5</td>
 
                         </tr>
@@ -315,7 +315,7 @@
                         </tr>
 
                         <tr>
-                            <th scope="row">1</th>
+                            <th scope="row">10</th>
                             <td>pH</td>
                             <td>3,5-6,5</td>
 

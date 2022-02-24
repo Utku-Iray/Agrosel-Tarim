@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Ürün Detayları </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -164,7 +164,7 @@
 
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -175,17 +175,17 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -231,13 +231,24 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <div style="text-align: center;">
-            <h2 style="margin-top: 0px;">Damla Sulama Gübreleri</h2>
-            </div>
+                    <h2 style="margin-top: 0px;">Damla Sulama Gübreleri</h2>
+                </div>
                 <div>
                     <div>
                         <h4 style="margin-top: 0px;">Terrafert ACF</h4>
                     </div>
                     <hr>
+                    <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/damla-terrafert.jpeg" alt=""></a>
+
+                    <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" style="max-width:1000px !important">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="assets/images/damla-terrafert.jpeg" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="row">
                         <div class="col-md-4">
                             <a href="terrafert-acf-18-18-18.php">
@@ -277,11 +288,22 @@
                     </div>
                 </div>
                 <div style="margin-top: 50px;">
-                    <div >
+                    <div>
                         <h4 style="margin-top: 0px;">Neovent ACF</h4>
                     </div>
                     <hr>
-                    <div class="row">
+                    <a href="#myModal" data-toggle="modal" data-target="#myModal2"><img src="assets/images/damla-neovent.jpeg" alt=""></a>
+
+                    <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" style="max-width:1000px !important">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="assets/images/damla-neovent.jpeg" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 25px;">
                         <div class="col-md-4">
                             <a href="neovent-acf-15-5-35.php">
                                 <img src="assets/images/neovent-gorsel/15535.jpg" alt="">

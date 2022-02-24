@@ -245,9 +245,9 @@
                     </div>
                 </div>
                 <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/SYNERGYL-kullanim.jpg" alt=""></a>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/SYNERGYL-kullanim.jpg" alt=""></a>
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+                <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">

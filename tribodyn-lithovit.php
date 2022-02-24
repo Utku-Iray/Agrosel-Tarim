@@ -252,14 +252,14 @@
 
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">4</th>
                                 <td>Tane Büyüklüğü</td>
                                 <td>
                                     < 25µm</td>
 
                             </tr>
                             <tr>
-                                <th scope="row">3</th>
+                                <th scope="row">5</th>
                                 <td>pH</td>
                                 <td> 8-10</td>
 

@@ -250,7 +250,7 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>
-                                Toplam (N)</td>
+                                Toplam Azot (N)</td>
                             <td> % 13,5</td>
 
                         </tr>
@@ -286,13 +286,13 @@
 
                         </tr>
                         <tr>
-                            <th scope="row">5</th>
+                            <th scope="row">6</th>
                             <td>Çözülmez madde</td>
                             <td>350 ppm</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">5</th>
+                            <th scope="row">7</th>
                             <td>Hacimsel yoğunluk</td>
                             <td>1,1 g/ml</td>
 

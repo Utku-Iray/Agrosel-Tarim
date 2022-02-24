@@ -233,7 +233,7 @@
                 <h2 style="margin-top: 0px;">Neovent 19-6-20 + 2MgO + TE</h2>
                 <img src="assets/images/neovent-gorsel/19620.jpg" alt="">
 
-                <h5 style="margin-top: 20px;">Neovent ACF 19-6-20 + 2MgO + TE</h5>
+                <h5 style="margin-top: 20px;">Neovent 19-6-20 + 2MgO + TE</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

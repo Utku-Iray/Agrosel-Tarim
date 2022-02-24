@@ -345,7 +345,7 @@
                             <i class="fa fa-check-circle"></i>
                              Multifeed hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
                         </li>
-                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajla</h5>
+                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajları</h5>
 
                         <li>
                             <i class="fa fa-check-circle"></i>

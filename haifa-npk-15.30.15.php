@@ -246,74 +246,79 @@
                         <tr>
                             <th scope="row">1</th>
                             <td>Toplam Azot (N)</td>
-                            <td> % 12</td>
+                            <td> % 15</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
                             <td>Amonyum Azotu (N-NH4)</td>
-                            <td> % 1</td>
+                            <td> % 5,9</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
                             <td>Nitrat Azotu (N-NO3)</td>
-                            <td> % 11</td>
+                            <td> % 4,3</td>
 
                         </tr>
-
                         <tr>
                             <th scope="row">4</th>
-                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
-                            <td>% 5</td>
+                            <td>Üre Azotu (N-NH2)</td>
+                            <td> % 4,8</td>
 
                         </tr>
-
                         <tr>
                             <th scope="row">5</th>
-                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
-                            <td>% 40</td>
+                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
+                            <td>% 30</td>
 
                         </tr>
 
                         <tr>
                             <th scope="row">6</th>
+                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td>% 15</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">7</th>
                             <td>Suda Çözünür Magnezyum Oksit (MgO)</td>
                             <td> % 2</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">7</th>
+                            <th scope="row">8</th>
                             <td>Suda Çözünür Bor (B)</td>
                             <td>% 0,01</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">8</th>
+                            <th scope="row">9</th>
                             <td>Suda Çözünür Bakır (Cu) (EDTA şelatlı)</td>
                             <td> % 0,005</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">9</th>
+                            <th scope="row">10</th>
                             <td>Suda Çözünür Demir (Fe) (EDTA şelatlı)</td>
                             <td> % 0,05</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">10</th>
+                            <th scope="row">11</th>
                             <td>Suda Çözünür Mangan (Mn) (EDTA şelatlı)</td>
                             <td> % 0,02</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">11</th>
+                            <th scope="row">12</th>
                             <td>Suda Çözünür Molibden (Mo)</td>
                             <td> % 0,003</td>
 
                         </tr>
                         <tr>
-                            <th scope="row">12</th>
+                            <th scope="row">13</th>
                             <td>Suda Çözünür Çinko (Zn) (EDTA şelatlı)</td>
                             <td> % 0,007</td>
 
@@ -346,7 +351,7 @@
                             <i class="fa fa-check-circle"></i>
                              Multifeed hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
                         </li>
-                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajla</h5>
+                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajları</h5>
 
                         <li>
                             <i class="fa fa-check-circle"></i>

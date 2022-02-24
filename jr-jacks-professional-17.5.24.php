@@ -320,7 +320,7 @@
                         </tr>
 
                         <tr>
-                            <th scope="row">1</th>
+                            <th scope="row">10</th>
                             <td>pH</td>
                             <td>3,5-6,5</td>
 
