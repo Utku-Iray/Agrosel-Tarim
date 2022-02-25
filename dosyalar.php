@@ -339,7 +339,7 @@
             </tr>
             <tr>
                 <th scope="row">28</th>
-                <td>  BitterMag</td>
+                <td> BitterMag</td>
                 <td> <a target="_blank" href="assets/images/pdf/bittermag-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/bittermag-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -349,7 +349,7 @@
             </tr>
             <tr>
                 <th scope="row">29</th>
-                <td>  Haifa Cal</td>
+                <td> Haifa Cal</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-cal-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-cal-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -359,7 +359,7 @@
             </tr>
             <tr>
                 <th scope="row">30</th>
-                <td>  Haifa MAP</td>
+                <td> Haifa MAP</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-map-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-map-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -369,7 +369,7 @@
             </tr>
             <tr>
                 <th scope="row">31</th>
-                <td>  Haifa MKP</td>
+                <td> Haifa MKP</td>
                 <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -379,7 +379,7 @@
             </tr>
             <tr>
                 <th scope="row">32</th>
-                <td>  Haifa SOP</td>
+                <td> Haifa SOP</td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-sop-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/haifa-sop-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -389,7 +389,7 @@
             </tr>
             <tr>
                 <th scope="row">33</th>
-                <td>  Haifa UP</td>
+                <td> Haifa UP</td>
                 <td> <a target="_blank" href="assets/images/pdf/Haifa-UP-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/Haifa-UP-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -399,7 +399,7 @@
             </tr>
             <tr>
                 <th scope="row">34</th>
-                <td>  Magnisal</td>
+                <td> Magnisal</td>
                 <td> <a target="_blank" href="assets/images/pdf/magnisal-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/magnisal-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -409,7 +409,7 @@
             </tr>
             <tr>
                 <th scope="row">35</th>
-                <td>  Multi-K Classic</td>
+                <td> Multi-K Classic</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -419,7 +419,7 @@
             </tr>
             <tr>
                 <th scope="row">36</th>
-                <td>  Multi-K GG</td>
+                <td> Multi-K GG</td>
                 <td> <a target="_blank" href="assets/images/pdf/gg-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/gg-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -429,7 +429,7 @@
             </tr>
             <tr>
                 <th scope="row">37</th>
-                <td>  Multi-K MG 12.0.43+'MgO</td>
+                <td> Multi-K MG 12.0.43+'MgO</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-mg-etiket.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-mg-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -439,7 +439,7 @@
             </tr>
             <tr>
                 <th scope="row">38</th>
-                <td>  Multi-K pHast</td>
+                <td> Multi-K pHast</td>
                 <td> <a target="_blank" href="assets/images/pdf/phast-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/phast-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -449,7 +449,7 @@
             </tr>
             <tr>
                 <th scope="row">39</th>
-                <td>  Multi-K S 12.0.46+4SO3</td>
+                <td> Multi-K S 12.0.46+4SO3</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-s-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-s-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -459,7 +459,7 @@
             </tr>
             <tr>
                 <th scope="row">40</th>
-                <td>  Multi-K Zn 12.0.43+2Zn</td>
+                <td> Multi-K Zn 12.0.43+2Zn</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-zn-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-k-zn-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -469,7 +469,7 @@
             </tr>
             <tr>
                 <th scope="row">41</th>
-                <td>  Multi-npK 13.5.42</td>
+                <td> Multi-npK 13.5.42</td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-npk-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/multi-npk-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -479,17 +479,17 @@
             </tr>
             <tr>
                 <th scope="row">42</th>
-                <td colspan="3">  Kfer % 6 EDDHA (H.M.FE)</td>
-                <!-- <td> <a target="_blank" href="assets/images/pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                <td> Kfer % 6 EDDHA (H.M.FE)</td>
+                <td> <a target="_blank" href="assets/images/pdf/kfer-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
-                <td> <a target="_blank" href="assets/images/pdf/valupak-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
-                </td> -->
+                <td> <a target="_blank" href="assets/images/pdf/kfer-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
 
 
             </tr>
             <tr>
                 <th scope="row">43</th>
-                <td>   Haifa Turbo-K 14.14.17</td>
+                <td> Haifa Turbo-K 14.14.17</td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-14-14-17-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -499,7 +499,7 @@
             </tr>
             <tr>
                 <th scope="row">44</th>
-                <td>   Haifa Turbo-K 15.15.15</td>
+                <td> Haifa Turbo-K 15.15.15</td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-15.15.15-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/turbo-k-15.15.15-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
@@ -517,7 +517,7 @@
 
 
             </tr>
-          
+
             <tr>
                 <th scope="row">46</th>
                 <td>Jack's Professional 14.5.38+ME</td>
