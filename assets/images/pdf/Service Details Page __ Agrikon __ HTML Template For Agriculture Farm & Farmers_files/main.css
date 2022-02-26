@@ -2337,7 +2337,7 @@ h6 {
 .stricky-header .main-menu__list,
 .stricky-header .main-menu__list ul {
     margin: 0;
-    padding: 0;
+    padding: 0px 17px;
     list-style-type: none;
     -webkit-box-align: center;
     -ms-flex-align: center;

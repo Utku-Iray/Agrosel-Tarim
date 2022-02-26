@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details</title>
+    <title>Ürün Detayları </title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
     <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
@@ -17,20 +17,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/jarallax.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" href="assets/css/agrikon-icons.css">
-    <link rel="stylesheet" href="assets/css/nouislider.min.css">
-    <link rel="stylesheet" href="assets/css/nouislider.pips.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../assets/css/swiper.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/odometer.min.css">
+    <link rel="stylesheet" href="../assets/css/jarallax.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="../assets/css/agrikon-icons.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.min.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.pips.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
 <?php include 'php/header.php' ?>
@@ -39,15 +39,15 @@
     <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
 </div><!-- /.stricky-header -->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+    <div class="page-header__bg" style="background-image: url(../assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Homepage</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Product Details</span></li>
+            <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Ürün Detayları</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -72,7 +72,7 @@
                                             <li><a href="terrafert-augment.php">Augment</a></li>
                                             <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
@@ -130,7 +130,7 @@
                                         <ul>
                                             <li><a href="terrafert-acf-18-18-18.php">18-18-18 + TE</a></li>
                                             <li><a href="terrafert-acf-16-8-24.php">16-8-24 + TE</a></li>
-                                            <li><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
+                                            <li style="background-color: #e3e3e3;"><a href="terrafert-acf-20-10-20.php">20-10-20 + TE</a></li>
                                             <li><a href="terrafert-acf-15-30-15.php">15-30-15 + TE</a></li>
                                             <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
                                         </ul>
@@ -218,7 +218,7 @@
                     </div>
                     <!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
-                        <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
+                        <div class="service-sidebar__call-bg" style="background-image: url(../assets/images/services/service-widget-bg-1.jpg);"></div>
                         
                         <h3>We sell best
                             agriculture
@@ -230,47 +230,180 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert Grose - Mix</h2>
-                <img src="assets/images/GROSE-MiX.jpg" alt="">
-                <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX.jpeg" alt=""></a>
+                <h2 style="margin-top: 0px;">Terrafert 20-10-20 + TE</h2>
+                <img src="../assets/images/201020.jpg" alt="">
+                <h5 style="margin-top: 20px;">Terrafert 20-10-20 + TE</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE; kuru kristal şeklinde, suda çabuk ve tamamen eriyen bir gübredir. İçeriğinde bulunan Azot (N), Fosfor (P) ve Potasyum (K)’un yanı sıra bitkilerin en çok istedikleri mikro elementleri içerir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE’nin azot kaynağı Amonyum ve Nitrat’tan oluşur. (Üresizdir.)</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Terrafert 20-10-20 + TE’nin içerisindeki mikro elementler şelatlanmıştır. Böylece yıkanmaz ve fiske olmadığından her zaman bitkiler için alınabilir formdadır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Çimlenme ve tohum oluşumunu teşvik eder.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Kök oluşumu ve gelişimini hızlandırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Bitkinin soğuk ve kurağa karşı direncini arttırır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Zayıf gelişme gösteren bitkileri canlandırmak için kullanılır</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Üre içermediğinden dolayı sebzelerin her döneminde rahatlıkla kullanılır.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Soğuk hava koşullarında dahi bitkide gerekli değişiklikleri gösterir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">İçeriğinde Klor (Cl) yoktur.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Damlama sisteminde tortu yapmaz ve tıkanmaya yol açmaz.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Yüksek çözünürlük ve alınabilirlik kapasitesine sahiptir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Ağır metaller içermez.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">İçeriğinde Klor (Cl) ve Sodyum (Na) olmadığından yoğun tarıma çok uygun bir gübredir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Hassas ürünlerde yapraktan rahatlıkla kullanılabilir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Çabuk alınabilen ve çabuk etkisini gösteren spesifik bir gübredir.</span>
+                        </li>
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX.jpeg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+
+
+                    </ul><!-- /.list-unstyled -->
                 </div>
+
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Bitki Adı</th>
+                            <th scope="col">Topraktan (da/gün)</th>
+                            <th scope="col"> Yapraktan (100lt.)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Sebzelerde</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>Meyve Ağaçları</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>Süs Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Çilek, Muz</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Bağ(Omca Başına)</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">6</th>
+                            <td>Zeytin</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">7</th>
+                            <td>Tarla Bitkileri</td>
+                            <td>0,5-1,5 kg</td>
+                            <td>100-200 gr</td>
+
+                        </tr>
+
+
+
+                    </tbody>
+                </table>
                 <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/GROSE-MiX-kullanim.jpg" alt=""></a>
 
-                <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX-kullanim.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 25 kg</span>
+                        </li>
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
                 </div>
-
-
 
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/201020-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">20-10-20 + TE Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/201020-TESCiL.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">20-10-20 + TE Tescil</span></a>
                         </div>
                     </div>
                 </div>
+
+
+
 
 
 
@@ -283,8 +416,8 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("product3").click();
+        document.getElementById("terrafertacf").click();
     };
 </script>
 

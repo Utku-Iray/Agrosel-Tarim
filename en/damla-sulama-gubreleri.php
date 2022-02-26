@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product Details</title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
     <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
@@ -17,20 +17,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/jarallax.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" href="assets/css/agrikon-icons.css">
-    <link rel="stylesheet" href="assets/css/nouislider.min.css">
-    <link rel="stylesheet" href="assets/css/nouislider.pips.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../assets/css/swiper.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/odometer.min.css">
+    <link rel="stylesheet" href="../assets/css/jarallax.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="../assets/css/agrikon-icons.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.min.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.pips.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
 <?php include 'php/header.php' ?>
@@ -39,15 +39,15 @@
     <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
 </div><!-- /.stricky-header -->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+    <div class="page-header__bg" style="background-image: url(../assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Product Details</span></li>
+            <li><span>Product</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Product</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -72,7 +72,7 @@
                                             <li><a href="terrafert-augment.php">Augment</a></li>
                                             <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
@@ -218,7 +218,7 @@
                     </div>
                     <!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
-                        <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
+                        <div class="service-sidebar__call-bg" style="background-image: url(../assets/images/services/service-widget-bg-1.jpg);"></div>
                         
                         <h3>We sell best
                             agriculture
@@ -230,47 +230,122 @@
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert Grose - Mix</h2>
-                <img src="assets/images/GROSE-MiX.jpg" alt="">
-                <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX.jpeg" alt=""></a>
+                <div style="text-align: center;">
+                    <h2 style="margin-top: 0px;">Water Soluble Fertilizer</h2>
+                </div>
+                <div>
+                    <div>
+                        <h4 style="margin-top: 0px;">Terrafert ACF</h4>
+                    </div>
+                    <hr>
+                    <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="../assets/images/en-terrafert.jpeg" alt=""></a>
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX.jpeg" class="img-responsive">
+                    <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" style="max-width:1000px !important">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="../assets/images/en-terrafert.jpeg" class="img-responsive">
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/GROSE-MiX-kullanim.jpg" alt=""></a>
-
-                <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX-kullanim.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-
-                <hr>
-                <div class="container" style="margin-top: 30px;">
                     <div class="row">
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-18-18-18.php">
+                                <img src="../assets/images/181818.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">18-18-18 + TE</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-16-8-24.php">
+                                <img src="../assets/images/16824.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">16-8-24 + TE</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-acf-20-10-20.php">
+                                <img src="../assets/images/201020.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">20-10-20 + TE</h5>
+                            </a>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <a href="terrafert-acf-15-30-15.php">
+                                    <img src="../assets/images/153015.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">15-30-15 + TE</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="terrafert-acf-10-5-4.php">
+                                    <img src="../assets/images/10540.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">10-5-4 0 + TE</h5>
+                                </a>
+                            </div>
+
                         </div>
 
-                        <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Tescil</span></a>
-                        </div>
+
                     </div>
                 </div>
+                <div style="margin-top: 50px;">
+                    <div>
+                        <h4 style="margin-top: 0px;">Neovent ACF</h4>
+                    </div>
+                    <hr>
+                    <a href="#myModal" data-toggle="modal" data-target="#myModal2"><img src="../assets/images/en-neovent.jpeg" alt=""></a>
+
+                    <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" style="max-width:1000px !important">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="../assets/images/en-neovent.jpeg" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="margin-top: 25px;">
+                        <div class="col-md-4">
+                            <a href="neovent-acf-15-5-35.php">
+                                <img src="../assets/images/neovent-gorsel/15535.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">15-5-35 + TE</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="neovent-acf-16-8-24.php">
+                                <img src="../assets/images/neovent-gorsel/16824.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">16-8-24 + 2MgO</h5>
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="neovent-acf-18-18-18.php">
+                                <img src="../assets/images/neovent-gorsel/181818.jpg" alt="">
+                                <h5 style="margin-top: 0px; text-align:center">18-18-18 + TE</h5>
+                            </a>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <a href="neovent-acf-19-6-20.php">
+                                    <img src="../assets/images/neovent-gorsel/19620.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">19-6-20 + 2MgO</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="neovent-acf-20-10-20.php">
+                                    <img src="../assets/images/neovent-gorsel/201020.jpg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">20-10-20 + TE</h5>
+                                </a>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                </div>
+
+
+
+
+
 
 
 
@@ -283,8 +358,9 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("product3").click();
+        document.getElementById("terrafertacf").click();
+        document.getElementById("neovent").click();
     };
 </script>
 

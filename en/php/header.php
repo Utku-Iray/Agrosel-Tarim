@@ -1,6 +1,6 @@
 <body>
     <!-- <div class="preloader">
-        <img class="preloader__image" width="55" src="assets/images/loader.png" alt="">
+        <img class="preloader__image" width="55" src="../assets/images/loader.png" alt="">
     </div> -->
     <!-- /.preloader -->
     <div class="page-wrapper">
@@ -25,12 +25,12 @@
             <nav class="main-menu">
                 <div class="container">
                     <div class="logo-box">
-                        <a href="index.php" aria-label="logo image"><img style="margin-top: 13px;" src="assets/images/agrosel-logo.png" width="203" alt=""></a>
+                        <a href="index.php" aria-label="logo image"><img style="margin-top: 13px;" src="../assets/images/agrosel-logo.png" width="203" alt=""></a>
                         <span class="fa fa-bars mobile-nav__toggler"></span>
                     </div><!-- /.logo-box -->
                     <ul class="main-menu__list">
                         <li>
-                            <a href="index.php">Anasayfa</a>
+                            <a href="index.php">Homepage</a>
                         </li>
                         <!-- <li class="dropdown">
                             <a href="index.php">Anasayfa</a>
@@ -51,11 +51,11 @@
                         <!-- <li>
                             <a href="about.html">Kurumsal</a>
                         </li> -->
-                        <li class="dropdown"><a href="#">Kurumsal</a>
+                        <li class="dropdown"><a href="#">Corporate</a>
                             <ul>
-                                <li><a href="about.php">Biz Kimiz</a></li>
-                                <li><a href="distributorluklerimiz.php">Distribütörlüklerimiz</a></li>
-                                <li><a href="haberler.php">Haberler</a></li>
+                                <li><a href="about.php">Who Are We</a></li>
+                                <li><a href="distributorluklerimiz.php">Distributorships</a></li>
+                                <li><a href="haberler.php">News</a></li>
                             </ul>
                         </li>
                         <!-- <li class="dropdown"><a href="#">Pages</a>
@@ -66,10 +66,10 @@
                             </ul>
                         </li> -->
                         <li class="dropdown">
-                            <a href="urunler.php">Ürünler</a>
+                            <a href="urunler.php">Products</a>
                             <ul>
-                                <li><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></li>
-                                <li><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></li>
+                                <li><a href="bitki-besleme-urunleri.php">Plant Nutrition Products</a></li>
+                                <li><a href="damla-sulama-gubreleri.php">Water Soluble Fertilizer</a></li>
                                 <li><a href="haifa-group.php">Haifa Group</a></li>
                                 <li><a href="jr-peters-inc.php">Jr Peters Inc</a></li>
                             </ul>
@@ -81,14 +81,14 @@
                             </ul>
                         </li> -->
                         <li>
-                            <a href="dosyalar.php">Dosyalar</a>
+                            <a href="dosyalar.php">Folders</a>
                         </li>
                         <li>
-                            <a href="contact.php">İletişim</a>
+                            <a href="contact.php">Contact</a>
                         </li>
-                        <li class="dropdown"><a href="index.php">Türkçe <img style="border-radius: 50%; width:25px;padding-left:3px" src="assets/images/turkiye.png" alt=""></a>
+                        <li class="dropdown"><a href="#">English <img style="border-radius: 50%; width:25px;padding-left:3px" src="../assets/images/lang.png" alt=""></a>
                             <ul style="min-width: fit-content !important;">
-                                <li><a href="en/index.php">English<img style="border-radius: 50%; height:25px;width:25px;padding-left:3px;margin-top:2px" src="assets/images/lang.png" alt=""></a></li>
+                                <li><a href="../index.php">Turkish<img style="border-radius: 50%; height:25px;width:25px;margin-left:3px;margin-top:2px" src="../assets/images/turkiye.png" alt=""></a></li>
                                
                             </ul>
                         </li>
@@ -97,21 +97,21 @@
 
                     <div class="main-header__info">
 
-                        <a href="assets/images/pdf/AGROSEL-uRuN-KATALOgU.pdf" target="_blank" class="main-header__info-phone">
-                            <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
+                        <a href="../assets/images/pdf/AGROSEL-uRuN-KATALOgU.pdf" target="_blank" class="main-header__info-phone">
+                            <img width="35px" src="../assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">Terrafert</span>
-                                <span class="main-header__info-phone-title">Ürün Kataloğu</span>
+                                <span style="margin-top: 10px;font-size:13px" class="main-header__info-phone-text">Terrafert</span>
+                                <!-- <span class="main-header__info-phone-title">Ürün Kataloğu</span> -->
                             </span>
                         </a>
                     </div>
                     <div class="main-header__info" style="margin-left: 5px;">
 
-                        <a href="assets/images/pdf/haifa-urun-katalog.pdf" target="_blank" class="main-header__info-phone">
-                            <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
+                        <a href="../assets/images/pdf/haifa-urun-katalog.pdf" target="_blank" class="main-header__info-phone">
+                            <img width="35px" src="../assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">Haifa</span>
-                                <span class="main-header__info-phone-title">Ürün Kataloğu</span>
+                                <span style="margin-top: 10px;font-size:13px" class="main-header__info-phone-text">Haifa</span>
+                                <!-- <span class="main-header__info-phone-title">Ürün Kataloğu</span> -->
                             </span>
                         </a>
                     </div>

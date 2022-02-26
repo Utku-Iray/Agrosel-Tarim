@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details</title>
+    <title>Ürün Detayları  </title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
     <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
@@ -17,20 +17,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/jarallax.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" href="assets/css/agrikon-icons.css">
-    <link rel="stylesheet" href="assets/css/nouislider.min.css">
-    <link rel="stylesheet" href="assets/css/nouislider.pips.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../assets/css/swiper.min.css">
+    <link rel="stylesheet" href="../assets/css/animate.min.css">
+    <link rel="stylesheet" href="../assets/css/odometer.min.css">
+    <link rel="stylesheet" href="../assets/css/jarallax.css">
+    <link rel="stylesheet" href="../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="../assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="../assets/css/agrikon-icons.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.min.css">
+    <link rel="stylesheet" href="../assets/css/nouislider.pips.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="../assets/css/main.css">
 </head>
 
 <?php include 'php/header.php' ?>
@@ -39,15 +39,15 @@
     <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
 </div><!-- /.stricky-header -->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+    <div class="page-header__bg" style="background-image: url(../assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Homepage</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Product Details</span></li>
+            <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Ürün Detayları</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -57,8 +57,8 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                    <div class="service-sidebar__links">
-                        <ul>
+                <div class="service-sidebar__links">
+                <ul>
                             <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
@@ -72,7 +72,7 @@
                                             <li><a href="terrafert-augment.php">Augment</a></li>
                                             <li><a href="terrafert-grose-cal.php">Grose - Cal</a></li>
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
-                                            <li style="background-color: #e3e3e3;"><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
+                                            <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
                                         </ul>
                                     </div>
@@ -154,7 +154,7 @@
                                     <li><a id="npk" href="#in9" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Haifa NPK</a></li>
                                     <div id="in9" class="collapse" style="padding-left: 20px;">
                                         <ul>
-                                            <li style="background-color: #e3e3e3;"><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
+                                            <li><a href="haifa-npk-12.5.40.php">Multifeed 12.5.40+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-15.30.15.php">Multifeed 15.30.15+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-16.8.24.php">Multifeed 16.8.24+2MgO+ME</a></li>
                                             <li><a href="haifa-npk-18.18.18.php">Multifeed 18.18.18+2MgO+ME</a></li>
@@ -164,7 +164,7 @@
 
                                         </ul>
                                     </div>
-
+                                    
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -174,18 +174,18 @@
                                             <li><a href="safgubreler-haifa-mkp.php">Haifa MKP</a></li>
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
-                                            <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <li style="background-color: #e3e3e3;"><a href="safgubreler-magnisal.php">Magnisal</a></li>
+                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
+                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
                                         </ul>
                                     </div>
-
+                                    
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -218,7 +218,7 @@
                     </div>
                     <!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
-                        <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
+                        <div class="service-sidebar__call-bg" style="background-image: url(../assets/images/services/service-widget-bg-1.jpg);"></div>
                         
                         <h3>We sell best
                             agriculture
@@ -226,48 +226,227 @@
                            
                     </div> -->
                     <!-- /.service-sidebar__call -->
-
+                  
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
-                <h2 style="margin-top: 0px;">Terrafert Grose - Mix</h2>
-                <img src="assets/images/GROSE-MiX.jpg" alt="">
-                <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX.jpeg" alt=""></a>
+                <h2 style="margin-top: 0px;">Magnisal</h2>
+                <img src="../assets/images/Magnisal-kapak.jpg" alt="">
+                <h3 style="margin-top: 20px;">"Magnezyum Nitrat"</h3>
+                <p>Magnisal, bitkilerin fotosentez ve diğer süreçleri için son derece önemli olan Magnezyum emilimini kolaylaştırır. Magnisal' de bulunan Nitrat Azotu bitkiler tarafından kolayca emilir ve bu da Magnezyum alımının verimliliğini arttırır. Magnisal kolay kullanım için pul formunda tedarik edilmektedir ve tüm mahsüller için NutrigationTM ve yapraktan besleme uygulamalarına uygundur.</p>
 
-                <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX.jpeg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+                <h5 style="margin-top: 20px;">Magnisal' ın Avantajları</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Suda tamamen çözünür.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">% 100 bitki besin elementlerinden oluşur.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Yapraktan uygulama için uygun bir pH değerinde orta derecede asitli bir çözeltidir.</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Klor, Sodyum ve bitkiler için zararlı olan diğer elementleri içermez</span>
+                        </li>
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">Besin çözeltilerinin üretimi için uygundur.</span>
+                        </li>
+
+
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
                 </div>
+
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Garanti Edilen İçerik</th>
+
+                            <th scope="col"> %w/w</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td>Toplam N</td>
+                            <td> % 11,0</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">-</th>
+                            <td>N-NO3</td>
+                            <td>% 11,0</td>
+
+                        </tr>
+
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>MgO</td>
+                            <td> % 16,0</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td> Mg</td>
+                            <td>% 9,7</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>Çözünmez madde</td>
+                            <td>300 ppm</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td>Hacimsel yoğunluk</td>
+                            <td>0,7 g/cm3</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+                <h5 style="margin-top: 25px;">Suda Çözünürlük</h5>
+                <p>Magnisal suda yüksek bir çözünürlüğe sahiptir.
+                    <br>
+                    Çözünürlük, Magnezyum Sülfat gübrelerine göre yaklaşık on mislidir.
+                </p>
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Su Sıcaklığı (oC)</th>
+                            <th scope="col"> g Magnisal / 100 g su</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td> 0</td>
+                            <td> 173</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>10</td>
+                            <td>200</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td>20</td>
+                            <td>225</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td> 30</td>
+                            <td>256</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td> 40</td>
+                            <td>289</td>
+
+                        </tr>
+                     
+                    </tbody>
+                </table>
+
+
+                <h5 style="margin-top: 25px;">Çeşitli Konsantrasyonlarda Magnisal'in pH ve EC Değerleri</h5>
+                <table class="table" style="margin-top: 20px;">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">
+                                Konsantrasyon %</th>
+                            <th scope="col">
+                                pH</th>
+                            <th scope="col"> EC mS/cm</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">1</th>
+                            <td> 0,1</td>
+                            <td>0,88</td>
+                            <td>0,72</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">2</th>
+                            <td>0,2</td>
+                            <td>5,5</td>
+                            <td>1,69</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">3</th>
+                            <td> 0,3</td>
+                            <td>5,4</td>
+                            <td>2,52</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">4</th>
+                            <td>1,0</td>
+                            <td>4,8</td>
+                            <td>7,58</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">5</th>
+                            <td> 5,0</td>
+                            <td>4.1</td>
+                            <td> 29,9</td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+
+
+
+
                 <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/GROSE-MiX-kullanim.jpg" alt=""></a>
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;">25 kg</span>
+                        </li>
 
-                <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
-                    <div class="modal-dialog" style="max-width:1000px !important">
-                        <div class="modal-content">
-                            <div class="modal-body">
-                                <img src="assets/images/GROSE-MiX-kullanim.jpg" class="img-responsive">
-                            </div>
-                        </div>
-                    </div>
+
+
+
+
+
+
+                    </ul><!-- /.list-unstyled -->
                 </div>
-
-
-
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/magnisal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Magnisal Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/GROSE-MiX-TESCiL.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Mix Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/magnisal-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Magnisal Tescil</span></a>
                         </div>
                     </div>
                 </div>
@@ -283,8 +462,8 @@
 
 <script>
     window.onload = function() {
-        document.getElementById("product").click();
-        document.getElementById("fertoro").click();
+        document.getElementById("product2").click();
+        document.getElementById("saf").click();
     };
 </script>
 
