@@ -414,7 +414,7 @@
                 <!-- <div class="block-title__image"></div> -->
                 <!-- /.block-title__image -->
                 <p>HAIFA GROUP</p>
-                <h3>Suda Çözünür Gübreler</h3>
+                <h3>Water Soluble Fertilizer</h3>
                 <!-- <h3>Multifeed - </h3> -->
             </div>
             <!-- /.block-title -->

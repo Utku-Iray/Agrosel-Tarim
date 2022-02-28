@@ -233,13 +233,13 @@
                 <h2 style="margin-top: 0px;">Terrafert Grose - Cup</h2>
                 <img src="../assets/images/GROSE-CUP.jpg" alt="">
                 <hr>
-                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="../assets/images/en-grosecup.jpeg" alt=""></a>
+                <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="../assets/images/grose-cup-eng.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
                     <div class="modal-dialog" style="max-width:1000px !important">
                         <div class="modal-content">
                             <div class="modal-body">
-                                <img src="../assets/images/en-grosecup.jpeg" class="img-responsive">
+                                <img src="../assets/images/grose-cup-eng.jpeg" class="img-responsive">
                             </div>
                         </div>
                     </div>

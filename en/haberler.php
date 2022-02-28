@@ -45,12 +45,12 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Kurumsal</span></li>
+            <li><span>Corporate</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Haberler</h2>
+        <h2>News</h2>
     </div>
     <!-- /.container -->
 </section>
