@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -146,7 +146,7 @@
                                              <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Raw Material</a></li>
                                     <div id="in11" class="collapse">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -170,7 +170,7 @@
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> --> -->
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse">
                                         <ul>
 
@@ -181,7 +181,7 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold">
                                 <ul>
                                     <li><a id="neovent" data-toggle="collapse" href="#in15" style="font-weight:bold">Neovent ACF</a></li>
@@ -294,7 +294,7 @@
                     </ul><!-- /.list-unstyled -->
                 </div>
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

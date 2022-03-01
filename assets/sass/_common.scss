@@ -121,7 +121,7 @@ p {
     @include large-laptop {
         max-width: 1600px;
     }
-    &.Anasayfa-one__boxed {
+    &.Homepage-one__boxed {
         margin-top: -60px;
         @include large-tablet {
             margin-top: -205px;

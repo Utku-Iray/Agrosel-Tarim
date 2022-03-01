@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -237,55 +237,55 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Terrafert 10.05.40+TE; suda % 100 çözünebilen yüksek oranda potasyum içeren bir gübredir.</span>
+                            <span style="font-weight: bold;"> Terrafert 10.05.40+TE; It is a 100% water soluble fertilizer containing high potassium.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Özellikle hasata yakın dönemde meyveyi doldurmada ve olgunlaşma için kullanılır.</span>
+                            <span style="font-weight: bold;"> It is used for filling the fruit and for ripening, especially in the near-harvest period.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Çözünürlüğü ve saflığı yüksektir. Damlama sisteminizde tıkanma yapmaz.</span>
+                            <span style="font-weight: bold;"> It has high solubility and purity. It does not clog in your drip system.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğindeki yüksek potasyum (K) sayesinde kaliteli meyve oluşumu için rahatlıkla kullanılır.</span>
+                            <span style="font-weight: bold;"> Thanks to its high potassium (K) content, it can be easily used for quality fruit formation.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Üre azotu içermediğinden bitkilerinizin her döneminde kullanılır.</span>
+                            <span style="font-weight: bold;"> Since it does not contain urea nitrogen, it is used in every period of your plants.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Bitkilerin en çok ihtiyacı olan mikro elementleri içerir.</span>
+                            <span style="font-weight: bold;"> It contains the microelements that plants need most.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğindeki Kükürt (S) sayesinde bitkiye nüfuzu hızlı bir şekilde gerçekleşir.</span>
+                            <span style="font-weight: bold;"> Thanks to the Sulfur (S) in its content, it penetrates the plant quickly.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Topraktan ve yapraktan çok rahatlıkla kullanılır.</span>
+                            <span style="font-weight: bold;"> It can be used very easily from soil and leaves.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Soğuk hava koşullarında dahi bitkide gerekli değişiklikleri gösterir.</span>
+                            <span style="font-weight: bold;"> It shows the necessary changes in the plant even in cold weather conditions.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğinde Klor (Cl), Sodyum (Na) ve ağır metaller yoktur.</span>
+                            <span style="font-weight: bold;"> It shows the necessary changes in the plant even in cold weather conditions.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Meyvenin raf ömrünün uzamasını sağlar.</span>
+                            <span style="font-weight: bold;"> It extends the shelf life of the fruit.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">İçeriğindeki mikro elementler şelatlıdır. Bu yüzden yıkanmaz ve fiske olmaz.</span>
+                            <span style="font-weight: bold;"> It extends the shelf life of the fruit.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Çabuk alınabilen ve çabuk etkisini gösteren spesifik bir gübredir.</span>
+                            <span style="font-weight: bold;"> It is a specific fertilizer that can be taken quickly and shows its effect quickly.</span>
                         </li>
 
                       
@@ -296,15 +296,15 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Bitki Adı</th>
-                            <th scope="col">Topraktan (da/gün)</th>
-                            <th scope="col"> Yapraktan (100lt.)</th>
+                            <th scope="col">Plant Name</th>
+                            <th scope="col">Drip (de/day)</th>
+                            <th scope="col"> Foliar (100lt.)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
+                            <td>Vegetables</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
@@ -312,35 +312,35 @@
                       
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
+                            <td>Fruit trees</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
+                            <td>Ornamental Plants</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Çilek, Muz</td>
+                            <td>Strawberry, Banana</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Bağ(Omca Başına)</td>
+                            <td>Vineyard (Per Omca)</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Zeytin</td>
+                            <td>Olives</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
@@ -348,7 +348,7 @@
                       
                         <tr>
                             <th scope="row">7</th>
-                            <td>Tarla Bitkileri</td>
+                            <td>Farm plants</td>
                             <td>0,5-1,5 kg</td>
                             <td>100-200 gr</td>
 
@@ -361,7 +361,7 @@
                 <hr>
 
 
-<h5 style="margin-top: 20px;">Ambalaj:</h5>
+<h5 style="margin-top: 20px;">Packaging:</h5>
 <div>
     <ul class="list-unstyled service-details__list-2">
         <li>

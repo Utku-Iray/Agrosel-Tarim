@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,7 +43,7 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
             <li><span>Ürünler</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="taban" href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a id="taban" href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -289,7 +289,7 @@
                 </div>
                 <div style="margin-top: 50px;">
                     <div >
-                        <h4 style="margin-top: 0px;">Saf Gübreler</h4>
+                        <h4 style="margin-top: 0px;">Raw Material</h4>
                     </div>
                     <hr>
                     <div class="row">
@@ -365,7 +365,7 @@
 
                 <div>
                     <div>
-                        <h4 style="margin-top:50px;">Taban Gübreleri</h4>
+                        <h4 style="margin-top:50px;">Granular Fertilizer</h4>
                     </div>
                     <hr>
                     <div class="row">

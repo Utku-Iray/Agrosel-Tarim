@@ -46,7 +46,7 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
             <li><span>İletİşİm</span></li>
         </ul>
@@ -166,7 +166,7 @@
 </section>
 <!-- /.contact-infos -->
 
-<div class="google-map__Anasayfa-two">
+<div class="google-map__Homepage-two">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.497543992365!2d30.716483315578994!3d36.878443979932435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c39aaebd7c4a91%3A0x1f65b013f211541f!2sAgrosel%20Tar%C4%B1m!5e0!3m2!1str!2str!4v1643844588466!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <!-- /.google-map -->

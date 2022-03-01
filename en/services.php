@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -145,7 +145,7 @@
                                             <li><a href="">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in11" data-toggle="collapse">Saf Gübreler</a></li>
+                                    <li><a href="#in11" data-toggle="collapse">Raw Material</a></li>
                                     <div id="in11" class="collapse">
                                         <ul>
                                             <li><a href="">BitterMag</a></li>
@@ -169,7 +169,7 @@
                                             <li><a href="">Multi-npK 13.5.42 </a></li>
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse">
                                         <ul>
                                             <li><a href="">Haifa Turbo-K</a></li>
@@ -180,7 +180,7 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a href="#in14" data-toggle="collapse"  style="color: #393083; font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a href="#in14" data-toggle="collapse"  style="color: #393083; font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14">
                                 <ul>
                                     <li><a data-toggle="collapse" href="#in15">Neovent ACF</a></li>

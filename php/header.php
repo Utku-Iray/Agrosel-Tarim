@@ -30,15 +30,15 @@
                     </div><!-- /.logo-box -->
                     <ul class="main-menu__list">
                         <li>
-                            <a href="index.php">Anasayfa</a>
+                            <a href="index.php">Homepage</a>
                         </li>
                         <!-- <li class="dropdown">
-                            <a href="index.php">Anasayfa</a>
+                            <a href="index.php">Homepage</a>
                             <ul>
                                 <li>
-                                    <a href="index.php">Anasayfa One</a>
+                                    <a href="index.php">Homepage One</a>
                                 </li>
-                                <li><a href="index-2.html">Anasayfa Two</a></li>
+                                <li><a href="index-2.html">Homepage Two</a></li>
                                 <li class="dropdown">
                                     <a href="#">Header Styles</a>
                                     <ul>
@@ -49,9 +49,9 @@
                             </ul>
                         </li> -->
                         <!-- <li>
-                            <a href="about.html">Kurumsal</a>
+                            <a href="about.html">Corporate</a>
                         </li> -->
-                        <li class="dropdown"><a href="#">Kurumsal</a>
+                        <li class="dropdown"><a href="#">Corporate</a>
                             <ul>
                                 <li><a href="about.php">Biz Kimiz</a></li>
                                 <li><a href="distributorluklerimiz.php">Distribütörlüklerimiz</a></li>
@@ -61,7 +61,7 @@
                         <!-- <li class="dropdown"><a href="#">Pages</a>
                             <ul>
                                 <li><a href="services.html">Services</a></li>
-                                <li><a href="service-details.html">Ürün Detayları</a></li>
+                                <li><a href="service-details.html">Product Details</a></li>
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </li> -->

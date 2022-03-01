@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                 <div class="service-sidebar__links">
                 <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -181,12 +181,12 @@
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
                                           <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                            <li ><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li>
+                                            <!-- <li ><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
                                              <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="taban" href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a id="taban" href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -233,81 +233,81 @@
                 <h2 style="margin-top: 0px;">Haifa Turbo-K 15.15.15</h2>
                 <img src="../assets/images/Haifa-Turbo-K-15-15-15-kapak.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Haifa Turbo-K 15.15.15"  </h3>
-                <h5>"Potasyum Nitrat ile Oluşturulan Karışım NPK Gübresi"</h5>
-                <h5>"MAKSİMUM VERİM VE GÜÇLÜ BİTKİ"</h5>
+                <h5>"Mixture NPK Fertilizer Created with Potassium Nitrate"</h5>
+                <h5>"MAXIMUM EFFICIENCY AND STRONG PLANT"</h5>
 
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Haifa Turbo-K , Multi-KTM Potasyum Nitrat'tan oluşturulan birinci sınıf granül NPK'dır. Verimi ve bitki gücünü Maksimize etmek için mutlak çözümdür.</span>
+                            <span style="font-weight: bold;">Haifa Turbo-K, is premium granular NPK created from Multi-KTM Potassium Nitrate. It is the absolute solution for Maximizing yield and plant strength.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Haifa Turbo-K , Multi-KTM Potasyum Nitrat ve gerekli makro ve mikro besin elementleriyle birleştirilerek bitkinize son derece verimli besinler sunar. </span>
+                            <span style="font-weight: bold;">Haifa Turbo-K is combined with Multi-K Potassium Nitrate and necessary macro and micro nutrients to provide your plant with extremely efficient nutrients.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Haifa Turbo-K karışım gübresi açık alanlar, seralar meyve bahçeleri ve çim üretimi için idealdir. Ürün kazancını maksimize etmek için özel olarak üretilmiş seri gübre teknolojisine sahiptir.</span>
+                            <span style="font-weight: bold;">Haifa Turbo-K is combined with Multi-K Potassium Nitrate and necessary macro and micro nutrients to provide your plant with extremely efficient nutrients.</span>
                         </li>
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-                <h5 style="margin-top: 20px;">Haifa Turbo-K Karışım Gübrelerinin Faydaları </h5>
+                <h5 style="margin-top: 20px;">Benefits of Haifa Turbo-K Mixed Fertilizers</h5>
 
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Haifa Multi-KTM 'ya dayalı en kaliteli K kaynağıdır.</span>
+                            <span style="font-weight: bold;">It is the best quality K source based on Haifa Multi-K.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Dikkatle dengelenmiş K, Mg ve S içerir. </span>
+                            <span style="font-weight: bold;">Contains carefully balanced K, Mg and S. </span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Nitratla Amonyumun en uygun dengesini içerir.</span>
+                            <span style="font-weight: bold;">It contains the optimum balance of nitrate and ammonium.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Sodyum ve Klor oranı çok düşüktür.</span>
+                            <span style="font-weight: bold;">Sodium and Chlorine ratio is very low.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Düşük çevresel etki için doğru miktarda Kükürt içerir.</span>
+                            <span style="font-weight: bold;">Contains the right amount of Sulfur for low environmental impact.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Her granüldeki homojen karışım, düzenli bitki beslenmesini sağlar.</span>
+                            <span style="font-weight: bold;">The homogeneous mixture in each granule ensures regular plant nutrition.</span>
                         </li>
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-                <h5 style="margin-top: 20px;">Multi-KTM Potasyum Nitrat İçeriği </h5>
+                <h5 style="margin-top: 20px;">Multi-K Potassium Nitrate Content </h5>
 
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Bitkinin gücü, mükemmel verim kalitesi ve sağlıklı büyüme için yeterli Potasyum beslemesi esastır. Haifa Turbo-K daki Potasyum, bitkiler için en iyi Potasyum kaynağı olan Multi-KTM Potasyum Nitrattan elde edilir.</span>
+                            <span style="font-weight: bold;">Adequate Potassium nutrition is essential for plant vigor, excellent yield quality and healthy growth. The Potassium in Haifa Turbo-K is derived from Multi-K Potassium Nitrate, which is the best source of Potassium for plants.</span>
                         </li>
 
 
                     </ul><!-- /.list-unstyled -->
                 </div>
-                <h5 style="margin-top: 20px;">Topraktaki Fazla Tuza Karşı Mücadele </h5>
+                <h5 style="margin-top: 20px;">Combating Excess Salt in Soil</h5>
 
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Toprakta tuz oranının fazla olması, bitkinin topraktan su emilimini olumsuz etkileyerek kritik fizyolojik gelişimleri engeller ve dolayısıyla büyümeyi geciktirip verimi düşürür. Üstelik toprakta fazla tuzlanmaya neden olan Sodyum (Na+) ve Klorür (Cl-) gibi temel iyonların, bitkilerin üzerinde belirgin toksik etkileri de vardır.</span>
+                            <span style="font-weight: bold;">Too much salt in the soil affects the plant's water absorption from the soil, preventing critical physiological developments, and thus delaying growth and reducing yield. Moreover, basic ions such as Sodium (Na+) and Chloride (Cl-), which cause excessive salinization in the soil, have significant toxic effects on plants. </span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Haifa Turbo-K 'nın Sodyum ve Klorür oranı düşüktür ve düşük tuz endeksinde işlev yapar. Bu özellik onu tuzluluk problemlerinin daha şiddetli olduğu sıcak ve kuru iklimlerin yanı sıra tuza duyarlı bitkilerde kullanım için ideal kılar.</span>
+                            <span style="font-weight: bold;">Haifa Turbo-K is low in Sodium and Chloride and functions at a low salt index. This property makes it ideal for use on salt sensitive crops as well as in hot and dry climates where salinity problems are more severe.</span>
                         </li>
 
                     </ul><!-- /.list-unstyled -->
@@ -320,7 +320,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

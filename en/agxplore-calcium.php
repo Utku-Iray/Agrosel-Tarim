@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -146,7 +146,7 @@
                                              <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="font-weight:bold">Raw Material</a></li>
                                     <div id="in11" class="collapse">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -170,7 +170,7 @@
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> --> -->
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="font-weight:bold">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse">
                                         <ul>
 
@@ -181,7 +181,7 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #000000; font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold">
                                 <ul>
                                     <li><a id="neovent" data-toggle="collapse" href="#in15" style="font-weight:bold">Neovent ACF</a></li>
@@ -223,7 +223,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -245,10 +245,10 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            CALCIUM 12% , yapraktan beslemede kullanılmak üzere hazırlanmış, bitkilerin kalsiyum ihtiyaçlarını karşılamakta oldukça etkili ve etkinliği kanıtlanmış olan bir yaprak gübresidir. Tüm meyvelerde, sebzelerde ve turunçgillerde, tarla bitkilerinde, zeytinde, bağ, çilek ve diğer tüm bitkiler için formüle edilmiştir. Kalsiyum eksikliği, ilk belirtilerini yaprak uçlarının kuruması veya yukarı doğru kıvrılmasıyla gösterir. Sürgün uçlarında ölme ve ölü dokunun büyümesinin durması, meyve ucunda renk açılması, ilerleyen dönemde kahverengi-siyah çürüklüğü (çiçek burnu çürüklüğü) görülür. Elmada acı benek, domates, biber, patlıcanda çiçek burnu çürüklüğü, kerevizde meyve içi kararması kalsiyum eksikliği sonucu ortaya çıkan sorunların bazılarıdır.   </li>
+                            CALCIUM 12% , yapraktan beslemede kullanılmak üzere hazırlanmış, bitkilerin kalsiyum ihtiyaçlarını karşılamakta oldukça etkili ve etkinliği kanıtlanmış olan bir yaprak gübresidir. Tüm meyvelerde, Vegetables ve turunçgillerde, Farm plantsnde, Olivesde, bağ, çilek ve diğer tüm bitkiler için formüle edilmiştir. Kalsiyum eksikliği, ilk belirtilerini yaprak uçlarının kuruması veya yukarı doğru kıvrılmasıyla gösterir. Sürgün uçlarında ölme ve ölü dokunun büyümesinin durması, meyve ucunda renk açılması, ilerleyen dönemde kahverengi-siyah çürüklüğü (çiçek burnu çürüklüğü) görülür. Elmada acı benek, domates, biber, patlıcanda çiçek burnu çürüklüğü, kerevizde meyve içi kararması kalsiyum eksikliği sonucu ortaya çıkan sorunların bazılarıdır.   </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            CALCIUM 12%, hücre bölünmesinin düzenlenmesi ve hücrelerin uzamasında etkili olarak bitkinin büyümesini sağlar. Hücre duvarını sağlamlaştırarak bitkinin hastalıklara, kuraklığa, dona ve stres koşullarına karşı dayanımını arttırır. Normal kök gelişimi ve çiçeklenme için gereklidir. kaliteli, raf ömrü uzun bir ürün hasadı sağlar. Yeterince kalsiyum alamayan meyve ve sebzelerde çürüme ve çatlamalar meydana gelir. CALCIUM 12%, kalitesi sayesinde hızlı, etkili ve kesin çözümler sunar.   </li>
+                            CALCIUM 12%, hücre bölünmesinin düzenlenmesi ve hücrelerin uzamasında etkili olarak bitkinin büyümesini sağlar. Hücre duvarını sağlamlaştırarak bitkinin hastalıklara, kuraklığa, dona ve stres koşullarına karşı dayanımını arttırır. Normal kök gelişimi ve çiçeklenme için gereklidir. kaliteli, raf ömrü uzun bir ürün hasadı sağlar. Yeterince kalsiyum alamayan meyve ve Vegetables çürüme ve çatlamalar meydana gelir. CALCIUM 12%, kalitesi sayesinde hızlı, etkili ve kesin çözümler sunar.   </li>
 
                        
 
@@ -261,8 +261,8 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Topraktan</th>
+                            <th scope="col"> Plant Name</th>
+                            <th scope="col"> Drip</th>
                             <th scope="col"> Damlamadan (da)</th>
                         </tr>
                     </thead>
@@ -271,7 +271,7 @@
                             <th scope="row">1</th>
                             <td>Meyvelerde</td>
                             <td>	0,5-1 lt.</td>
-                            <td>Meyve Ağaçları</td>
+                            <td>Fruit trees</td>
 
 
                         </tr>
@@ -285,7 +285,7 @@
 
                         <tr>
                             <th scope="row">3</th>
-                            <td>Sebzelerde</td>
+                            <td>Vegetables</td>
                             <td> 	100-200 cc</td>
                             <td>	0,5-1 lt.</td>
 
@@ -299,14 +299,14 @@
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Çiçek, Süs Bitkileri</td>
+                            <td>Çiçek, Ornamental Plants</td>
                             <td> 	100-200 cc</td>
                             <td>	0,5-1 lt.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Tarla Bitkileri</td>
+                            <td>Farm plants</td>
                             <td> 	100-200 cc</td>
                             <td>	0,5-1 lt.</td>
 
@@ -331,7 +331,7 @@
                     </ul><!-- /.list-unstyled -->
                 </div>
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

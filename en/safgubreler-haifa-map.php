@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                 <div class="service-sidebar__links">
                 <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -232,31 +232,31 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa MAP</h2>
                 <img src="../assets/images/MAP-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Mono Amonyum Fosfat (12-61-0)"</h3>
-                <p>Haifa MAP, tüm mahsüller için NutrigationTM ve yapraktan besleme uygulamalarına yönelik suda tamamen çözünebilir bir gübredir. Haifa MAP' nin, fosfor mevcudiyetinin kök sistemlerinin oluşturulması için son derece önemli olduğu büyüme mevsiminin başlangıcında kullanılması önerilmektedir. Haifa MAP büyüme döngüsü boyunca mahsulün beslenme ihtiyaçlarını karşılamak için diğer gübrelerle birlikte tankta karıştırılabilir*. Haifa MAP, gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için uygun bir üründür.</p>
+                <h3 style="margin-top: 20px;">"Mono Ammonium Phosphate (12-61-0)""</h3>
+                <p>Haifa MAP is a fully water soluble fertilizer for NutrigationTM for all crops and foliar feeding applications. Haifa MAP is recommended to be used at the beginning of the growing season when the availability of phosphorus is extremely important for the establishment of root systems. Haifa MAP can be mixed in the tank with other fertilizers to meet the nutritional needs of the crop throughout its growth cycle*. Haifa MAP is suitable for the preparation of fertilizer mixes and for the production of liquid fertilizers.</p>
 
-                <h5 style="margin-top: 20px;">Haifa MAP Ürününün Avantajları</h5>
+                <h5 style="margin-top: 20px;">Advantages of Haifa MAP Product</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Suda tamamen çözünür.</span>
+                            <span style="font-weight: bold;"> It is completely soluble in water.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">% 100 bitki besin elementlerinden oluşur.</span>
+                            <span style="font-weight: bold;"> It consists of 100% plant nutrients.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Düşük pH seviyesine sahiptir.</span>
+                            <span style="font-weight: bold;"> It has a low pH level.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Klor, Sodyum ve bitkiler için zararlı olan diğer elementleri içermez</span>
+                            <span style="font-weight: bold;"> Does not contain Chlorine, Sodium and other elements harmful to plants</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Besin çözeltilerinin üretimi için uygundur.</span>
+                            <span style="font-weight: bold;"> It is suitable for the production of nutrient solutions.</span>
                         </li>
 
 
@@ -272,7 +272,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -280,7 +280,7 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam N</td>
+                            <td>Total N</td>
                             <td> % 12</td>
 
                         </tr>
@@ -304,20 +304,20 @@
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Hacimsel Yoğunluk</td>
+                            <td>Volumetric Density</td>
                             <td>1,1 kg/l</td>
 
                         </tr>
 
                     </tbody>
                 </table>
-                <h5 style="margin-top: 25px;">Hacimsel Yoğunluk</h5>
+                <h5 style="margin-top: 25px;">Volumetric Density</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">
-                                Hacimsel Yoğunluk</th>
+                            Volumetric Density</th>
 
                             <th scope="col">g Haifa MAP / 100 g su</th>
                         </tr>
@@ -369,7 +369,7 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">
-                                Konsantrasyon %</th>
+                                Concentration %</th>
                             <th scope="col">
                                 pH</th>
                             <th scope="col"> EC mS/cm</th>
@@ -416,11 +416,11 @@
                 </table>
 
 
-<p>*Not: Haifa MAP Kalsiyum ve Magnezyum gübreleri ile karıştırılmamalıdır.</p>
+<p>*Note: Haifa MAP should not be mixed with Calcium and Magnesium fertilizers.</p>
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

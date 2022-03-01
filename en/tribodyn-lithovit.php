@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -221,13 +221,13 @@
                 <div class="col-lg-8">
                     <h2 style="margin-top: 0px;">Lithovit CO2</h2>
                     <img src="../assets/images/lithovit.jpg" alt="">
-                    <h3 style="margin-top: 20px;">Yapraktan Uygulamalar İçin Doğal CO2 Kaynağı</h3>
+                    <h3 style="margin-top: 20px;">Lithovit CO2</h3>
                     <h5>NATURAL CO2 SOURCE FOR FOLIAR APPLICATIONS</h5>
                     <table class="table" style="margin-top: 20px;">
                         <thead class="thead-dark">
                             <tr>
                                 <th scope="col">#</th>
-                                <th scope="col">Garanti Edilen İçerik</th>
+                                <th scope="col">Guaranteed Content</th>
 
                                 <th scope="col"> %w/w</th>
                             </tr>
@@ -235,25 +235,25 @@
                         <tbody>
                             <tr>
                                 <th scope="row">1</th>
-                                <td>Toplam Kalsiyum Karbonat (CaCO3)</td>
+                                <td>Total Calcium Carbonate (CaCO3)</td>
                                 <td>% 72</td>
 
                             </tr>
                             <tr>
                                 <th scope="row">2</th>
-                                <td>Toplam Magnezyum Karbonat (MgCO3)</td>
+                                <td>Total Magnesium Carbonate (MgCO3)</td>
                                 <td> % 7</td>
 
                             </tr>
                             <tr>
                                 <th scope="row">3</th>
-                                <td>Maksimum Nem</td>
+                                <td>Maximum Moisture</td>
                                 <td> % 0,3</td>
 
                             </tr>
                             <tr>
                                 <th scope="row">4</th>
-                                <td>Tane Büyüklüğü</td>
+                                <td>Grain Size</td>
                                 <td>
                                     < 25µm</td>
 
@@ -273,16 +273,16 @@
                         <ul class="list-unstyled service-details__list-2">
                             <li>
                                 <i class="fa fa-check-circle"></i>
-                                Lithovit Doğal CO2 yaprak gübresi açık ve kapalı alanlarda etkin olarak başarıyla kullanılabilir. Kalsiyum Karbonat, çok sayıda mikro besin elementi ile desteklenmektedir. Lithovit parçacıkları bitki stomaları yoluyla emilimi doğrudan yapılabilecek kadar küçüktür. [tanecik çapları 200 nanometre(0,0002 mm) ve 10 mikron(0,01 mm) arasında]
+                               Lithovit Natural CO2 foliar fertilizer can be used effectively indoors and outdoors. Calcium Carbonate is supported by a large number of micronutrients. Lithovit particles are so small that they can be directly absorbed through plant stomata. [particle diameters between 200 nanometers (0.0002 mm) and 10 microns (0.01 mm)]
                             </li>
                             <li>
                                 <i class="fa fa-check-circle"></i>
-                                Yapraklarda hücre boşlukları arasında Lithovit parçacıkları CO2 ve diğer mikro elementleri serbest bırakarak aktif hale geçmesini sağlar.
+                               Lithovit particles between cell spaces in leaves release CO2 and other microelements, enabling them to become active.
                             </li>
 
                             <li>
                                 <i class="fa fa-check-circle"></i>
-                                Normal havanın CO2 içeriği %0.04(onbinde dört) vol.dır. Bu da düşük CO2 miktarı anlamına gelir. Düşük CO2 den ençok kültür bitkileri etkilenir ve optimum miktarda fotosentez yapamaz. Sıcaklık koşullarının olumlu olduğunu ve ortamda yeterli besin maddelerinin ve suyun bulunduğunu kabul etsek dahi maksimum fotosentez seviyesi havada CO2 miktarının %0.1 (binde bir) vol. olması halinde gerçekleşir. Doğal CO2 gübresi Lithovit, kullanımı bitkilerde fotosentez performansını arttırır ve buna ek olarak Lithovit içerdiği mikro besin elementleriyle bu etkisini daha da güçlü hale getirir. Lithovit, bitkilerde net bir iyileştirme performansı gösterir. Birçok bitkide bu özellikler daha hızlı büyüme, daha yüksek verim ve bir çok durumda düşük su ihtiyacı, ayrıca genel bir canlılık olarak kendini göstermektedir. Buna ek olarak bitkilerde mantar hastalıklarına karşı (yapraklarda pas, mildiyö, meyve çürüklüğü gibi) direncin arttığı, duyarlılığın azaldığı bilimsel olarak tespit edilmiştir.
+                               The CO2 content of normal air is 0.04% (four in ten thousand) vol. This means low CO2 content. Cultivated plants are most affected by low CO2 and cannot perform photosynthesis in the optimum amount. Even if we accept that the temperature conditions are positive and that there is sufficient nutrients and water in the environment, the maximum photosynthesis level is 0.1% (one thousandth) vol. of the CO2 amount in the air. if it happens. The use of natural CO2 fertilizer Lithovit increases the photosynthesis performance in plants, and in addition, Lithovit makes this effect even stronger with the micronutrients it contains. Lithovit shows a clear healing performance in plants. In many plants these characteristics manifest as faster growth, higher yields, and in many cases lower water requirements, as well as general vitality. In addition, it has been scientifically determined that resistance to fungal diseases (such as rust on leaves, mildew, fruit rot) increases and sensitivity decreases in plants.
                             </li>
 
 
@@ -293,7 +293,7 @@
                     </div>
 <hr>
 
-                    <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                    <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

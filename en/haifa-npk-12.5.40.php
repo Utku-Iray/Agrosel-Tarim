@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -236,7 +236,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -244,76 +244,76 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Toplam Azot (N)</td>
+                            <td>Total Nitrogen (N)</td>
                             <td> % 12</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Amonyum Azotu (N-NH4)</td>
+                            <td>Ammonium Nitrogen (N-NH4)</td>
                             <td> % 1</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Nitrat Azotu (N-NO3)</td>
+                            <td>Nitrate Nitrogen (N-NO3)</td>
                             <td> % 11</td>
 
                         </tr>
 
                         <tr>
                             <th scope="row">4</th>
-                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
+                            <td>Water Soluble Phosphorus Pentaoxide (P2O5)</td>
                             <td>% 5</td>
 
                         </tr>
 
                         <tr>
                             <th scope="row">5</th>
-                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td>Water Soluble Potassium Oxide (K2O)</td>
                             <td>% 40</td>
 
                         </tr>
 
                         <tr>
                             <th scope="row">6</th>
-                            <td>Suda Çözünür Magnezyum Oksit (MgO)</td>
+                            <td>Water Soluble Magnesium Oxide (MgO)             </td>
                             <td> % 2</td>
 
                         </tr>
                         <tr>
                             <th scope="row">7</th>
-                            <td>Suda Çözünür Bor (B)</td>
+                            <td>Water Soluble Boron (B)</td>
                             <td>% 0,01</td>
 
                         </tr>
                         <tr>
                             <th scope="row">8</th>
-                            <td>Suda Çözünür Bakır (Cu) (EDTA şelatlı)</td>
+                            <td>Water Soluble Cupper (Cu) (EDTA chelatıng)</td>
                             <td> % 0,005</td>
 
                         </tr>
                         <tr>
                             <th scope="row">9</th>
-                            <td>Suda Çözünür Demir (Fe) (EDTA şelatlı)</td>
+                            <td>Water Soluble Iron (Fe) (EDTA chelatıng)</td>
                             <td> % 0,05</td>
 
                         </tr>
                         <tr>
                             <th scope="row">10</th>
-                            <td>Suda Çözünür Mangan (Mn) (EDTA şelatlı)</td>
+                            <td>Water Soluble Manganese (Mn) (EDTA chelatıng)</td>
                             <td> % 0,02</td>
 
                         </tr>
                         <tr>
                             <th scope="row">11</th>
-                            <td>Suda Çözünür Molibden (Mo)</td>
+                            <td>Water Soluble Molybdenum (Mo)</td>
                             <td> % 0,003</td>
 
                         </tr>
                         <tr>
                             <th scope="row">12</th>
-                            <td>Suda Çözünür Çinko (Zn) (EDTA şelatlı)</td>
+                            <td>Water Soluble Zınc  (Zn) (EDTA chelatıng)</td>
                             <td> % 0,007</td>
 
                         </tr>
@@ -327,56 +327,50 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                             Multifeed kristal yapıda ve suda tamamen çözünür NPK gübrelerinin bir serisidir.
+                             Multifeed is a series of crystalline and completely water-soluble NPK fertilizers.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Tüm sebzeler, ağaçlar ve açık alan yetiştiriciliği için (NutrigationTM) uygundur.
+                             Multifeed is a series of crystalline and completely water-soluble NPK fertilizers.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                             Multifeed formülleri Magnezyum ve Mikro Besin Elementleri ile zenginleştirilmiştir.
+                             Multifeed formulas are enriched with Magnesium and Micro-Nutrient Elements.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Ürünlerin geniş çeşitliliği, büyüme döngüsü boyunca tam bir bitki beslemesi sağlar.
+                             The wide variety of products provides complete plant nutrition throughout the growth cycle.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                             Multifeed hem torbanın hemde ürünün yeşil rengi ile kolayca belirlenebilir.
+                             Multifeed can be easily identified by the green color of both the bag and the product.
                         </li>
-                        <h5 style="margin-top: 25px;"> Multifeed'in Avantajları</h5>
+                        <h5 style="margin-top: 25px;"> Advantages of Multifeed</h5>
 
-                        <li>
+                          <li>
                             <i class="fa fa-check-circle"></i>
-                            Suda tamamen çözünür.
+                            It is completely soluble in water.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Yüksek içerikli kaliteli malzemelerle yapılmıştır.
+                            Made with high content quality materials.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            % 100 bitki besin elementlerinden oluşmaktadır.
+                            It consists of 100% plant nutrients.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            İçeriğinde Klor, Sodyum ve bitkiler için zararlı başka elementler bulunmaz.
+                            It does not contain Chlorine, Sodium and other harmful elements for plants.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Bitkinin dengeli ve tam beslenmesini sağlar.
+                            It provides balanced and complete nutrition of the plant.
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            Geniş bir formül yelpazesi mevcuttur.
+                            A wide range of formulas are available.
                         </li>
-
-
-
-
-
-
 
 
                     </ul><!-- /.list-unstyled -->
@@ -389,7 +383,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

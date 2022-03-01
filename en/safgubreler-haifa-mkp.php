@@ -4,12 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details </title>
     <!-- favicons Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
-    <link rel="manifest" href="assets/images/favicons/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href=" ../assets/images/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href=" ../assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href=" ../assets/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href=" ../assets/images/favicons/site.webmanifest">
     <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
 
     <!-- fonts -->
@@ -17,20 +17,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
-    <link rel="stylesheet" href="assets/css/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.min.css">
-    <link rel="stylesheet" href="assets/css/jarallax.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/bootstrap-select.min.css">
-    <link rel="stylesheet" href="assets/css/agrikon-icons.css">
-    <link rel="stylesheet" href="assets/css/nouislider.min.css">
-    <link rel="stylesheet" href="assets/css/nouislider.pips.css">
+    <link rel="stylesheet" href=" ../assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href=" ../assets/css/fontawesome-all.min.css">
+    <link rel="stylesheet" href=" ../assets/css/swiper.min.css">
+    <link rel="stylesheet" href=" ../assets/css/animate.min.css">
+    <link rel="stylesheet" href=" ../assets/css/odometer.min.css">
+    <link rel="stylesheet" href=" ../assets/css/jarallax.css">
+    <link rel="stylesheet" href=" ../assets/css/magnific-popup.css">
+    <link rel="stylesheet" href=" ../assets/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href=" ../assets/css/agrikon-icons.css">
+    <link rel="stylesheet" href=" ../assets/css/nouislider.min.css">
+    <link rel="stylesheet" href=" ../assets/css/nouislider.pips.css">
 
     <!-- template styles -->
-    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href=" ../assets/css/main.css">
 </head>
 
 <?php include 'php/header.php' ?>
@@ -39,15 +39,15 @@
     <div class="sticky-header__content"></div><!-- /.sticky-header__content -->
 </div><!-- /.stricky-header -->
 <section class="page-header">
-    <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+    <div class="page-header__bg" style="background-image: url( ../assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -57,9 +57,9 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="service-sidebar">
-                <div class="service-sidebar__links">
-                <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                    <div class="service-sidebar__links">
+                        <ul>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -164,8 +164,8 @@
 
                                         </ul>
                                     </div>
-                                    
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -175,18 +175,18 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -218,7 +218,7 @@
                     </div>
                     <!-- /.service-sidebar__links -->
                     <!-- <div class="service-sidebar__call">
-                        <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
+                        <div class="service-sidebar__call-bg" style="background-image: url( ../assets/images/services/service-widget-bg-1.jpg);"></div>
                         
                         <h3>We sell best
                             agriculture
@@ -226,37 +226,37 @@
                            
                     </div> -->
                     <!-- /.service-sidebar__call -->
-                  
+
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Haifa MKP</h2>
-                <img src="assets/images/MKP-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Mono Potasyum Fosfat (0-52-34)"</h3>
-                <p>Haifa MKP, bitkiler için yüksek verimliliğe sahip bir Fosfor ve Potasyum kaynağıdır. NutrigationTM ve yapraktan uygulama için uygun olan Haifa MKP nin, Fosfor mevcudiyetinin kök sistemlerinin oluşması için son derece önemli olan büyüme mevsiminin başlangıcında kullanılması önerilmektedir. Haifa MKP büyüme döngüsü boyunca mahsulün beslenme ihtiyaçlarını karşılamak için diğer gübrelerle birlikte tankta karıştırılabilir. Haifa MKP gübre karışımlarının hazırlanması ve sıvı gübrelerin üretilmesi için ideal bir üründür.</p>
+                <img src=" ../assets/images/MKP-kapak.jpg" alt="">
+                <h3 style="margin-top: 20px;">"Mono Potassium Phosphate (0-52-34)"</h3>
+                <p>Haifa MKP is a highly efficient source of Phosphorus and Potassium for plants. Suitable for NutrigationTM and foliar application, Haifa MKP is recommended to be used at the beginning of the growing season, when Phosphorus availability is extremely important for the formation of root systems. Haifa MKP can be mixed in the tank with other fertilizers to meet the nutritional needs of the crop throughout its growth cycle. Haifa MKP is an ideal product for the preparation of fertilizer mixes and the production of liquid fertilizers.</p>
 
-                <h5 style="margin-top: 20px;">Haifa MKP'nin Avantajları</h5>
+                <h5 style="margin-top: 20px;">Advantages of Haifa MKP</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Suda tamamen çözünür.</span>
+                            <span style="font-weight: bold;">It is completely soluble in water.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">% 100 bitki besin elementlerinden oluşur.</span>
+                            <span style="font-weight: bold;">It consists of 100% plant nutrients.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Düşük pH seviyesine sahiptir. Düşük tuz indeksine sahiptir.</span>
+                            <span style="font-weight: bold;">It has a low pH level. It has a low salt index.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Klor, Sodyum ve bitkiler için zararlı olan diğer elementleri içermez</span>
+                            <span style="font-weight: bold;">Does not contain Chlorine, Sodium and other elements harmful to plants</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Besin çözeltilerinin üretimi için uygundur.</span>
+                            <span style="font-weight: bold;">It is suitable for the production of nutrient solutions.</span>
                         </li>
 
 
@@ -272,7 +272,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -304,19 +304,19 @@
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td> Hacimsel Yoğunluk</td>
+                            <td> Volumetric Density</td>
                             <td>1,2 kg/l</td>
 
                         </tr>
 
                     </tbody>
                 </table>
-                <h5 style="margin-top: 25px;">Hacimsel Yoğunluk</h5>
+                <h5 style="margin-top: 25px;">Volumetric Density</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Su Sıcaklığı (oC)</th>
+                            <th scope="col">Water temperature (oC)</th>
                             <th scope="col"> Haifa MKP / 100 g su</th>
                         </tr>
                     </thead>
@@ -361,13 +361,13 @@
                 </table>
 
 
-                <h5 style="margin-top: 25px;">Haifa MKP için pH ve EC Değerleri</h5>
+                <h5 style="margin-top: 25px;">Haifa MKP pH and EC Values ​​for</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">
-                                Konsantrasyon %</th>
+                                Concentration %</th>
                             <th scope="col">
                                 pH</th>
                             <th scope="col"> EC mS/cm</th>
@@ -376,7 +376,7 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>  0,1</td>
+                            <td> 0,1</td>
                             <td>4,8</td>
                             <td>0,72</td>
 
@@ -409,16 +409,16 @@
                             <td>25,5</td>
 
                         </tr>
-                      
+
                     </tbody>
                 </table>
 
 
-<p>*Not: Haifa MKP Kalsiyum veya Magnezyum gübreleriyle karıştırılmamalıdır.</p>
+                <p>*Note: Haifa MKP should not be mixed with Calcium or Magnesium fertilizers.</p>
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
@@ -438,11 +438,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/haifa-mpk-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Etiket</span> </a>
+                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-etiket.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Etiket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="assets/images/pdf/haifa-mpk-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Tescil</span></a>
+                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-tescil.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Tescil</span></a>
                         </div>
                     </div>
                 </div>

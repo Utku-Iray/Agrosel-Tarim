@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                 <div class="service-sidebar__links">
                 <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -239,7 +239,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -247,13 +247,13 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td> Toplam Azot (N)</td>
+                            <td> Total Nitrogen (N)</td>
                             <td> 17</td>
 
                         </tr>
                         <tr>
                             <th scope="row">-</th>
-                            <td>  Amonyak Azotu (NH3-N)</td>
+                            <td>  Ammonium Nitrogen  (NH3-N)</td>
                             <td>5,3</td>
 
                         </tr>
@@ -265,37 +265,37 @@
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Fosforpenta Oksit (P2O5)</td>
+                            <td>Water Soluble Phosphorus Pentaoxide (P2O5)</td>
                             <td>5</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Suda Çözünür Potasyum Oksit (K2O)</td>
+                            <td>Water Soluble Potassium Oxide (K2O)</td>
                             <td>	24</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Suda Çözünür Magnezyum Oksit (MgO)</td>
+                            <td>Water Soluble Magnesium Oxide (MgO)             </td>
                             <td>2</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Suda Çözünür Bor (B)</td>
+                            <td>Water Soluble Boron (B)</td>
                             <td>0,01</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Suda Çözünür Bakır (Cu)</td>
+                            <td>Water Soluble Cupper (Cu)</td>
                             <td> 	0,008 EDTA Şelatlı</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Suda Çözünür Demir (Fe)</td>
+                            <td>Water Soluble Iron (Fe)</td>
                             <td>0,08 EDTA Şelatlı</td>
 
                         </tr>
@@ -307,14 +307,14 @@
                         </tr>
                         <tr>
                             <th scope="row">8</th>
-                            <td>Suda Çözünür Molibden (Mo)</td>
+                            <td>Water Soluble Molybdenum (Mo)</td>
                             <td>0,008</td>
 
                         </tr>
 
                         <tr>
                             <th scope="row">9</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
+                            <td>Water Soluble Zınc (Zn)</td>
                             <td>	0,04 EDTA Şelatlı</td>
 
                         </tr>
@@ -339,10 +339,12 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Formülasyon</th>
+                            <th scope="col">Formulation
+</th>
 
-                            <th scope="col"> Ürün Adı</th>
-                            <th scope="col">Kullanım Önerisi</th>
+                            <th scope="col"> Name</th>
+                            <th scope="col">
+Usage Suggestion</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -350,7 +352,7 @@
                             <th scope="row">1</th>
                             <td> 17.5.24 + 2MgO + ME</td>
                             <td> 	Low Acid Peat-Lite 77430T</td>
-                            <td> Yüksek nitrat azotlu olup, soğuk hava ve kısa gün koşulları için idealdir.</td>
+                            <td> It has high nitrate nitrogen and is ideal for cold weather and short day conditions.</td>
 
                         </tr>
 
@@ -364,7 +366,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

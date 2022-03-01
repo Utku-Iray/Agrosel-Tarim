@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -146,7 +146,7 @@
                                              <!-- <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  -->
                                         </ul>
                                     </div>
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -170,7 +170,7 @@
                                           <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> --> -->
                                         </ul>
                                     </div>
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -181,7 +181,7 @@
                                     </div>
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
@@ -241,7 +241,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -249,7 +249,7 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
+                            <td>Water Soluble Zınc (Zn)</td>
                             <td> 1,5</td>
 
                         </tr>
@@ -310,22 +310,22 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col"> Bitki Adı</th>
-                            <th scope="col"> Yapraktan (100 lt.)</th>
+                            <th scope="col"> Plant Name</th>
+                            <th scope="col"> Foliar (100 lt.)</th>
                             <th scope="col"> Damlamadan(da)</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Sebzelerde</td>
+                            <td>Vegetables</td>
                             <td>50-100 cc</td>
                             <td>100-200 cc</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Meyve Ağaçları</td>
+                            <td>Fruit trees</td>
                             <td> 50-100 cc</td>
 
                             <td>100-200 cc</td>
@@ -340,7 +340,7 @@
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Bağ, Zeytin</td>
+                            <td>Bağ, Olives</td>
                             <td>50-100 cc</td>
                             <td>100-200 cc</td>
 
@@ -354,14 +354,14 @@
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
+                            <td>Ornamental Plants</td>
                             <td>50-100 cc</td>
                             <td>100-200 cc</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Tarla Bitkileri</td>
+                            <td>Farm plants</td>
                             <td>50-100 cc</td>
                             <td>100-200 cc</td>
 
@@ -386,7 +386,7 @@
                     </ul><!-- /.list-unstyled -->
                 </div>
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

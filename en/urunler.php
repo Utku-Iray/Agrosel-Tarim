@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları </title>
+    <title>Product Details </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -61,7 +61,7 @@
                         <img width="100%" style="border-radius: 5px;" src="../assets/images/service-1-3.jpg" alt="">
 
                         <div class="service-one__box-content">
-                            <h3><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></h3>
+                            <h3><a href="bitki-besleme-urunleri.php">Plant Nutrition Products</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>
@@ -73,7 +73,7 @@
                     <div class="service-one__box">
                         <img width="100%" style="border-radius: 5px;" src="../assets/images/damla.jpg" alt="">
                         <div class="service-one__box-content">
-                            <h3><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></h3>
+                            <h3><a href="damla-sulama-gubreleri.php">Water Soluble Fertilizer</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>

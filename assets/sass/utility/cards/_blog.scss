@@ -166,7 +166,7 @@
     }
 }
 
-.blog-Anasayfa-two {
+.blog-Homepage-two {
     border-top: 1px solid #e9e7e2;
     padding-top: 80px;
     padding-bottom: 50px;
@@ -198,13 +198,13 @@
     }
 }
 
-.Anasayfa-one__boxed-bg {
+.Homepage-one__boxed-bg {
     position: absolute;
     bottom: 0;
     left: 0;
 }
 
-.blog-Anasayfa-one {
+.blog-Homepage-one {
     padding-bottom: 60px;
     position: relative;
     hr {
@@ -215,7 +215,7 @@
     }
 }
 
-.blog-Anasayfa__slogan {
+.blog-Homepage__slogan {
     padding-bottom: 80px;
     @include laptop {
         margin-top: -20px;

@@ -46,12 +46,12 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>İletİşİm</span></li>
+            <li><span>Contact</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>İletişim</h2>
+        <h2>Contact</h2>
     </div>
     <!-- /.container -->
 </section>
@@ -66,7 +66,7 @@
                         <!-- <div class="block-title__image"></div> -->
                         <!-- /.block-title__image -->
 
-                        <h3>İletişim</h3>
+                        <h3>Contact</h3>
                     </div>
                     <!-- /.block-title -->
                     <div class="contact-one__summery">
@@ -96,7 +96,7 @@
                 <form action="../assets/inc/sendemail.php" class="contact-one__form contact-form-validated">
                     <div class="row">
                         <div class="col-lg-6">
-                            <input type="text" name="name" placeholder="Adınız">
+                            <input type="text" name="name" placeholder="Name">
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-6">
@@ -104,11 +104,11 @@
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-6">
-                            <input type="text" name="phone" placeholder="Telefon Numaranız">
+                            <input type="text" name="phone" placeholder="Phone Number">
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-6">
-                            <input type="text" name="subject" placeholder="Konu">
+                            <input type="text" name="subject" placeholder="Subject">
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-12">
@@ -116,7 +116,7 @@
                         </div>
                         <!-- /.col-lg-12 -->
                         <div class="col-lg-12">
-                            <button type="submit" class="thm-btn">Gönder</button>
+                            <button type="submit" class="thm-btn">Send</button>
                             <!-- /.thm-btn -->
                         </div>
                         <!-- /.col-lg-12 -->
@@ -140,7 +140,7 @@
                 <!-- /.col-sm-12 col-md-12 col-lg-4 -->
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <div class="contact-infos__single">
-                        <h3>Adres</h3>
+                        <h3>Adress</h3>
                         <p>Demircikara Mah. 1429 Sk. Özcan Apt. No:34 Kat: 1/4 ANTALYA</p>
                     </div>
                     <!-- /.contact-infos__single -->
@@ -148,7 +148,7 @@
                 <!-- /.col-sm-12 col-md-12 col-lg-4 -->
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <div class="contact-infos__single">
-                        <h3>İletişim Bilgileri</h3>
+                        <h3>Contact Information</h3>
                         <p><a href="mailto:agrosel@agroseltarim.com">agrosel@agroseltarim.com</a> <br>
                             <a href="tel:0 (242) 313 16 26">0 (242) 313 16 26</a>
 
@@ -166,7 +166,7 @@
 </section>
 <!-- /.contact-infos -->
 
-<div class="google-map__Anasayfa-two">
+<div class="google-map__Homepage-two">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3191.497543992365!2d30.716483315578994!3d36.878443979932435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14c39aaebd7c4a91%3A0x1f65b013f211541f!2sAgrosel%20Tar%C4%B1m!5e0!3m2!1str!2str!4v1643844588466!5m2!1str!2str" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 </div>
 <!-- /.google-map -->

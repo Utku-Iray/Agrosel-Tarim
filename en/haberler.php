@@ -76,7 +76,7 @@
                           
                             <!-- /.about-three__list list-unstyled -->
                             <div class="about-three__summery">
-                                <p>Neovent ACF'den Yeni Formülasyonlar Satışını yaptığımız, üstün özellikli Neovent ACF'nin Damla Sulama Gübreleri grubuna 2 yeni formülasyon daha eklenmiştir.  Formülasyonlarımız:  19.6.20 + 2MgO + TE (YENİ) 20.10.20 + TE (YENİ) 18.18.18 + TE 16.8.24 + 2MgO + TE 15.5.35 + TE   NOT: Bütün formülasyonlarımız düşük EC'li, üresiz ve klorsuz(Cl) olup, şelatlı iz elementler ve kükürtle desteklenmektedir. Daha detaylı bilgi için ürünler kategorimizi inceleyebilrsiniz. </p>
+                                <p>New Formulations from Neovent ACF Two new formulations have been added to the Water Soluble Fertilizer group of Neovent ACF, which we sell, with superior features. Our formulations: 19.6.20 + 2MgO + TE (NEW) 20.10.20 + TE (NEW) 18.18.18 + TE 16.8.24 + 2MgO + TE 15.5.35 + TE NOTE: All our formulations are low EC, urea and chlorine-free( Cl), supplemented with chelated trace elements and sulfur. For more detailed information, you can review our products category. </p>
                             </div>
                     
                         </div>
@@ -105,7 +105,7 @@
                           
                             <!-- /.about-three__list list-unstyled -->
                             <div class="about-three__summery">
-                                <p>Yüksek teknolojiye sahip U.S.A menşeli Jack's Professional damla sulama gübreleri tüm formülasyonlarıyla yeni sezonda da bayilerdeki yerini aldı. Formülasyonlar: Jack's Professional 10.52.10+ME Plant Starter Jack's Professional 20.10.20+ME Peat-Lite Jack's Professional 20.20.20+ME General Purpose Jack's Professional 17.5.24+2MgO+ME Low Acid Peat-Lite Jack's Professional 14.5.38+ME K-Trade LX Jack's Professional 25.5.15+ME High Performance   NOT: Patentli "Gerçek Mavi" solüsyon ve "H.O.T Teknolojisi" ile üretilen Jack's Professional Damla Sulama Gübrelerimiz, geliştirilmiş şelatlama ve üre içermeyen yüksek seviyeli mikro element paketlerine sahiptir. Ürün portföyünde bulunan geniş çaplı ve çeşitli formülasyonlar farklı üretim şekillerine hitap edebilecek şekilde geliştirilmiştir.   JR PETERS Inc. Firmasının Ürünleri Agrosel Tarım Güvencesiyle Satışa Sunulmuştur… </p>
+                                <p>Jack's Professional drip irrigation fertilizers of U.S.A. origin with high technology took their place in dealers in the new season with all their formulations. Formulations: Jack's Professional 10.52.10+ME Plant Starter Jack's Professional 20.10.20+ME Peat-Lite Jack's Professional 20.20.20+ME General Purpose Jack's Professional 17.5.24+2MgO+ME Low Acid Peat-Lite Jack's Professional 14.5.38+ ME K-Trade LX Jack's Professional 25.5.15+ME High Performance NOTE: Produced with a patented "True Blue" solution and "HOT Technology", our Jack's Professional Water Soluble Fertilizer has enhanced chelation and urea-free high-level microelement packages. The wide-ranging and various formulations in the product portfolio have been developed to address different production styles. JR PETERS Inc. The products of the company are offered for sale with the assurance of Agrosel Tarım…</p>
                             </div>
                     
                         </div>
@@ -134,7 +134,7 @@
                           
                             <!-- /.about-three__list list-unstyled -->
                             <div class="about-three__summery">
-                                <p>Dünya devi HAIFA GROUP, AGROSEL TARIM  güvencesiyle Türk tarımının hizmetindedir. Formulasyonlar; 18.18.18+2MgO+ME 20.20.20+ME 16.8.24+2MgO+ME 18.9.29+2MgO+ME 15.30.15+2MgO+ME 23.7.23 +2MgO+ME 12.5.40+2MgO+ME </p>
+                                <p>World giant HAIFA GROUP is at the service of Turkish agriculture with the assurance of AGROSEL TARIM. Formulations; 18.18.18+2MgO+ME 20.20.20+ME 16.8.24+2MgO+ME 18.9.29+2MgO+ME 15.30.15+2MgO+ME 23.7.23 +2MgO+ME 12.5.40+2MgO+ME </p>
                             </div>
                     
                         </div>

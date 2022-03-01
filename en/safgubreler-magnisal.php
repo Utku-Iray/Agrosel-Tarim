@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                 <div class="service-sidebar__links">
                 <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
                                     
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -232,31 +232,31 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Magnisal</h2>
                 <img src="../assets/images/Magnisal-kapak.jpg" alt="">
-                <h3 style="margin-top: 20px;">"Magnezyum Nitrat"</h3>
-                <p>Magnisal, bitkilerin fotosentez ve diğer süreçleri için son derece önemli olan Magnezyum emilimini kolaylaştırır. Magnisal' de bulunan Nitrat Azotu bitkiler tarafından kolayca emilir ve bu da Magnezyum alımının verimliliğini arttırır. Magnisal kolay kullanım için pul formunda tedarik edilmektedir ve tüm mahsüller için NutrigationTM ve yapraktan besleme uygulamalarına uygundur.</p>
+                <h3 style="margin-top: 20px;">"Magnesium Nitrate"</h3>
+                <p>Magnisal facilitates the absorption of Magnesium, which is extremely important for plants' photosynthesis and other processes. Nitrate Nitrogen in Magnisal is easily absorbed by plants, which increases the efficiency of Magnesium intake. Magnisal is supplied in flake form for easy use and is suitable for NutrigationTM and foliar feeding applications for all crops.</p>
 
-                <h5 style="margin-top: 20px;">Magnisal' ın Avantajları</h5>
+                <h5 style="margin-top: 20px;">Advantages of Magnisal</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Suda tamamen çözünür.</span>
+                            <span style="font-weight: bold;">It is completely soluble in water.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">% 100 bitki besin elementlerinden oluşur.</span>
+                            <span style="font-weight: bold;">It consists of 100% plant nutrients.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Yapraktan uygulama için uygun bir pH değerinde orta derecede asitli bir çözeltidir.</span>
+                            <span style="font-weight: bold;">It consists of 100% plant nutrients.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Klor, Sodyum ve bitkiler için zararlı olan diğer elementleri içermez</span>
+                            <span style="font-weight: bold;">Does not contain Chlorine, Sodium and other elements harmful to plants</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">Besin çözeltilerinin üretimi için uygundur.</span>
+                            <span style="font-weight: bold;">It is suitable for the production of nutrient solutions.</span>
                         </li>
 
 
@@ -272,7 +272,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -305,28 +305,30 @@
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Çözünmez madde</td>
+                            <td>Insoluble</td>
                             <td>300 ppm</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Hacimsel yoğunluk</td>
+                            <td>Volumetric density</td>
                             <td>0,7 g/cm3</td>
 
                         </tr>
                     </tbody>
                 </table>
-                <h5 style="margin-top: 25px;">Suda Çözünürlük</h5>
-                <p>Magnisal suda yüksek bir çözünürlüğe sahiptir.
+                <h5 style="margin-top: 25px;">Solubility in Water</h5>
+                <p>
+Magnisal has a high solubility in water.
                     <br>
-                    Çözünürlük, Magnezyum Sülfat gübrelerine göre yaklaşık on mislidir.
+                    The solubility is about ten times that of Magnesium Sulphate fertilizers.
                 </p>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Su Sıcaklığı (oC)</th>
+                            <th scope="col">
+Water temperature (oC)</th>
                             <th scope="col"> g Magnisal / 100 g su</th>
                         </tr>
                     </thead>
@@ -366,13 +368,14 @@
                 </table>
 
 
-                <h5 style="margin-top: 25px;">Çeşitli Konsantrasyonlarda Magnisal'in pH ve EC Değerleri</h5>
+                <h5 style="margin-top: 25px;">pH and EC Values ​​of Magnisal at Various Concentrations</h5>
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">
-                                Konsantrasyon %</th>
+                                
+Concentration %</th>
                             <th scope="col">
                                 pH</th>
                             <th scope="col"> EC mS/cm</th>
@@ -422,7 +425,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

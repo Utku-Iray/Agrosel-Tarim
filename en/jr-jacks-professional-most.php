@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Product Details </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -58,8 +58,8 @@
             <div class="col-lg-4">
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
-                    <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                        <ul>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -164,8 +164,8 @@
 
                                         </ul>
                                     </div>
-                                    
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -175,18 +175,18 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
-                                                <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -226,7 +226,7 @@
                            
                     </div> -->
                     <!-- /.service-sidebar__call -->
-                 
+
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
@@ -234,13 +234,13 @@
                 <img src="../assets/images/most.jpg" alt="">
                 <h3 style="margin-top: 20px;">"Jack's Professional Mix Of Soluble Trace Elements"</h3>
                 <h5>% 100 Water Soluble</h5>
-                <h5>"Mikro Bitki Besin Maddeleri Karışımı"</h5>
+                <h5>"Micro Plant Nutrient Mixture"</h5>
 
                 <table class="table" style="margin-top: 20px;">
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -248,43 +248,43 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td> Suda Çözünür Bor (B)</td>
+                            <td> Water Soluble Boron (B)</td>
                             <td> 1,3</td>
 
                         </tr>
-                      
+
                         <tr>
                             <th scope="row">2</th>
-                            <td>Suda Çözünür Bakır (Cu)</td>
+                            <td>Water Soluble Cupper (Cu)</td>
                             <td>2,2</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Suda Çözünür Demir (Fe)</td>
+                            <td>Water Soluble Iron (Fe)</td>
                             <td>7</td>
 
                         </tr>
-                      
+
                         <tr>
                             <th scope="row">4</th>
                             <td>Suda Çözünür Mangan (Mn)</td>
-                            <td>	8</td>
+                            <td> 8</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Suda Çözünür Molibden (Mo)</td>
-                            <td>	0,03</td>
+                            <td>Water Soluble Molybdenum (Mo)</td>
+                            <td> 0,03</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Suda Çözünür Çinko (Zn)</td>
+                            <td>Water Soluble Zınc (Zn)</td>
                             <td>4,3</td>
 
                         </tr>
-                      
+
 
                     </tbody>
                 </table>
@@ -294,15 +294,16 @@
                         <tr>
                             <th scope="col">#</th>
 
-                            <th scope="col"> Ürün Adı</th>
-                            <th scope="col">Özellikler</th>
+                            <th scope="col"> Name</th>
+                            <th scope="col">
+                                Features</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
                             <td>Jack's Professional MOST</td>
-                            <td>Bitkinin ihtiyaç duyduğu tüm mikro elementleri içeren ve kolay alınımını sağlayan çok özel ve gelişmiş şelat tekniğine sahip, iz element karışımı bir formulasyondur.</td>
+                            <td>It is a trace element mixture formulation with a very special and advanced chelate technique that contains all the micro elements needed by the plant and provides easy uptake.</td>
 
                         </tr>
 
@@ -316,12 +317,12 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;">1  kg.</span>
+                            <span style="font-weight: bold;">1 kg.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>

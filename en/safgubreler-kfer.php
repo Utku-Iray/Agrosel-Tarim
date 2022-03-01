@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları </title>
+    <title>Product Details </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Anasayfa</a></li>
+            <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Ürün Detayları</span></li>
+            <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Product Details</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -59,7 +59,7 @@
                 <div class="service-sidebar">
                     <div class="service-sidebar__links">
                         <ul>
-                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Bitki Besleme Ürünleri</a></li>
+                            <li><a id="product" href="#in1" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Plant Nutrition Products</a></li>
                             <div id="in1" class="collapse" style="padding-left: 20px;">
                                 <ul>
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
@@ -122,7 +122,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -165,7 +165,7 @@
                                         </ul>
                                     </div>
 
-                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
+                                    <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="safgubreler-bittermag.php">BitterMag</a></li>
@@ -186,7 +186,7 @@
                                         </ul>
                                     </div>
 
-                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
+                                    <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
 
@@ -236,7 +236,7 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Garanti Edilen İçerik</th>
+                            <th scope="col">Guaranteed Content</th>
 
                             <th scope="col"> %w/w</th>
                         </tr>
@@ -244,19 +244,19 @@
                     <tbody>
                         <tr>
                             <th scope="row">1</th>
-                            <td>Suda Çözünür Demir (Fe)</td>
+                            <td>Water Soluble Iron (Fe)</td>
                             <td>6</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>EDDHSA Şelatlı Demir (Fe)</td>
+                            <td>EDDHSA Chelate Iron (Fe)</td>
                             <td>6</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>pH Aralığı</td>
+                            <td>pH Range</td>
                             <td>3-11</td>
 
                         </tr>
@@ -271,84 +271,84 @@
                     <thead class="thead-dark">
                         <tr>
                             <th scope="col">#</th>
-                            <th scope="col">Bitki Adı</th>
-                            <th scope="col">Topraktan</th>
-                            <th scope="col"> Yapraktan (100lt.)</th>
+                            <th scope="col">Plant Name</th>
+                            <th scope="col">Drip</th>
+                            <th scope="col"> Foliar (100lt.)</th>
                         </tr>
                     </thead>
                     <tbody>
-                        <tr  c>
+                        <tr c>
                             <th scope="row">1</th>
-                            <td >Meyve Ağaçları</td>
+                            <td>Fruit trees</td>
 
 
                         </tr>
                         <tr>
                             <th scope="row">*</th>
-                            <td>Fidanlarda</td>
+                            <td>In the saplings</td>
                             <td>5-15 gr./Ağaç</td>
                             <td>15-50 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">*</th>
-                            <td>3-5 yaş arası ağaçlarda</td>
+                            <td>3-5in old trees</td>
                             <td>10-30 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">*</th>
-                            <td>5 yaş üzeri ağaçlarda</td>
+                            <td>5 in older trees</td>
                             <td>15-100 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">2</th>
-                            <td>Sebzelerde</td>
+                            <td>Vegetables</td>
                             <td>100-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">3</th>
-                            <td>Süs Bitkileri</td>
+                            <td>Ornamental Plants</td>
                             <td>75-150 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">4</th>
-                            <td>Çilek</td>
+                            <td>Strawberry</td>
                             <td>100-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">5</th>
-                            <td>Muz</td>
+                            <td>Banana</td>
                             <td>500-1000 gr./da</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">6</th>
-                            <td>Bağ(Omca Başına)</td>
+                            <td>Vineyard (Per Omca)</td>
                             <td>5-15 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">7</th>
-                            <td>Zeytin</td>
+                            <td>Olives</td>
                             <td>15-100 gr./Ağaç</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">8</th>
-                            <td>Tarla Bitkileri</td>
+                            <td>Farm plants</td>
                             <td>100-200 gr./da</td>
 
                         </tr>
@@ -366,8 +366,8 @@
 
 
 
-              
-                
+
+
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
@@ -392,7 +392,7 @@
 <script>
     window.onload = function() {
         document.getElementById("product2").click();
-        document.getElementById("npk").click();
+        document.getElementById("saf").click();
     };
 </script>
 
