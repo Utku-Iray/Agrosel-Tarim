@@ -107,7 +107,7 @@
                     </div>
                     <div class="main-header__info" style="margin-left: 5px;">
 
-                        <a href="assets/images/pdf/haifa-urun-katalog.pdf" target="_blank" class="main-header__info-phone">
+                        <a href="assets/images/pdf/tr-haifa.pdf" target="_blank" class="main-header__info-phone">
                             <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
                                 <span class="main-header__info-phone-text">Haifa</span>
