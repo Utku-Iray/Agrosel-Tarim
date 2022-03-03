@@ -112,7 +112,7 @@
                         </div>
                         <!-- /.col-lg-6 -->
                         <div class="col-lg-12">
-                            <textarea name="message" placeholder="Mesaj"></textarea>
+                            <textarea name="message" placeholder="Message"></textarea>
                         </div>
                         <!-- /.col-lg-12 -->
                         <div class="col-lg-12">
