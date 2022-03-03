@@ -286,21 +286,21 @@
                         <tr>
                             <th scope="row">*</th>
                             <td>In the saplings</td>
-                            <td>5-15 gr./Ağaç</td>
+                            <td>5-15 gr./Tree</td>
                             <td>15-50 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">*</th>
                             <td>3-5in old trees</td>
-                            <td>10-30 gr./Ağaç</td>
+                            <td>10-30 gr./Tree</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">*</th>
                             <td>5 in older trees</td>
-                            <td>15-100 gr./Ağaç</td>
+                            <td>15-100 gr./Tree</td>
                             <td>30-100 gr.</td>
 
                         </tr>
@@ -335,14 +335,14 @@
                         <tr>
                             <th scope="row">6</th>
                             <td>Vineyard (Per Omca)</td>
-                            <td>5-15 gr./Ağaç</td>
+                            <td>5-15 gr./Tree</td>
                             <td>30-100 gr.</td>
 
                         </tr>
                         <tr>
                             <th scope="row">7</th>
                             <td>Olives</td>
-                            <td>15-100 gr./Ağaç</td>
+                            <td>15-100 gr./Tree</td>
                             <td>30-100 gr.</td>
 
                         </tr>
