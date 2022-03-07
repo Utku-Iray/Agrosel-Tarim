@@ -403,7 +403,7 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">  12.5.40 + TE Ticket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">  12.5.40 + TE Label</span> </a>
                         </div>
 
                         <div class="col-md-6">

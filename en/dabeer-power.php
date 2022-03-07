@@ -224,7 +224,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/power-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Power Fe Ticket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/power-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Power Fe Label</span> </a>
                     </div>
                     <br>
                     <div>

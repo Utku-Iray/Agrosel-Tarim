@@ -384,7 +384,7 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/jacks-prof-10.52.10-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">10.52.10+ME Ticket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/jacks-prof-10.52.10-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">10.52.10+ME Label</span> </a>
                         </div>
 
                         <div class="col-md-6">

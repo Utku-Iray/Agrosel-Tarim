@@ -326,7 +326,7 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/gg-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K GG  Ticket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/gg-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K GG  Label</span> </a>
                         </div>
 
                         <div class="col-md-6">

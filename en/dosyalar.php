@@ -62,7 +62,7 @@
             <tr>
                 <th scope="col">#</th>
                 <th scope="col">Product Name </th>
-                <th scope="col"> Ticket (PDF)</th>
+                <th scope="col"> Label (PDF)</th>
                 <th scope="col"> Registration (PDF)</th>
             </tr>
         </thead>

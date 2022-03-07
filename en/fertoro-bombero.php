@@ -224,7 +224,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="../assets/images/pdf/bombera1.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Ticket</span> </a>
+                    <a target="_blank" href="../assets/images/pdf/bombera1.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Label</span> </a>
                     </div>
                     <br>
                     <div>

@@ -224,7 +224,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/kelanthren-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Kelanthren %6 Fe Ticket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/kelanthren-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Kelanthren %6 Fe Label</span> </a>
                     </div>
                     <br>
                     <div>

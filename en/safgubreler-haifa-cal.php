@@ -227,7 +227,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/haifa-cal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Haifa Cal Ticket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/haifa-cal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Haifa Cal Label</span> </a>
                     </div>
                     <br>
                     <div>
@@ -358,7 +358,7 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/haifa-cal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Cal Ticket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/haifa-cal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa Cal Label</span> </a>
                         </div>
 
                         <div class="col-md-6">

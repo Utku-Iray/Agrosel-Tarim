@@ -224,7 +224,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/chincoetiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CHINCO Ticket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/chincoetiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CHINCO Label</span> </a>
                     </div>
                     <br>
                     <div>

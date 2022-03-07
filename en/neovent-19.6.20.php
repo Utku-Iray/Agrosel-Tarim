@@ -224,7 +224,7 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/neovent-19.6.20-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 19.6.20 Ticket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/neovent-19.6.20-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 19.6.20 Label</span> </a>
                     </div>
                     <br>
                     <div>
