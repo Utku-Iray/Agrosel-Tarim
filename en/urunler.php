@@ -117,7 +117,7 @@
                     <div class="service-one__box">
                         <img width="100%" style="border-radius: 5px;" src="../assets/images/multi.jpg" alt="">
                         <div class="service-one__box-content">
-                            <h3><a href="haifa-group.php">HAIFA Ürünleri</a></h3>
+                            <h3><a href="haifa-group.php">HAIFA Products</a></h3>
                         </div>
                         <!-- /.service-one__box-content -->
                     </div>

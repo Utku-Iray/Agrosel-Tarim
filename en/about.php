@@ -94,7 +94,7 @@
                     </ul> -->
                     <!-- /.about-three__list list-unstyled -->
                     <div class="about-three__summery">
-                        <p>Agrosel Tarım Limited Şirketi was established in 2001 in Antalya; operates in the field of plant nutrition products, drip irrigation fertilizers and plant growth regulators.
+                        <p>Agrosel Tarım Company was established in 2001 in Antalya; operates in the field of plant nutrition products, drip irrigation fertilizers and plant growth regulators.
                       <br><br>
                       Our company; By prioritizing quality and service, it provides services to agriculture with the aim of increasing the efficiency of plant production in our country and in different countries where we make sales, through our sales & marketing personnel in our staff with its experience and experience from the past. </p>
                     </div>
@@ -249,7 +249,7 @@
                                 </div>
                                 <!-- /.team-card__image -->
                                 <h3>Hilmi DURGUN</h3>
-                                <p>Genel Müdür</p>
+                                <p>General Manager</p>
                                 <p>hilmidurgun@agroseltarim.com</p>
                             </div>
                             <!-- /.team-card -->
@@ -266,7 +266,7 @@
                                 </div>
                                 <!-- /.team-card__image -->
                                 <h3>Osman AYDIN</h3>
-                                <p>Antalya Batı Bölge Satış ve Pazarlama Sorumlusu</p>
+                                <p>Antalya West Regional Sales and Marketing Manager</p>
                                 <p>Tel: 0 (539) 480 53 50</p>
                                 <p>osmanaydin@agroseltarim.com</p>
                             </div>
@@ -285,7 +285,7 @@
                                 </div>
                                 <!-- /.team-card__image -->
                                 <h3>Soner ŞÜKÜR</h3>
-                                <p>Antalya Doğu Bölge Satış ve Pazarlama Sorumlusu</p>
+                                <p>Antalya East Region Sales and Marketing Manager</p>
                                 <p>Tel: 0 (552)249 55 65</p>
                                 <p>sonersukur@agroseltarim.com</p>
                             </div>
@@ -304,7 +304,7 @@
                                 </div>
                                 <!-- /.team-card__image -->
                                 <h3>Ali KARAALİ</h3>
-                                <p>Muhasebe Lojistik Sorumlusu</p>
+                                <p>Accounting Logistics Manager</p>
                                 <p>Tel: 0 (535) 734 87 28</p>
                                 <p>alikaraali@agroseltarim.com</p>
                             </div>

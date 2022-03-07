@@ -50,7 +50,7 @@
             <li><span>Corporate</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>distributorships</h2>
+        <h2>Distributorships</h2>
     </div>
     <!-- /.container -->
 </section>

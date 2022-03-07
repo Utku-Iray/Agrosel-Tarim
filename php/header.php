@@ -30,7 +30,7 @@
                     </div><!-- /.logo-box -->
                     <ul class="main-menu__list">
                         <li>
-                            <a href="index.php">Homepage</a>
+                            <a href="index.php">Anasayfa</a>
                         </li>
                         <!-- <li class="dropdown">
                             <a href="index.php">Homepage</a>
@@ -51,7 +51,7 @@
                         <!-- <li>
                             <a href="about.html">Corporate</a>
                         </li> -->
-                        <li class="dropdown"><a href="#">Corporate</a>
+                        <li class="dropdown"><a href="#">Kurumsal</a>
                             <ul>
                                 <li><a href="about.php">Biz Kimiz</a></li>
                                 <li><a href="distributorluklerimiz.php">Distribütörlüklerimiz</a></li>
