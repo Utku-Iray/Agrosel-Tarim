@@ -48,10 +48,10 @@
         <ul class="thm-breadcrumb list-unstyled">
             <li><a href="index.php">Homepage</a></li>
             <li>/</li>
-            <li><span>Dosyalar</span></li>
+            <li><span>Folders</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Dosyalar</h2>
+        <h2>Folders</h2>
     </div>
     <!-- /.container -->
 </section>
@@ -61,9 +61,9 @@
         <thead class="thead-dark">
             <tr>
                 <th scope="col">#</th>
-                <th scope="col">Ürün Adı </th>
-                <th scope="col"> Etiket (PDF)</th>
-                <th scope="col"> Tescil (PDF)</th>
+                <th scope="col">Product Name </th>
+                <th scope="col"> Ticket (PDF)</th>
+                <th scope="col"> Registration (PDF)</th>
             </tr>
         </thead>
         <tbody>

@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/neovent-16.7.24-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 16.8.24 Etiket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/neovent-16.7.24-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 16.8.24 Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/neovent-16.7.24-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 16.8.24 Tescil</span></a>
+                        <a target="_blank" href="../assets/images/pdf/neovent-16.7.24-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black">Neovent 16.8.24 Registration</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

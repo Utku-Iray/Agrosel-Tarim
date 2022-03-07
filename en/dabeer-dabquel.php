@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/dabquel-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Dabquel Mix Etiket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/dabquel-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Dabquel Mix Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/dabquel-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Dabquel Mix Tescil</span></a>
+                        <a target="_blank" href="../assets/images/pdf/dabquel-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Dabquel Mix Registration</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

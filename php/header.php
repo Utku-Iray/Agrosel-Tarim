@@ -33,12 +33,12 @@
                             <a href="index.php">Anasayfa</a>
                         </li>
                         <!-- <li class="dropdown">
-                            <a href="index.php">Homepage</a>
+                            <a href="index.php">Anasayfa</a>
                             <ul>
                                 <li>
-                                    <a href="index.php">Homepage One</a>
+                                    <a href="index.php">Anasayfa One</a>
                                 </li>
-                                <li><a href="index-2.html">Homepage Two</a></li>
+                                <li><a href="index-2.html">Anasayfa Two</a></li>
                                 <li class="dropdown">
                                     <a href="#">Header Styles</a>
                                     <ul>
@@ -49,7 +49,7 @@
                             </ul>
                         </li> -->
                         <!-- <li>
-                            <a href="about.html">Corporate</a>
+                            <a href="about.html">Kurumsal</a>
                         </li> -->
                         <li class="dropdown"><a href="#">Kurumsal</a>
                             <ul>
@@ -61,7 +61,7 @@
                         <!-- <li class="dropdown"><a href="#">Pages</a>
                             <ul>
                                 <li><a href="services.html">Services</a></li>
-                                <li><a href="service-details.html">Product Details</a></li>
+                                <li><a href="service-details.html">Ürün Detayları</a></li>
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </li> -->
@@ -100,8 +100,8 @@
                         <a href="assets/images/pdf/AGROSEL-uRuN-KATALOgU.pdf" target="_blank" class="main-header__info-phone">
                             <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">Terrafert</span>
-                                <span class="main-header__info-phone-title">Ürün Kataloğu</span>
+                                <span style="margin-top: 10px;font-size: 13px;" class="main-header__info-phone-text">Terrafert</span>
+                                <!-- <span class="main-header__info-phone-title">Ürün Kataloğu</span> -->
                             </span>
                         </a>
                     </div>
@@ -110,8 +110,8 @@
                         <a href="assets/images/pdf/tr-haifa.pdf" target="_blank" class="main-header__info-phone">
                             <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
-                                <span class="main-header__info-phone-text">Haifa</span>
-                                <span class="main-header__info-phone-title">Ürün Kataloğu</span>
+                                <span style="margin-top: 10px;font-size: 13px;" class="main-header__info-phone-text">Haifa</span>
+                                <!-- <span class="main-header__info-phone-title">Ürün Kataloğu</span> -->
                             </span>
                         </a>
                     </div>

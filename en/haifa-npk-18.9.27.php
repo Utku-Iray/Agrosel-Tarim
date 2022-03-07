@@ -415,11 +415,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/Multifeed-18.9.27-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 18.9.27 Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/Multifeed-18.9.27-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 18.9.27 Ticket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/Multifeed-18.9.27-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 18.9.27 Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/Multifeed-18.9.27-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> 18.9.27 Registration</span></a>
                         </div>
                     </div>
                 </div>

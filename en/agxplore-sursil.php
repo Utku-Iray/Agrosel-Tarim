@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <!-- <div>
-                        <a target="_blank" href="../assets/images/pdf/nutripak-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Etiket</span> </a>
+                        <a target="_blank" href="../assets/images/pdf/nutripak-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                        <a target="_blank" href="../assets/images/pdf/nutripak-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Tescil</span></a>
+                        <a target="_blank" href="../assets/images/pdf/nutripak-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> Nutripak Prima Registration</span></a>
                     </div> -->
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

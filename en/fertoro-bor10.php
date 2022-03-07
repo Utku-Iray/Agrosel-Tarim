@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="../assets/images/pdf/bor10etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Etiket</span> </a>
+                    <a target="_blank" href="../assets/images/pdf/bor10etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="../assets/images/pdf/bor10tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Tescil</span></a>
+                    <a  target="_blank" href="../assets/images/pdf/bor10tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BOR10 Registration</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details  </title>
+    <title>Ürün Detayları  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
@@ -43,11 +43,11 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Homepage</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Product Details</span></li>
+            <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Ürün Detayları</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -258,7 +258,21 @@
                 </div>
 
 
+                <hr>
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 5 kg</span>
+                        </li>
+                       
 
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">

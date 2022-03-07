@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="../assets/images/pdf/calecoetiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Etiket</span> </a>
+                    <a target="_blank" href="../assets/images/pdf/calecoetiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="../assets/images/pdf/calecotescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Tescil</span></a>
+                    <a  target="_blank" href="../assets/images/pdf/calecotescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> CALECO Registration</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

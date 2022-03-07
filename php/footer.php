@@ -42,7 +42,7 @@
                     <h3 class="footer-widget__title">Linkler</h3>
                     <!-- /.footer-widget__title -->
                     <ul class="list-unstyled footer-widget__links">
-                        <li><a href="index.php">Homepage</a></li>
+                        <li><a href="index.php">Anasayfa</a></li>
                         <li><a href="about.php">Hakkımızda</a></li>
                         <li><a href="haberler.php">Haberler</a></li>
                         <li><a href="dosyalar.php">Dosyalar</a></li>

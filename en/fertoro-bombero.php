@@ -224,11 +224,11 @@
                     </div> -->
                     <!-- /.service-sidebar__call -->
                     <div>
-                    <a target="_blank" href="../assets/images/pdf/bombera1.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Etiket</span> </a>
+                    <a target="_blank" href="../assets/images/pdf/bombera1.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Ticket</span> </a>
                     </div>
                     <br>
                     <div>
-                    <a  target="_blank" href="../assets/images/pdf/bombera2.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Tescil</span></a>
+                    <a  target="_blank" href="../assets/images/pdf/bombera2.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="100px" alt=""><span style="font-weight: bold;color:black"> BomBero Registration</span></a>
                     </div>
                 </div><!-- /.service-sidebar -->
             </div><!-- /.col-lg-4 -->

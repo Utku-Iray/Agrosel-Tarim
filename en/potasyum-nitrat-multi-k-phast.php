@@ -326,11 +326,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/phast-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K pHast  Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/phast-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K pHast  Ticket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/phast-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K pHast  Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/phast-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Multi-K pHast  Registration</span></a>
                         </div>
                     </div>
                 </div>

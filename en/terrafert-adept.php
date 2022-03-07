@@ -124,7 +124,7 @@
                             </div>
                             <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Water Soluble Fertilizer</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
-                            <ul>
+                                <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
                                     <div id="in3" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -164,7 +164,7 @@
 
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Raw Material</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -175,17 +175,17 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
                                             <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Granular Fertilizer</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -244,7 +244,7 @@
                         </div>
                     </div>
                 </div>
-<hr>
+                <hr>
                 <a href="#myModal2" data-toggle="modal" data-target="#myModal2"><img src="../assets/images/en-adept-detay.jpeg" alt=""></a>
 
                 <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
@@ -256,18 +256,32 @@
                         </div>
                     </div>
                 </div>
+                <hr>
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 20 lt</span>
+                        </li>
+                       
 
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
 
 
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/Adept-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> Adept Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/Adept-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black"> Adept Ticket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/Adept-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Adept Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/Adept-tescil.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Adept Registration</span></a>
                         </div>
                     </div>
                 </div>

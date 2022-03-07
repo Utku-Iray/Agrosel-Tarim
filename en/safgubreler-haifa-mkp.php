@@ -438,11 +438,11 @@
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-etiket.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Etiket</span> </a>
+                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-etiket.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Ticket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-tescil.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Tescil</span></a>
+                            <a target="_blank" href=" ../assets/images/pdf/haifa-mpk-tescil.pdf"><img src=" ../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Haifa MKP Registration</span></a>
                         </div>
                     </div>
                 </div>

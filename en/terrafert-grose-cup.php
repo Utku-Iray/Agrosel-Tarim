@@ -259,16 +259,30 @@
 
 
 
+                <hr>
+                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <div>
+                    <ul class="list-unstyled service-details__list-2">
+                        <li>
+                            <i class="fa fa-check-circle"></i>
+                            <span style="font-weight: bold;"> 1 lt</span>
+                        </li>
+                       
 
+
+
+
+                    </ul><!-- /.list-unstyled -->
+                </div>
                 <hr>
                 <div class="container" style="margin-top: 30px;">
                     <div class="row">
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/GROSE-CUP-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Etiket</span> </a>
+                            <a target="_blank" href="../assets/images/pdf/GROSE-CUP-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Ticket</span> </a>
                         </div>
 
                         <div class="col-md-6">
-                            <a target="_blank" href="../assets/images/pdf/GROSE-CUP-TESCiL.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Tescil</span></a>
+                            <a target="_blank" href="../assets/images/pdf/GROSE-CUP-TESCiL.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="70px" alt=""><span style="font-weight: bold;color:black">Grose - Cup Registration</span></a>
                         </div>
                     </div>
                 </div>

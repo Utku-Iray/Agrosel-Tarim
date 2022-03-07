@@ -45,9 +45,9 @@
     <!-- /.page-header__bg -->
     <div class="container">
         <ul class="thm-breadcrumb list-unstyled">
-            <li><a href="index.php">Homepage</a></li>
+            <li><a href="index.php">Anasayfa</a></li>
             <li>/</li>
-            <li><span>Corporate</span></li>
+            <li><span>Kurumsal</span></li>
         </ul>
         <!-- /.thm-breadcrumb list-unstyled -->
         <h2>Haberler</h2>

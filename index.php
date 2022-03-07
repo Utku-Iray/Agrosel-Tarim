@@ -602,7 +602,7 @@
     </a>
     <!-- /.container -->
 </section>
-<!-- <div class="projects-one project-one__Homepage-one">
+<!-- <div class="projects-one project-one__Anasayfa-one">
     <div class="container">
         <div class="block-title text-center">
             <div class="block-title__image"></div>
@@ -837,9 +837,9 @@
 </section> -->
 <!-- /.testimonials-one -->
 
-<section class="gray-boxed-wrapper Homepage-one__boxed" style="background-color: #f6f5f2;">
-    <img src="assets/images/icons/Homepage-1-blog-bg.png" alt="" class="Homepage-one__boxed-bg">
-    <section class="blog-Homepage-two blog-Homepage-one">
+<section class="gray-boxed-wrapper Anasayfa-one__boxed" style="background-color: #f6f5f2;">
+    <img src="assets/images/icons/Anasayfa-1-blog-bg.png" alt="" class="Anasayfa-one__boxed-bg">
+    <section class="blog-Anasayfa-two blog-Anasayfa-one">
         <div class="container">
             <div class="row top-row">
                 <div class="col-lg-6">
@@ -937,14 +937,14 @@
         </div>
         <!-- /.container -->
     </section>
-    <!-- /.blog-Homepage-two -->
-    <!-- <div class="blog-Homepage__slogan">
+    <!-- /.blog-Anasayfa-two -->
+    <!-- <div class="blog-Anasayfa__slogan">
         <div class="container">
             <div class="row">
                 <div class="col-lg-9">
-                    <div class="blog-Homepage__slogan-main">
+                    <div class="blog-Anasayfa__slogan-main">
                         <i class="agrikon-icon-farm"></i>
-                        <div class="blog-Homepage__slogan-content">
+                        <div class="blog-Anasayfa__slogan-content">
                             <h3>We Care About Our Agriculture Growth</h3>
                             <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered in some form, by injected humour words.</p>
                         </div>
@@ -954,7 +954,7 @@
                 </div>
              
                 <div class="col-lg-3">
-                    <div class="blog-Homepage__slogan-image">
+                    <div class="blog-Anasayfa__slogan-image">
                         <img src="assets/images/resources/blog-cta-1.png" alt="">
                     </div>
                    
@@ -965,7 +965,7 @@
         </div>
       
     </div> -->
-    <!-- /.blog-Homepage__slogan -->
+    <!-- /.blog-Anasayfa__slogan -->
 </section>
 <!-- /.gray-boxed-wrapper -->
 
