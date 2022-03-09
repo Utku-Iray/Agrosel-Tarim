@@ -56,7 +56,7 @@
     }'>
         <div class="swiper-wrapper" style="height:500px">
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(../../assets/images/slider2.jpg);">
+                <div class="image-layer" style="background-image: url(../../assets/images/agrosel-slider/1-1.jpg);">
                 </div>
                 <!-- /.image-layer -->
                 <div class="container">
@@ -76,7 +76,7 @@
             </div>
             <!-- /.swiper-slide -->
             <div class="swiper-slide">
-                <div class="image-layer" style="background-image: url(../../assets/images/slider1.jpg);">
+                <div class="image-layer" style="background-image: url(../../assets/images/agrosel-slider/2.jpeg);background-position:50% 100%">
                 </div>
                 <!-- /.image-layer -->
                 <div class="container">
@@ -118,7 +118,7 @@
         <div class="row">
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
-                    <img src="../../assets/images/service-1-3.jpg" alt="">
+                    <img src="../../assets/images/damla.jpg" alt="">
                     <div class="service-one__box-content">
                         <h3><a href="bitki-besleme-urunleri.php">Plant Nutrition Products</a></h3>
                     </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
-                    <img src="../../assets/images/damla.jpg" alt="">
+                    <img src="../../assets/images/damla-gubre.png" alt="">
                     <div class="service-one__box-content">
                         <h3><a href="damla-sulama-gubreleri.php">Water Soluble Fertilizer</a></h3>
                     </div>
@@ -173,8 +173,8 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="about-one__images">
-                    <img src="../../assets/images/abour1.jpg" alt="">
-                    <img src="../../assets/images/about2.jpg" alt="">
+                    <img src="../../assets/images/agrosel-slider/hak1.png" width="100%" alt="">
+                    <img src="../../assets/images/heko2.jpeg" width="100%" alt="">
                     <!-- <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                         <span>Trusted by</span>
                         <h4>8900</h4>

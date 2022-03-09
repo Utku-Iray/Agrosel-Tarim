@@ -58,7 +58,7 @@
                 <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
 
-                        <img width="100%" style="border-radius: 5px;" src="../assets/images/service-1-3.jpg" alt="">
+                        <img width="100%" style="border-radius: 5px;" src="../assets/images/damla.jpg" alt="">
 
                         <div class="service-one__box-content">
                             <h3><a href="bitki-besleme-urunleri.php">Plant Nutrition Products</a></h3>
@@ -71,7 +71,7 @@
             <a href="damla-sulama-gubreleri.php">
                 <div class="col-md-4 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                     <div class="service-one__box">
-                        <img width="100%" style="border-radius: 5px;" src="../assets/images/damla.jpg" alt="">
+                        <img width="100%" style="border-radius: 5px;" src="../assets/images/damla-gubre.png" alt="">
                         <div class="service-one__box-content">
                             <h3><a href="damla-sulama-gubreleri.php">Water Soluble Fertilizer</a></h3>
                         </div>
