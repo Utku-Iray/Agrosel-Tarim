@@ -118,7 +118,7 @@
         <div class="row">
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
-                    <img src="assets/images/service-1-3.jpg" alt="">
+                    <img src="assets/images/damla.jpg" alt="">
                     <div class="service-one__box-content">
                         <h3><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></h3>
                     </div>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-3 col-lg-3 wow fadeInUp" data-wow-duration="1500ms">
                 <div class="service-one__box">
-                    <img src="assets/images/damla.jpg" alt="">
+                    <img src="assets/images/damla-gubre.png" alt="">
                     <div class="service-one__box-content">
                         <h3><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></h3>
                     </div>
@@ -174,7 +174,7 @@
             <div class="col-lg-5">
                 <div class="about-one__images">
                     <img src="assets/images/agrosel-slider/hak1.png" width="100%" alt="">
-                    <img src="assets/images/agrosel-slider/3.jpeg"width="100%" alt="">
+                    <img src="assets/images/heko2.jpeg"width="100%" alt="">
                     <!-- <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                         <span>Trusted by</span>
                         <h4>8900</h4>
