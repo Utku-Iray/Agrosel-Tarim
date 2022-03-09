@@ -62,7 +62,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="about-three__image">
-                    <img src="assets/images/resources/about-3-2.jpg" alt="">
+                    <img src="assets/images/agrosel-slider/hak1.png" alt="">
                 </div>
                 <!-- /.about-three__image -->
             </div>

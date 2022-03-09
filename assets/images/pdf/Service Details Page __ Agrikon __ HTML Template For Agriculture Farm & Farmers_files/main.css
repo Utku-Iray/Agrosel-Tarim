@@ -6904,7 +6904,7 @@ h6 {
 
 @media (min-width: 1200px) {
     .about-one__images img:nth-child(2) {
-        bottom: -150px;
+        bottom: -290px;
     }
 }
 
@@ -7120,10 +7120,8 @@ h6 {
 
 @media (min-width: 1200px) {
     .about-one__content {
-        margin-top: 60px;
         margin-left: 30px;
         padding-left: 120px;
-        padding-top: 100px;
         padding-bottom: 0;
         padding-right: 0;
     }
