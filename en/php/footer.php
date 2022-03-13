@@ -62,12 +62,12 @@ Communication Line<span>
                         <li>
                             <!-- <img src="../assets/images/resources/footer-post-1.png" alt=""> -->
                             <div class="footer-widget__post-content">
-                                <a href="https://www.tarimorman.gov.tr/"> <span>Tarım Bakanlığı</span></a> <br>
-                                <a href="https://antalya.tarimorman.gov.tr/"> <span>Antalya İl Müd.</span></a> <br>
+                                <a href="https://www.tarimorman.gov.tr/"> <span style="display: block;">Tarım Bakanlığı</span></a> <br>
+                                <a href="https://antalya.tarimorman.gov.tr/"> <span style="display: block;">Antalya İl Müd.</span></a> <br>
                                 <!-- <a href="https://www.tarimkredi.org.tr/"> <span>Tarım Kredi Kooperatifleri</span></a> <br> -->
                                 <!-- <a href="https://www.tarimorman.gov.tr/TAGEM"> <span>Tarımsal Araştırmalar G.Müd.</span></a> <br>  -->
-                                <a href="https://www.tarimorman.gov.tr/BUGEM"> <span>Bitkisel Üretim ve Geliş.Gen.Müd.</span></a> <br>
-                                <a href="https://www.antalya.bel.tr/BilgiEdin/halden-gunluk-fiyatlar"> <span>Antalya Hal Fiyatları</span></a>
+                                <a href="https://www.tarimorman.gov.tr/BUGEM"> <span style="display: block;">Bitkisel Üretim ve Geliş.Gen.Müd.</span></a> <br>
+                                <a href="https://www.antalya.bel.tr/BilgiEdin/halden-gunluk-fiyatlar"> <span style="display: block;">Antalya Hal Fiyatları</span></a>
                             </div>
                             <!-- /.footer-widget__post-content -->
                         </li>

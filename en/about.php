@@ -190,9 +190,9 @@
                     </div>
                     <div class="col-md-6">
                         <div class="team-one__nav">
-                            <div class="swiper-button-prev" id="team-one__swiper-button-next"><i class="agrikon-icon-left-arrow"></i>
+                            <div class="swiper-button-prev" id="team-one__swiper-button-prev"><i class="agrikon-icon-left-arrow"></i>
                             </div>
-                            <div class="swiper-button-next" id="team-one__swiper-button-prev"><i class="agrikon-icon-right-arrow"></i></div>
+                            <div class="swiper-button-next" id="team-one__swiper-button-next"><i class="agrikon-icon-right-arrow"></i></div>
                         </div>
                     </div>
                 </div>

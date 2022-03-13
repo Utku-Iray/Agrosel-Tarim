@@ -2129,7 +2129,7 @@ h6 {
     height: 45px;
     background: var(--thm-primary);
     position: fixed;
-    bottom: 40px;
+    bottom: 18px !important;
     right: 40px;
     z-index: 99;
     text-align: center;
@@ -3660,12 +3660,14 @@ h6 {
 @media (max-width: 767px) {
     .main-slider .swiper-slide h2 {
         font-size: 60px;
+        margin-top: 170px;
     }
 }
 
 @media (max-width: 425px) {
     .main-slider .swiper-slide h2 {
         font-size: 50px;
+        margin-top: 210px;
     }
 }
 
@@ -4499,7 +4501,7 @@ h6 {
     font-size: 13px;
     color: var(--thm-primary);
     font-weight: bold;
-    line-height: 1;
+    line-height: 0;
 }
 
 .footer-widget__contact {
@@ -8560,9 +8562,9 @@ table {
 
 @media screen and (max-width: 545px) {
     .wp-row-clas {
-        padding-left: 10px !important;
-        padding-right: 17px !important;
-        padding-top: 2px !important;
+        padding-left: 20px !important;
+        padding-right: 18px !important;
+        padding-top: 4px !important;
     }
     span {
         display: none;
@@ -8570,11 +8572,11 @@ table {
     .float-button {
         bottom: 15px;
         right: 15px;
-        width: 20px;
-        border-radius: 20px 20px 5px 20px;
+        width: 45px;
+        border-radius: 20px 20px 20px 20px;
     }
     .fa-whatsapp {
-        font-size: 22px !important;
+        font-size: 30px !important;
         padding: 4px;
     }
 }
