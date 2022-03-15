@@ -8686,3 +8686,9 @@ table {
     border-radius: 50%;
     transition: all 0.4s ease;
 }
+
+@media (min-width:1200px) {
+    .m-l {
+        margin-left: 25px !important;
+    }
+}

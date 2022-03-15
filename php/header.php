@@ -86,12 +86,10 @@
                         <li>
                             <a href="contact.php">İletişim</a>
                         </li>
-                        <li class="dropdown"><a href="index.php">Türkçe <img style="border-radius: 50%; width:25px;padding-left:3px" src="assets/images/turkiye.png" alt=""></a>
-                            <ul style="min-width: fit-content !important;">
-                                <li><a href="en/index.php">English<img style="border-radius: 50%; height:25px;width:25px;padding-left:3px;margin-top:2px" src="assets/images/lang.png" alt=""></a></li>
-                               
-                            </ul>
-                        </li>
+                        <li ><a href="../index.php"><img style="border-radius: 50%; width:31px;" src="../assets/images/turkiye.png" alt=""></a></li>
+
+                        <li class="m-l" ><a href="en/index.php"> <img style="border-radius: 50%; width:30px;" src="../assets/images/lang.png" alt=""></a></li>
+
                     </ul>
                     <!-- /.main-menu__list -->
 
