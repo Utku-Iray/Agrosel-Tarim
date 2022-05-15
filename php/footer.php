@@ -1,14 +1,14 @@
 <footer class="site-footer">
-<a class="float-button" target="_blank" href="https://api.whatsapp.com/send?phone=+905079870707&text=Merhaba">
-<div class="row wp-row-clas">   
-<div style="margin-top: 2px;">
-  <i class="fab fa-whatsapp" aria-hidden="true"></i>
-  </div>
-  <div>
-  <span>İletişim Hattı<span>
-  </div>
-  </div>
-</a>
+    <a class="float-button" target="_blank" href="https://api.whatsapp.com/send?phone=+905079870707&text=Merhaba">
+        <div class="row wp-row-clas">
+            <div style="margin-top: 2px;">
+                <i class="fab fa-whatsapp" aria-hidden="true"></i>
+            </div>
+            <div>
+                <span>İletişim Hattı<span>
+            </div>
+        </div>
+    </a>
     <!-- <img src="assets/images/icons/footer-bg-icon-1.png" class="site-footer__shape-1" alt="">
     <img src="assets/images/icons/footer-bg-icon-2.png" class="site-footer__shape-2" alt=""> -->
     <div class="container">
@@ -151,13 +151,13 @@
                     <option value="arabic">Arabic</option>
                 </select>
             </div> -->
-           
+
             <div class="mobile-nav__social">
-            <a href="https://tr-tr.facebook.com/agroselltd/" class="fab fa-facebook-square"></a>
-                        <a href="https://twitter.com/agroseltarim" class="fab fa-twitter"></a>
-                        <a href="https://www.instagram.com/agroseltarim/" class="fab fa-instagram"></a>
+                <a href="https://tr-tr.facebook.com/agroselltd/" class="fab fa-facebook-square"></a>
+                <a href="https://twitter.com/agroseltarim" class="fab fa-twitter"></a>
+                <a href="https://www.instagram.com/agroseltarim/" class="fab fa-instagram"></a>
             </div>
-           
+
         </div>
         <!-- /.mobile-nav__top -->
 
@@ -205,3 +205,25 @@
 <script></script>
 <!-- template js -->
 <script src="assets/js/theme.js"></script>
+<!-- Google Tag Manager -->
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-584XFL');
+</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-584XFL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
