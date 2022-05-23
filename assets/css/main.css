@@ -8518,7 +8518,7 @@ table {
 
 .table td,
 .table th {
-    padding: 0.1px;
+    padding: 2px;
     vertical-align: text-bottom;
     border-top: 1px solid #c2baba;
 }
@@ -8566,9 +8566,6 @@ table {
         padding-right: 18px !important;
         padding-top: 4px !important;
     }
-    span {
-        display: none;
-    }
     .float-button {
         bottom: 15px;
         right: 15px;
@@ -8578,6 +8575,9 @@ table {
     .fa-whatsapp {
         font-size: 30px !important;
         padding: 4px;
+    }
+    .float-button .wp-span span {
+        display: none;
     }
 }
 

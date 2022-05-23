@@ -4,7 +4,7 @@
             <div style="margin-top: 2px;">
                 <i class="fab fa-whatsapp" aria-hidden="true"></i>
             </div>
-            <div>
+            <div class="wp-span">
                 <span>İletişim Hattı<span>
             </div>
         </div>
