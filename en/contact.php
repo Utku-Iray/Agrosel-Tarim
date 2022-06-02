@@ -93,7 +93,7 @@
             </div>
             <!-- /.col-sm-12 -->
             <div class="col-sm-12 col-md-12 col-lg-6 col-xl-8">
-                <form action="../assets/inc/sendemail.php" class="contact-one__form contact-form-validated">
+                <form action="../mail/mail_en.php" method="POST" class="contact-one__form ">
                     <div class="row">
                         <div class="col-lg-6">
                             <input type="text" name="name" placeholder="Name">
