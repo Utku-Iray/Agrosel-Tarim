@@ -67,6 +67,16 @@
             </tr>
         </thead>
         <tbody>
+        <tr>
+                <th scope="row">1</th>
+                <td>Glymax - Pro</td>
+                <td> <a target="_blank" href="assets/images/pdf/terrafert-glymax-pro-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/terrafert-glymax-pro-tescil.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
             <tr>
                 <th scope="row">1</th>
                 <td>Adept</td>
@@ -649,6 +659,66 @@
                 <td> <a target="_blank" href="assets/images/pdf/jr-ghp.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="assets/images/pdf/jr-ghp-tescil.PDF"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">61</th>
+                <td>Solovita 10-0-40 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-10040-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-10040-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">62</th>
+                <td>Solovita 16-8-24 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-16824-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-16824-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">63</th>
+                <td>Solovita 15-30-15 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-153015-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-153015-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">64</th>
+                <td>Solovita 18-18-18 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-181818-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-181818-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">65</th>
+                <td>Solovita 20-10-20 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-201020-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-201020-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">66</th>
+                <td>Solovita 30-10-10 + TE</td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-301030-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="assets/images/pdf/solovita/solovita-301030-etiket.pdf"><img src="assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
                 </td>
 
 

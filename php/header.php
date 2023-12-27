@@ -70,7 +70,6 @@
                             <ul>
                                 <li><a href="bitki-besleme-urunleri.php">Bitki Besleme Ürünleri</a></li>
                                 <li><a href="damla-sulama-gubreleri.php">Damla Sulama Gübreleri</a></li>
-                                <li><a href="solovita-acf.php">Solovita ACF</a></li>
                                 <li><a href="haifa-group.php">Haifa Group</a></li>
                                 <li><a href="jr-peters-inc.php">Jr Peters Inc</a></li>
                             </ul>
@@ -96,7 +95,7 @@
 
                     <div class="main-header__info">
 
-                        <a href="assets/images/pdf/AGROSEL-uRuN-KATALOgU.pdf" target="_blank" class="main-header__info-phone">
+                        <a href="assets/images/pdf/agrosel-katalog-turkce.pdf" target="_blank" class="main-header__info-phone">
                             <img width="35px" src="assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
                                 <span style="margin-top: 10px;font-size: 13px;" class="main-header__info-phone-text">Terrafert</span>

@@ -67,8 +67,18 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
+        <tr>
                 <th scope="row">1</th>
+                <td>Glymax Pro</td>
+                <td> <a target="_blank" href="../assets/images/pdf/terrafert-glymax-pro-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/terrafert-glymax-pro-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">2</th>
                 <td>Adept</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Adept-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -78,7 +88,7 @@
 
             </tr>
             <tr>
-                <th scope="row">2</th>
+                <th scope="row">3</th>
                 <td>Synergyl</td>
                 <td> <a target="_blank" href="../assets/images/pdf/SYNERGYL-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -88,7 +98,7 @@
 
             </tr>
             <tr>
-                <th scope="row">3</th>
+                <th scope="row">4</th>
                 <td>Liquid Alg Humus</td>
                 <td> <a target="_blank" href="../assets/images/pdf/LIQUID-HUMUS-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -98,7 +108,7 @@
 
             </tr>
             <tr>
-                <th scope="row">4</th>
+                <th scope="row">5</th>
                 <td>Progency</td>
                 <td> <a target="_blank" href="../assets/images/pdf/PROGENCY-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -108,7 +118,7 @@
 
             </tr>
             <tr>
-                <th scope="row">5</th>
+                <th scope="row">6</th>
                 <td>Augment</td>
                 <td> <a target="_blank" href="../assets/images/pdf/AUGMENT-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -118,7 +128,7 @@
 
             </tr>
             <tr>
-                <th scope="row">6</th>
+                <th scope="row">7</th>
                 <td>Grose - Cal</td>
                 <td> <a target="_blank" href="../assets/images/pdf/GROSE-CAL-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -128,7 +138,7 @@
 
             </tr>
             <tr>
-                <th scope="row">7</th>
+                <th scope="row">8</th>
                 <td>Carbo - Cal</td>
                 <td> <a target="_blank" href="../assets/images/pdf/CARBO-CAL-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -138,7 +148,7 @@
 
             </tr>
             <tr>
-                <th scope="row">8</th>
+                <th scope="row">9</th>
                 <td>Grose - Mix</td>
                 <td> <a target="_blank" href="../assets/images/pdf/GROSE-MiX-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -148,7 +158,7 @@
 
             </tr>
             <tr>
-                <th scope="row">9</th>
+                <th scope="row">10</th>
                 <td>Grose - Cup</td>
                 <td> <a target="_blank" href="../assets/images/pdf/GROSE-CUP-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -158,7 +168,7 @@
 
             </tr>
             <tr>
-                <th scope="row">10</th>
+                <th scope="row">11</th>
                 <td>Radix</td>
                 <td><a target="_blank" href="../assets/images/pdf/radix-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -168,7 +178,7 @@
 
             </tr>
             <tr>
-                <th scope="row">11</th>
+                <th scope="row">12</th>
                 <td>Fruitset</td>
                 <td><a target="_blank" href="../assets/images/pdf/fruit-set-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -178,7 +188,7 @@
 
             </tr>
             <tr>
-                <th scope="row">12</th>
+                <th scope="row">13</th>
                 <td>Foliar 19-19-19</td>
                 <td><a target="_blank" href="../assets/images/pdf/terrafert-foliar-19-19-19-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -187,7 +197,7 @@
 
             </tr>
             <tr>
-                <th scope="row">13</th>
+                <th scope="row">14</th>
                 <td>Foliar 10-40-10</td>
                 <td><a target="_blank" href="../assets/images/pdf/terrafert-foliar-10-40-10-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -195,7 +205,7 @@
                 </td>
 
             </tr> <tr>
-                <th scope="row">14</th>
+                <th scope="row">15</th>
                 <td>Foliar 4-5-40</td>
                 <td><a target="_blank" href="../assets/images/pdf/terrafert-foliar-4-5-40-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -205,7 +215,7 @@
 
             </tr>
             <tr>
-                <th scope="row">15</th>
+                <th scope="row">16</th>
                 <td>Terrafert ACF 18-18-18 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/181818-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -215,7 +225,7 @@
 
             </tr>
             <tr>
-                <th scope="row">16</th>
+                <th scope="row">17</th>
                 <td>Terrafert ACF 16-8-24 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/16824-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -225,7 +235,7 @@
 
             </tr>
             <tr>
-                <th scope="row">17</th>
+                <th scope="row">18</th>
                 <td>Terrafert ACF 20-10-20 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/201020-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -235,7 +245,7 @@
 
             </tr>
             <tr>
-                <th scope="row">18</th>
+                <th scope="row">19</th>
                 <td>Terrafert ACF 15-30-15 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/153015-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -245,7 +255,7 @@
 
             </tr>
             <tr>
-                <th scope="row">19</th>
+                <th scope="row">20</th>
                 <td>Terrafert ACF 10-5-4 0 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/10540-ETiKET.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -255,7 +265,7 @@
 
             </tr>
             <tr>
-                <th scope="row">20</th>
+                <th scope="row">21</th>
                 <td colspan="3">Neovent ACF 15.5.35 + TE</td>
                 <!-- <td> <a target="_blank" href="../assets/images/pdf/15535"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -265,7 +275,7 @@
 
             </tr>
             <tr>
-                <th scope="row">21</th>
+                <th scope="row">22</th>
                 <td>Neovent ACF 16.8.24+2MgO + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/neovent-acf-pdf/etiket/16-8-24.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -275,7 +285,7 @@
 
             </tr>
             <tr>
-                <th scope="row">22</th>
+                <th scope="row">23</th>
                 <td>Neovent ACF 18.18.18 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/neovent-acf-pdf/etiket/18-18-18.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -285,7 +295,7 @@
 
             </tr>
             <tr>
-                <th scope="row">23</th>
+                <th scope="row">24</th>
                 <td>Neovent ACF 19.6.20+2MgO + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/neovent-acf-pdf/etiket/19-6-20.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -295,7 +305,7 @@
 
             </tr>
             <tr>
-                <th scope="row">24</th>
+                <th scope="row">25</th>
                 <td>Neovent ACF 20.10.20 + TE</td>
                 <td> <a target="_blank" href="../assets/images/pdf/neovent-acf-pdf/etiket/20-10-20.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -304,8 +314,9 @@
 
 
             </tr>
+            
             <tr>
-                <th scope="row">25</th>
+                <th scope="row">26</th>
                 <td>Multifeed 12.5.40+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -315,7 +326,7 @@
 
             </tr>
             <tr>
-                <th scope="row">26</th>
+                <th scope="row">27</th>
                 <td>Multifeed 15.30.15+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multi-15.30.15-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -325,7 +336,7 @@
 
             </tr>
             <tr>
-                <th scope="row">27</th>
+                <th scope="row">28</th>
                 <td>Multifeed 16.8.24+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multifeed-16.8.24-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -335,7 +346,7 @@
 
             </tr>
             <tr>
-                <th scope="row">28</th>
+                <th scope="row">29</th>
                 <td>Multifeed 18.18.18+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multifeed-18.18.18-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -345,7 +356,7 @@
 
             </tr>
             <tr>
-                <th scope="row">29</th>
+                <th scope="row">30</th>
                 <td>Multifeed 18.9.27+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multifeed-18.9.27-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -355,7 +366,7 @@
 
             </tr>
             <tr>
-                <th scope="row">30</th>
+                <th scope="row">31</th>
                 <td>Multifeed 20.20.20+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multifeed-20.20.20-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -365,7 +376,7 @@
 
             </tr>
             <tr>
-                <th scope="row">31</th>
+                <th scope="row">32</th>
                 <td>Multifeed 23.7.23+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Multifeed-23.7.23-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -375,7 +386,7 @@
 
             </tr>
             <tr>
-                <th scope="row">32</th>
+                <th scope="row">33</th>
                 <td>Multifeed 12.5.40+2MgO+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/muti-12.5.40-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -385,7 +396,7 @@
 
             </tr>
             <tr>
-                <th scope="row">33</th>
+                <th scope="row">34</th>
                 <td> BitterMag</td>
                 <td> <a target="_blank" href="../assets/images/pdf/bittermag-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -395,7 +406,7 @@
 
             </tr>
             <tr>
-                <th scope="row">34</th>
+                <th scope="row">35</th>
                 <td> Haifa Cal</td>
                 <td> <a target="_blank" href="../assets/images/pdf/haifa-cal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -405,7 +416,7 @@
 
             </tr>
             <tr>
-                <th scope="row">35</th>
+                <th scope="row">36</th>
                 <td> Haifa MAP</td>
                 <td> <a target="_blank" href="../assets/images/pdf/haifa-map-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -415,7 +426,7 @@
 
             </tr>
             <tr>
-                <th scope="row">36</th>
+                <th scope="row">37</th>
                 <td> Haifa MKP</td>
                 <td> <a target="_blank" href="../assets/images/pdf/valupak-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -425,7 +436,7 @@
 
             </tr>
             <tr>
-                <th scope="row">37</th>
+                <th scope="row">38</th>
                 <td> Haifa SOP</td>
                 <td> <a target="_blank" href="../assets/images/pdf/haifa-sop-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -435,7 +446,7 @@
 
             </tr>
             <tr>
-                <th scope="row">38</th>
+                <th scope="row">39</th>
                 <td> Haifa UP</td>
                 <td> <a target="_blank" href="../assets/images/pdf/Haifa-UP-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -445,7 +456,7 @@
 
             </tr>
             <tr>
-                <th scope="row">39</th>
+                <th scope="row">40</th>
                 <td> Magnisal</td>
                 <td> <a target="_blank" href="../assets/images/pdf/magnisal-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -455,7 +466,7 @@
 
             </tr>
             <tr>
-                <th scope="row">40</th>
+                <th scope="row">41</th>
                 <td> Multi-K Classic</td>
                 <td> <a target="_blank" href="../assets/images/pdf/multi-k-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -465,7 +476,7 @@
 
             </tr>
             <tr>
-                <th scope="row">41</th>
+                <th scope="row">42</th>
                 <td> Multi-K GG</td>
                 <td> <a target="_blank" href="../assets/images/pdf/gg-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -475,7 +486,7 @@
 
             </tr>
             <tr>
-                <th scope="row">42</th>
+                <th scope="row">43</th>
                 <td> Multi-K MG 12.0.43+'MgO</td>
                 <td> <a target="_blank" href="../assets/images/pdf/multi-k-mg-etiket.PDF"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -485,7 +496,7 @@
 
             </tr>
             <tr>
-                <th scope="row">43</th>
+                <th scope="row">44</th>
                 <td> Multi-K pHast</td>
                 <td> <a target="_blank" href="../assets/images/pdf/phast-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -495,7 +506,7 @@
 
             </tr>
             <tr>
-                <th scope="row">44</th>
+                <th scope="row">45</th>
                 <td> Multi-K S 12.0.46+4SO3</td>
                 <td> <a target="_blank" href="../assets/images/pdf/multi-k-s-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -515,7 +526,7 @@
 
             </tr>
             <tr>
-                <th scope="row">46</th>
+                <th scope="row">47</th>
                 <td> Multi-npK 13.5.42</td>
                 <td> <a target="_blank" href="../assets/images/pdf/multi-npk-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -525,7 +536,7 @@
 
             </tr>
             <tr>
-                <th scope="row">47</th>
+                <th scope="row">48</th>
                 <td> Kfer % 6 EDDHA (H.M.FE)</td>
                 <td> <a target="_blank" href="../assets/images/pdf/kfer-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -535,7 +546,7 @@
 
             </tr>
             <tr>
-                <th scope="row">48</th>
+                <th scope="row">49</th>
                 <td> Haifa Turbo-K 14.14.17</td>
                 <td> <a target="_blank" href="../assets/images/pdf/turbo-k-14-14-17-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -545,7 +556,7 @@
 
             </tr>
             <tr>
-                <th scope="row">49</th>
+                <th scope="row">50</th>
                 <td> Haifa Turbo-K 15.15.15</td>
                 <td> <a target="_blank" href="../assets/images/pdf/turbo-k-15.15.15-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -555,7 +566,7 @@
 
             </tr>
             <tr>
-                <th scope="row">50</th>
+                <th scope="row">51</th>
                 <td>Jack's Professional 10.52.10+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-10.52.10-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -566,7 +577,7 @@
             </tr>
 
             <tr>
-                <th scope="row">51</th>
+                <th scope="row">52</th>
                 <td>Jack's Professional 14.5.38+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-14.5.38-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -576,7 +587,7 @@
 
             </tr>
             <tr>
-                <th scope="row">52</th>
+                <th scope="row">53</th>
                 <td>Jack's Professional 15.5.15+Ca+Mg</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-15.5.15-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -586,7 +597,7 @@
 
             </tr>
             <tr>
-                <th scope="row">53</th>
+                <th scope="row">54</th>
                 <td>Jack's Professional 17.5.24+Mg</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-17.5.24-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -596,7 +607,7 @@
 
             </tr>
             <tr>
-                <th scope="row">54</th>
+                <th scope="row">55</th>
                 <td>Jack's Professional 20.10.20+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-20.10.20-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -606,7 +617,7 @@
 
             </tr>
             <tr>
-                <th scope="row">55</th>
+                <th scope="row">56</th>
                 <td>Jack's Professional 20.20.20+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-20.20.20-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -616,7 +627,7 @@
 
             </tr>
             <tr>
-                <th scope="row">56</th>
+                <th scope="row">57</th>
                 <td>Jack's Professional 25.5.15+ME</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-prof-25.5.15-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -626,7 +637,7 @@
 
             </tr>
             <tr>
-                <th scope="row">57</th>
+                <th scope="row">58</th>
                 <td>Jack's Professional MOST</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jacks-most-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -636,7 +647,7 @@
 
             </tr>
             <tr>
-                <th scope="row">58</th>
+                <th scope="row">59</th>
                 <td>Lithovit CO2</td>
                 <td> <a target="_blank" href="../assets/images/pdf/lithovit-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
@@ -646,11 +657,71 @@
 
             </tr>
             <tr>
-                <th scope="row">59</th>
+                <th scope="row">60</th>
                 <td>GHP Liquid Humus Plus</td>
                 <td> <a target="_blank" href="../assets/images/pdf/jr-ghp.PDF"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
                 </td>
                 <td> <a target="_blank" href="../assets/images/pdf/jr-ghp-tescil.PDF"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">61</th>
+                <td>Solovita 10-0-40 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-10040-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-10040-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">62</th>
+                <td>Solovita 16-8-24 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-16824-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-16824-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">63</th>
+                <td>Solovita 15-30-15 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-153015-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-153015-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">64</th>
+                <td>Solovita 18-18-18 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-181818-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-181818-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">65</th>
+                <td>Solovita 20-10-20 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-201020-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-201020-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
+                </td>
+
+
+            </tr>
+            <tr>
+                <th scope="row">66</th>
+                <td>Solovita 30-10-30 + TE</td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-301030-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""></a>
+                </td>
+                <td> <a target="_blank" href="../assets/images/pdf/solovita/solovita-301030-etiket.pdf"><img src="../assets/images/pdf/pdf-icon-0.jpg" width="50px" alt=""> </a>
                 </td>
 
 

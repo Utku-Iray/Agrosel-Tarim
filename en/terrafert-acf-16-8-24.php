@@ -67,7 +67,8 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
-                                            <li ><a href="terrafert-adept.php">Adept</a></li>
+                                             <li><a href="terrafert-glymax-pro.php">Glymax</a></li>
+                                    <li ><a href="terrafert-adept.php">Adept</a></li>
                                             <li ><a href="terrafert-syngergyl.php">Synergyl</a></li>
                                             <li ><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
                                             <li ><a href="terrafert-progency.php">Progency </a></li>

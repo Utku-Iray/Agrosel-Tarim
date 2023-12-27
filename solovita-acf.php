@@ -68,6 +68,7 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
+                                            <li><a href="terrafert-glymax-pro.php">Glymax</a></li>
                                             <li><a href="terrafert-adept.php">Adept</a></li>
                                             <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
                                             <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
@@ -143,21 +144,10 @@
                                             <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
                                         </ul>
                                     </div>
-                                
+
                                 </ul>
                             </div>
-                            <li><a id="product5" data-toggle="collapse" href="#in11" style="color: #ffffff;background-color:#255946;font-weight:bold">Solovita ACF</a></li>
-                            <div id="in11" class="collapse" style="padding-left: 20px;">
-                                <ul>
-                                    <li><a href="solovita-10-0-40.php">Solovita 10-0-40</a></li>
-                                    <li><a href="solovita-16-8-24.php">Solovita 16-8-24</a></li>
-                                    <li><a href="solovita-15-30-15.php">Solovita 15-30-15</a></li>
-                                    <li><a href="solovita-18-18-18.php">Solovita 18-18-18</a></li>
-                                    <li><a href="solovita-20-10-20.php">Solovita 20-10-20</a></li>
-                                    <li><a href="solovita-30-10-10.php">Solovita 30-10-10</a></li>
-                                   
-                                </ul>
-                            </div>
+                            
                             <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #ffffff;background-color:#255946;font-weight:bold">HAIFA Group</a></li>
                             <div id="in8" class="collapse" style="padding-left:20px">
                                 <ul>
@@ -244,7 +234,7 @@
                     <h2 style="margin-top: 0px;">Solovita ACF</h2>
                 </div>
                 <div>
-                   
+
                     <hr>
                     <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/pdf/solovita/solovita-tr.jpg" alt=""></a>
 
@@ -300,7 +290,7 @@
 
                     </div>
                 </div>
-               
+
 
 
 

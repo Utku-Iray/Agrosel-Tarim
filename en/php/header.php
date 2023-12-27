@@ -94,7 +94,7 @@
 
                     <div class="main-header__info">
 
-                        <a href="../assets/images/pdf/en-terrafert.pdf" target="_blank" class="main-header__info-phone">
+                        <a href="../assets/images/pdf/agrosel-katalog-ingilizce.pdf" target="_blank" class="main-header__info-phone">
                             <img width="35px" src="../assets/images/pdf/pdf-icon-0.jpg" alt="">
                             <span class="main-header__info-phone-content">
                                 <span style="margin-top: 10px;font-size:13px" class="main-header__info-phone-text">Terrafert</span>

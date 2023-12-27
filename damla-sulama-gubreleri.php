@@ -32,7 +32,7 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
     <link rel="alternate" href="https://www.agroseltarim.com/en/damla-sulama-gubreleri.php" hreflang="x-default" />
-<link rel="alternate" href="https://www.agroseltarim.com/damla-sulama-gubreleri.php" hreflang="tr-tr" />
+    <link rel="alternate" href="https://www.agroseltarim.com/damla-sulama-gubreleri.php" hreflang="tr-tr" />
 
 </head>
 
@@ -68,6 +68,7 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
+                                            <li><a href="terrafert-glymax-pro.php">Glymax</a></li>
                                             <li><a href="terrafert-adept.php">Adept</a></li>
                                             <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
                                             <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
@@ -153,9 +154,21 @@
                                             <li><a href="neovent-acf-20-10-20.php">20.10.20 + TE</a></li>
                                         </ul>
                                     </div>
+                                    <li><a id="solovita" data-toggle="collapse" href="#in55" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Solovita ACF</a></li>
+                                    <div id="in55" class="collapse" style="padding-left: 20px;">
+                                        <ul>
+                                            <li><a href="solovita-10-0-40.php">Solovita 10-0-40</a></li>
+                                            <li><a href="solovita-16-8-24.php">Solovita 16-8-24</a></li>
+                                            <li><a href="solovita-15-30-15.php">Solovita 15-30-15</a></li>
+                                            <li><a href="solovita-18-18-18.php">Solovita 18-18-18</a></li>
+                                            <li><a href="solovita-20-10-20.php">Solovita 20-10-20</a></li>
+                                            <li><a href="solovita-30-10-10.php">Solovita 30-10-10</a></li>
+                                        </ul>
+                                    </div>
 
                                 </ul>
                             </div>
+
                             <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #ffffff;background-color:#255946;font-weight:bold">HAIFA Group</a></li>
                             <div id="in8" class="collapse" style="padding-left:20px">
                                 <ul>
@@ -349,7 +362,70 @@
 
                     </div>
                 </div>
+                <div style="margin-top: 50px;">
+                    <div>
+                        <h4 style="margin-top: 0px;">Solovita ACF</h4>
+                    </div>
+                    <hr>
 
+                    <div>
+
+                        <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="assets/images/pdf/solovita/solovita-tr.jpg" alt=""></a>
+
+                        <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" style="max-width:1000px !important">
+                                <div class="modal-content">
+                                    <div class="modal-body">
+                                        <img src="assets/images/pdf/solovita/solovita-tr.jpg" class="img-responsive">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4">
+                                <a href="solovita-10-0-40.php">
+                                    <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="solovita 10-0-40+te">
+                                    <h5 style="margin-top: 0px; text-align:center">10-0-40 + TE</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="solovita-16-8-24.php">
+                                    <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">16-8-24 + TE</h5>
+                                </a>
+                            </div>
+                            <div class="col-md-4">
+                                <a href="solovita-15-30-15.php">
+                                    <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="">
+                                    <h5 style="margin-top: 0px; text-align:center">15-30-15 + TE</h5>
+                                </a>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <a href="solovita-18-18-18.php">
+                                        <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="">
+                                        <h5 style="margin-top: 0px; text-align:center">18-18-18 + TE</h5>
+                                    </a>
+                                </div>
+                                <div class="col-md-4">
+                                    <a href="solovita-20-10-20.php">
+                                        <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="">
+                                        <h5 style="margin-top: 0px; text-align:center">20-10-20 + TE</h5>
+                                    </a>
+                                </div>
+                                <div class="col-md-4">
+                                    <a href="solovita-30-10-10.php">
+                                        <img src="assets/images/pdf/solovita/10-0-40+te.jpeg" alt="">
+                                        <h5 style="margin-top: 0px; text-align:center">30-10-10 + TE</h5>
+                                    </a>
+                                </div>
+                            </div>
+
+
+                        </div>
+                    </div>
+
+                </div>
 
 
 
@@ -369,6 +445,7 @@
         document.getElementById("product3").click();
         document.getElementById("terrafertacf").click();
         document.getElementById("neovent").click();
+        document.getElementById("solovita").click();
     };
 </script>
 

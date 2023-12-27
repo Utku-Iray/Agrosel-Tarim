@@ -70,6 +70,7 @@
                                     <li><a id="fertoro" href="#in2" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert</a></li>
                                     <div id="in2" class="collapse">
                                         <ul style="padding-left: 20px;">
+                                        <li><a href="terrafert-glymax-pro.php">Glymax</a></li>
                                             <li style="background-color: #e3e3e3;"><a href="terrafert-adept.php">Adept</a></li>
                                             <li><a href="terrafert-syngergyl.php">Synergyl</a></li>
                                             <li><a href="terrafert-liquid.php">Liquid Alg Humus</a></li>
@@ -132,7 +133,7 @@
                                     </div> -->
                                 </ul>
                             </div>
-                            <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
+                           <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
                                 <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
@@ -145,7 +146,7 @@
                                             <li><a href="terrafert-acf-10-5-4.php">10-5-4 0 + TE</a></li>
                                         </ul>
                                     </div>
-                                    <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
+                                   <li><a id="neovent" data-toggle="collapse" href="#in15" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Neovent ACF</a></li>
                                     <div id="in15" class="collapse" style="padding-left: 20px;">
                                         <ul>
                                             <li><a href="neovent-acf-15-5-35.php">15.5.35 + TE</a></li>
@@ -155,9 +156,21 @@
                                             <li><a href="neovent-acf-20-10-20.php">20.10.20 + TE</a></li>
                                         </ul>
                                     </div>
+                                    <li><a id="solovita" data-toggle="collapse" href="#in55" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Solovita ACF</a></li>
+                                    <div id="in55" class="collapse" style="padding-left: 20px;">
+                                        <ul>
+                                            <li><a href="solovita-10-0-40.php">Solovita 10-0-40</a></li>
+                                            <li><a href="solovita-16-8-24.php">Solovita 16-8-24</a></li>
+                                            <li><a href="solovita-15-30-15.php">Solovita 15-30-15</a></li>
+                                            <li><a href="solovita-18-18-18.php">Solovita 18-18-18</a></li>
+                                            <li><a href="solovita-20-10-20.php">Solovita 20-10-20</a></li>
+                                            <li><a href="solovita-30-10-10.php">Solovita 30-10-10</a></li>
+                                        </ul>
+                                    </div>
 
                                 </ul>
                             </div>
+                            
                             <li><a id="product2" data-toggle="collapse" href="#in8" style="color: #ffffff;background-color:#255946;font-weight:bold">HAIFA Group</a></li>
                             <div id="in8" class="collapse" style="padding-left:20px">
                                 <ul>
