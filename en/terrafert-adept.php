@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details </title>
+    <title>Terrafert Adept | Liquid Organic Fertilizer | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Organik S覺v覺 ve Damlama G羹breleri | Agrosel Tar覺m">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="alternate" href="https://www.agroseltarim.com/terrafert-adept.php" hreflang="tr-tr" />
+    <link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-adept.php" hreflang="en-us" />
+    <link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-adept.php" hreflang="x-default" />
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Terrafert Adept</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,13 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Adept</h2>
                 <img src="../assets/images/ADEPT4.jpg" alt="">
+                <h3 style="margin-top: 20px;">Plant Based Liquid Organic Fertilizer</h3>
+                            <p>Terrafert Adept, a plant based liquid organic fertilizer, not only improves the physical properties of the soil, but also ensures that the nutrients needed by the plants are retained in the soil. It increases the fertility of the soil it is applied to and stimulates the microorganism activities. </p><br>
+
+<p>Terrafert Adept liquid organic fertilizer of vegetable origin plays an important role in the rooting of plants and ripening of fruits with its 45% organic matter and 15% organic carbon content. </p><br>
+
+<p>Terrafert Adept, liquid organic fertilizer for foliar application or soil, is an excellent product manufactured with advanced technology in Turkey. 
+</p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="../assets/images/en-adept.jpeg" alt=""></a>
 
@@ -257,7 +272,7 @@
                     </div>
                 </div>
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Adept Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

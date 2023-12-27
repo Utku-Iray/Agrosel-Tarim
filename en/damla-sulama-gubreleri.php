@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details</title>
+    <title>Water Soluble NPK Fertilizers | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Discover our blended NPK fertilizers Terrafert and Neovent with premium raw materials and trace elements.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/en/damla-sulama-gubreleri.php" hreflang="x-default" />
+<link rel="alternate" href="https://www.agroseltarim.com/damla-sulama-gubreleri.php" hreflang="tr-tr" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Product</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product</h2>
+        <h2>Blended NPK Fertilizers</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -231,24 +239,14 @@
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-8">
                 <div style="text-align: center;">
-                    <h2 style="margin-top: 0px;">Water Soluble Fertilizer</h2>
+                    <h2 style="margin-top: 0px;">Water Soluble NPK Fertilizers</h2>
                 </div>
                 <div>
                     <div>
-                        <h4 style="margin-top: 0px;">Terrafert ACF</h4>
+                        <h4 style="margin-top: 0px;">Terrafert ACF - NPK Fertilizers</h4>
                     </div>
                     <hr>
-                    <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="../assets/images/en-terrafert.jpeg" alt=""></a>
 
-                    <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
-                        <div class="modal-dialog" style="max-width:1000px !important">
-                            <div class="modal-content">
-                                <div class="modal-body">
-                                    <img src="../assets/images/en-terrafert.jpeg" class="img-responsive">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="row">
                         <div class="col-md-4">
                             <a href="terrafert-acf-18-18-18.php">
@@ -286,23 +284,25 @@
 
 
                     </div>
-                </div>
-                <div style="margin-top: 50px;">
-                    <div>
-                        <h4 style="margin-top: 0px;">Neovent ACF</h4>
-                    </div>
                     <hr>
-                    <a href="#myModal" data-toggle="modal" data-target="#myModal2"><img src="../assets/images/en-neovent.jpeg" alt=""></a>
+                    <a href="#myModal" data-toggle="modal" data-target="#myModal1"><img src="../assets/images/en-terrafert.jpeg" alt=""></a>
 
-                    <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                    <div id="myModal1" class="modal fade" tabindex="-1" role="dialog">
                         <div class="modal-dialog" style="max-width:1000px !important">
                             <div class="modal-content">
                                 <div class="modal-body">
-                                    <img src="../assets/images/en-neovent.jpeg" class="img-responsive">
+                                    <img src="../assets/images/en-terrafert.jpeg" class="img-responsive">
                                 </div>
                             </div>
                         </div>
                     </div>
+                </div>
+                <div style="margin-top: 50px;">
+                    <div>
+                        <h4 style="margin-top: 0px;">Neovent ACF - NPK Fertilizers</h4>
+                    </div>
+                    <hr>
+
                     <div class="row" style="margin-top: 25px;">
                         <div class="col-md-4">
                             <a href="neovent-acf-15-5-35.php">
@@ -339,6 +339,18 @@
                         </div>
 
 
+                    </div>
+                    <hr>
+                     <a href="#myModal" data-toggle="modal" data-target="#myModal2"><img src="../assets/images/en-neovent.jpeg" alt=""></a>
+
+                    <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
+                        <div class="modal-dialog" style="max-width:1000px !important">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                    <img src="../assets/images/en-neovent.jpeg" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 

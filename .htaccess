@@ -1,0 +1,263 @@
+
+RewriteOptions inherit
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/ac875\-bittermag$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-bittermag\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/g0bca\-haifa\-cal$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-cal\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/afg4d\-haifa\-map$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-map\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/7eagb\-haifa\-mkp$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-mkp\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/a1fb2\-haifa\-sop$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-sop\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/edcea\-haifa\-up$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-up\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/41acb\-magnisal$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-magnisal\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/f129a\-multi\-k\-gg$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/1f2b6\-multi\-k\-phast$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-phast\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/eea10\-kfer\-6\-eddha\-hmfe$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-kfer\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/6cb05\-haifa\-turbo\-k\-141417mesfezn$ "https\:\/\/www\.agroseltarim\.com\/tabangubreleri\-turbo\-k\-14\.14\.17\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/18eg9\-haifa\-turbo\-k\-1515152mgo20so3me$ "https\:\/\/www\.agroseltarim\.com\/tabangubreleri\-turbo\-k\-15\.15\.15\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/gec0d\-jacks\-professional\-105210me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-10\.52\.10\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/7a6bg\-jacks\-professional\-14538me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-14\.5\.38\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/6bfef\-jacks\-professional\-15515camg$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-15\.5\.15\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/ead4f\-jacks\-professional\-17524mg$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-17\.5\.24\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/47g8d\-jacks\-professional\-201020me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-20\.10\.20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/0ff34\-jacks\-professional\-202020me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-20\.20\.20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/2561c\-jacks\-professional\-25515me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-25\.5\.15\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/g41ea\-jacks\-professional\-most$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-most\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/b8d63\-lithovit\-co2$ "https\:\/\/www\.agroseltarim\.com\/tribodyn\-lithovit\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/fe743\-chi\-liquid\-humus\-24$ "https\:\/\/www\.agroseltarim\.com\/chi\-liquid\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/gde9f\-multifeed\-125402mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-12\.5\.40\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/135g6\-multifeed\-1530152mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-15\.30\.15\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/75eag\-multifeed\-168242mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-16\.8\.24\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/g602e\-multifeed\-1818182mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-18\.18\.18\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/gdeb9\-multifeed\-189272mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-18\.9\.27\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/d4f8c\-multifeed\-202020me$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-20\.20\.20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/923d5\-multifeed\-237232mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-23\.7\.23\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/e85f1\-neovent\-15535\-te$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-15\-5\-35\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/efbed\-neovent\-168242mgote$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-16\-8\-24\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/5cadf\-neovent\-181818\-te$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-18\-18\-18\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/1aec7\-neovent\-196202mgote$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-19\-6\-20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urun\/b4f2c\-neovent\-201020\-te$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-20\-10\-20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^urunler$ "https\:\/\/www\.agroseltarim\.com\/urunler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^agroseltarim\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.agroseltarim\.com$
+RewriteRule ^iletisim$ "https\:\/\/www\.agroseltarim\.com\/contact\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^dosyalar$ "https\:\/\/www\.agroseltarim\.com\/dosyalar\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/bdd1f\-multifeed\-125402mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-12\.5\.40\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/2edfc\-multifeed\-1818182mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-18\.18\.18\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/23a1a\-neovent\-15535\-te$ "https\:\/\/www\.agroseltarim\.com\/neovent\-acf\-15\-5\-35\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/1abg6\-haifa\-mkp$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-mkp\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/83ab5\-multi\-k\-mg\-120432mgo$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/c2bd0\-multi\-k\-reci$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b4ggd\-multi\-k\-gg$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/e7ffg\-bittermag$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-bittermag\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/4caea\-haifa\-cal$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-cal\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/eca6f\-multifeed\-189272mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-18\.9\.27\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/g21eb\-haifa\-up$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-haifa\-up\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/efd8g\-multifeed\-237232mgome$ "https\:\/\/www\.agroseltarim\.com\/haifa\-npk\-23\.7\.23\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/bedaf\-multi\-k\-classic$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/gae0d\-multi\-k\-zn\-120432zn$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-gg\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^hakkimizda$ "https\:\/\/www\.agroseltarim\.com\/about\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/0f935\-multi\-k\-s\-120464so3$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-k\-phast\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/e4057\-magnisal$ "https\:\/\/www\.agroseltarim\.com\/safgubreler\-magnisal\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b80de\-jacks\-professional\-201020me$ "https\:\/\/www\.agroseltarim\.com\/jr\-jacks\-professional\-20\.10\.20\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/gedb7\-multi\-npk\-13542$ "https\:\/\/www\.agroseltarim\.com\/potasyum\-nitrat\-multi\-npk\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^uploads\/gallery\/\(\.\*\)\/?(.*)$ "https\:\/\/www\.agroseltarim\.com\/$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/d643c\-khan\-k$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/bde6g\-power\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b4a9e\-copper\-5$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/af4f7\-seelife$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/g6cc5\-caleco$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/4afbe\-ferrosel\-6\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/5d1fb\-nutripak\-prima$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/eac81\-seelife$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/jr\-peters\-inc\-firmasinin\-urunleri\-agrosel\-tarim\-guvencesiyle\-satisa\-sunulmustur$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/e79fa\-attack\-df$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/41acb\-magnisal$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/73d29\-ferrosel\-6\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/e2ge0\-calcium\-12$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/c7f2b\-calcium\-12$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/hileli\-gida\-raporu$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/gc63a\-bor10$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/c5c69\-raincoat$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/36db9\-dabquel\-mix$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/7e3gd\-copper\-5$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/ga562\-mzfe\-plus$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/3adfe\-valupak$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/cg2g5\-raincoat$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/g6fed\-seapak$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/jr\-peters\-incden\-jacks\-professional$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/6fca5\-dabquel\-mix$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/agrosel\-tarim\-ve\-haifa\-group\-isbirligi$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/cf0a9\-sursil$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/f5g2b\-attack\-df$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b8d63\-lithovit\-co2$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/d1ca2\-torofer\-6\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haberler$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^distributorluklerimiz$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/0156c\-bor10$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/neovent\-acfden\-yeni\-formülasyonlar$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/6fcg3\-elpaso$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/d5c6f\-bombero$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/tarsimden\-38\-ciftciye\-200\-bin\-tl\-odeme$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/2bda6\-maestro$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/turk\-tarimina\-3\-yeni\-aycicek\-cesidi$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/d342a\-kelanthren\-6\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^haber\/$ "https\:\/\/www\.agroseltarim\.com\/haberler\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/81d2c\-maestro$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/57b20\-porto\-p$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/4cbce\-nitrogenyo\-n$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/bcedc\-power\-fe$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/fcd4e\-bombero$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/e345b\-valupak$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/eg2a0\-khan\-k$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/41b7g\-porto\-p$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b76f8\-seapak$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/b6c1a\-sursil$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/63c4b\-elpaso$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/f0g35\-chinco$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^urun\/efdgc\-fosforo\-plus$ "https\:\/\/www\.agroseltarim\.com\/" [R=301,L]

@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Grose-Cup | Bakırlı Gübre Çözeltisi | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Bakır sülfat içerikli Terrafert Grose-Cup bakırlı gübre çözeltisi, bitkiler tarafından kolayca emilebilen, bakır eksikliğine karşı kullanılan sıvı gübredir.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-grose-cup.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-grose-cup.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Grose-Cup</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -232,6 +235,16 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Grose - Cup</h2>
                 <img src="assets/images/GROSE-CUP.jpg" alt="">
+                <h3 style="margin-top: 0px;">Bakırlı Gübre Çözeltisi (Bakır Sülfat İçerikli)</h3>
+                <p>
+                    Bakır sülfat içerikli Terrafert Grose-Cup bakırlı gübre çözeltisi tüm bitkiler tarafından kolayca emilebilen bir sıvı gübredir.</p><br>
+
+<p>Bakır gübre çözeltisi Terrafert Grose-Cup, bitkilerin doğal savunma mekanizmasını harekete geçirerek, nemli ortamlarda oluşan mantar ve diğer hastalıklara karşı direncini artırır. Her türlü meyve, sebze ve açık arazi ürünlerinde bakır eksikliğine karşı güvenle kullanabilirsiniz. </p><br>
+
+<p>Bakır sülfat içerikli gübre çözeltisi, yapraktan veya topraktan uygulandığı bitkilerin klorofil üretiminde ve etkili fotosentez yapmasında rol oynar.</p><br>  
+
+<p>Terrafert Grose-Cup, vejetatif ve çiçeklenme döneminde üstlendiği etkin rol ile bitkilerin sağlıklı ve verimli şekilde gelişmesini teşvik eden ileri teknoloji ile elde edilmiş mükemmel bir bakırlı gübre çözeltisidir.
+</p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-CUP.jpeg" alt=""></a>
 
@@ -260,7 +273,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Grose-Cup Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

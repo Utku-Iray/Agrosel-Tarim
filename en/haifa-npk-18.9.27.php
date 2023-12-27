@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details  </title>
+    <title>Haifa Multifeed 18-9-27 | Solube NPK Fertilizer | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -74,6 +74,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>

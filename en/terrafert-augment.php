@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details  </title>
+    <title>Terrafert Augment | Liquid NK Fertilizer Solution | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Augment liquid NK fertilizer solution is an agricultural fertilizer that provides plants with the potassium source they need to maintain growth and reproduction">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,8 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="alternate" href="https://agroseltarim.com/terrafert-augment.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://agroseltarim.com/en/terrafert-augment.php" hreflang="x-default" />
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +49,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Terrafert Augment</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +76,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +239,14 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Augment</h2>
                 <img src="../assets/images/AUGMENT4.jpg" alt="">
+                 <h3 style="margin-top: 20px;">Liquid NK Fertilizer Solution 3-0-30</h3>
+                            <p >Terrafert Augment liquid NK fertilizer solution is an agricultural liquid fertilizer that provides plants with the potassium source they need to maintain growth and reproduction. It is a liquid NK fertilizer solution formulated to increase the quality, yield, color and dry matter amount in fruits by providing the increasing potassium needs of plants during the fruit growth period.</p><br>
+
+<p>Terrafert Augment liquid NK fertilizer, which is in 100% transferrable form with soil or foliar application methods, can be quickly absorbed by the plant. It accelerates the ripening of fruits, provides earliness, extends fruit quality and fruit shelf life.</p><br>
+
+<p>It is an excellent liquid NK fertilizer solution for agriculture that contributes to the development of the fruit in terms of taste, aroma and color. Terrafert Augment is manufactured with advanced technology in Turkey.
+</p>
+                            <hr>
                 <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="../assets/images/en-augment.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
@@ -258,7 +273,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Augment Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

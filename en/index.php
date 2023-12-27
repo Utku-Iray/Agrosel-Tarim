@@ -141,7 +141,7 @@
                 <div class="service-one__box">
                     <img src="../../assets/images/multi.jpg" alt="">
                     <div class="service-one__box-content">
-                        <h3><a href="haifa-group.php">HAIFA Producst</a></h3>
+                        <h3><a href="haifa-group.php">HAIFA Products</a></h3>
                     </div>
                     <!-- /.service-one__box-content -->
                 </div>

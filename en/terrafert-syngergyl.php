@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details </title>
+    <title>Terrafert Synergyl | Liquid Organic Fertilizer | Agrosel Tarım </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Synergyl is a plant based liquid organic fertilizer for agriculture with high organic matter and carbon content in addition to premium quality amino acids.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="../assets/css/main.css">
+    <link rel="alternate" href="https://agroseltarim.com/terrafert-syngergyl.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://agroseltarim.com/en/terrafert-syngergyl.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Terrafert Synergyl</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,13 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Synergyl</h2>
                 <img src="../assets/images/SYNERGYL4.jpg" alt="">
+             <h3 style="margin-top: 20px;">Plant Based Liquid Organic Fertilizer</h3>
+                            <p>Terrafert Synergyl plant based liquid organic fertilizer, is an agricultural liquid fertilizer enriched with high quality amino acids along with a high percentage of organic matter (45%) and organic carbon (14%).</p> <br>
+
+<p>In addition to improving the biological properties of the soil it is applied to, it plays a vital role in improving both the fertility of the soil and the formation of nutrients in plants by enabling plants to perform more photosynthesis.</p> <br>
+
+<p>It increases the main root and lateral root development of plants. It enables the nutrients in the soil to be absorbed easily by the plants. It supports homogeneous fruit formation along with root development and plant growth. It is an excellent organic liquid fertilizer for agriculture manufactured with advanced technology in Turkey. 
+</p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="../assets/images/en-synergyl.jpeg" alt=""></a>
 
@@ -259,7 +274,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Synergyl Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

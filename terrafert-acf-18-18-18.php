@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert 18-18-18 + TE | Harmanlanmış NPK Gübresi | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert 18-18-18 + TE harmanlanmış NPK gübresi Agrosel Tarım tarafından üretilmiştir.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-acf-18-18-18.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-acf-18-18-18.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>

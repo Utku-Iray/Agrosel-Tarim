@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Progency | Sıvı NP Gübre Çözeltisi | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Progency sıvı NP gübre çözeltisi yüksek oranda fosfor içeriği ile bitkilerin çiçeklenme ve meyvelenme dönemlerindeki gelişimine katkıda bulunur.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-progency.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-progency.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Progency</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,13 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Progency</h2>
                 <img src="assets/images/PROGENCY4.jpg" alt="">
+                  <h3 style="margin-top: 0px;">Sıvı NP Gübre Çözeltisi 3-25-0 + 5 Zn + TE</h3>
+                  <p>Terrafert Progency sıvı NP gübre çözeltisi yüksek oranda fosfor pentaoksit formülüne ek çinko ve iz element içeriği ile birlikte bitkilerin çiçeklenme ve meyvelenme dönemlerindeki gelişimine katkıda bulunur.</p><br>
+
+<p>Bitkilerin çiçek açma ve çiçekten meyveye dönme dönemlerinde fosfor ihtiyaçları artar. Özellikle fotosentez ve kök gelişimi sırasında bitkinin artan fosfor ihtiyacını karşılayan Terrafert Progency sıvı NP gübre çözeltisi, bitkilerin ihtiyaç duyduğu enerjiyi optimum seviyede sağlar. </p><br>
+
+<p>Verimli bir çiçeklenme dönemi için bitkilerde hücre bölünmesi ve yeni hücrelerin oluşmasını hızlandırır. Bitki köklerinin ve çiçeklerin sağlıklı ve kaliteli gelişmesine direkt etki eden ileri teknoloji ile elde edilmiş mükemmel bir sıvı NP gübre çözeltisidir. 
+ </p>
                 <hr>
                 <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/PROGENCY.jpeg" alt=""></a>
 
@@ -259,7 +274,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Progency Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

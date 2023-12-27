@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları</title>
+    <title>Terrafert Grose-Mix | Mikro Bitki Besin Maddeleri Karışımı | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Grose-Mix, bitkilerin ihtiyacı olan mikro besin maddelerini (bor, bakır, demir, mangan ve çinko) yüksek oranda içeren bir karışımdır.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-grose-mix.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-grose-mix.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Grose-Mix</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -232,6 +235,13 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Grose - Mix</h2>
                 <img src="assets/images/GROSE-MiX.jpg" alt="">
+                <h3 style="margin-top: 0px;">Mikro Besin Maddeleri (İz Element) Karışımı</h3>
+                <p>
+                    Terrafert Grose-Mix, bitkilerin ihtiyacı olan mikro besin maddelerini (bor, bakır, demir, mangan ve çinko) yüksek oranda içeren bir karışımdır.</p><br>
+
+<p>Mikro bitki besin maddeleri karışımı uygulandığı toprakta iz element eksikliğinden dolayı meydana gelen besin eksikliklerinin giderilmesini ve üstün kalite mahsul elde edilmesini sağlar.</p><br>
+
+<p>Terrafert Grose-Mix, mikro elementlerin tamamı %100 EDTA şelatlı olan, ileri teknoloji ile elde edilmiş mükemmel bir iz element karışımıdır.</p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/GROSE-MiX.jpeg" alt=""></a>
 
@@ -259,7 +269,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Grose-Mix Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

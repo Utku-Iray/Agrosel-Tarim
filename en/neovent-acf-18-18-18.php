@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details  </title>
+    <title>Neovent 18-18-18 + TE | NPK Fertilizer | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Organik S覺v覺 ve Damlama G羹breleri | Agrosel Tar覺m">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -47,7 +47,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Neovent 18-18-18 + TE</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +74,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,7 +237,7 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Neovent 18-18-18 + TE</h2>
                 <img src="../assets/images/neovent-gorsel/181818.jpg" alt="">
-                <h5 style="margin-top: 20px;">Neovent 18.18.18 + TE </h5>
+                <h5 style="margin-top: 20px;">Neovent 18.18.18 + TE NPK Fertilizer</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
@@ -265,10 +270,6 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> Used to revive poorly growing plants</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> It shows the necessary changes in the plant even in cold weather conditions.</span>
                         </li>
                         <li>
@@ -277,11 +278,7 @@
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> It does not cause sediment in the drip system and does not cause clogging.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> It does not cause sediment in the drip system and does not cause clogging.</span>
+                            <span style="font-weight: bold;"> It does not cause sediment in the drip irrigation system and does not cause clogging.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>

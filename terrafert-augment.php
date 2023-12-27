@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Augment | Sıvı NK Gübre Çözeltisi | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Augment NK gübre çözeltisi, bitkilerin büyümesini ve çoğalmasını sürdürmek için ihtiyaç duydukları potasyum kaynağını sağlayan sıvı gübre çözeltisidir">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://agroseltarim.com/terrafert-augment.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://agroseltarim.com/en/terrafert-augment.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Augment</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,14 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Augment</h2>
                 <img src="assets/images/AUGMENT4.jpg" alt="">
+                <h3 style="margin-top: 0px;">Sıvı NK Gübre Çözeltisi 3-0-30</h3>
+                
+                <p>Terrafert Augment sıvı NK gübre çözeltisi, bitkilerin büyümesini ve çoğalmasını sürdürmek için ihtiyaç duydukları potasyum kaynağını sağlayan tarımsal sıvı gübredir. Bitkilerin meyve büyüme döneminde artan potasyum ihtiyacını karşılayarak meyvelerde kalite, verim, renk ve kuru madde miktarının arttırılması için formüle edilmiş bir sıvı NK gübre çözeltisidir. </p><br>
+
+<p>Toprak veya yapraktan gübreleme yöntemi ile %100 meyveye taşınabilir formda olan Terrafert Augment sıvı NK gübre, bitki tarafindan hızlı bir şekilde emilebilir. Meyvelerin olgunlaşmasını hızlandırır, erkencilik saglar, meyve kalitesi ile meyve raf ömrünü uzatır.</p><br>
+
+<p>Meyvenin tat, aroma, renk yönünden gelişmesine katkıda bulunan ileri teknoloji ile elde edilmiş mükemmel bir sıvı NK gübre çözeltisidir.</p>
+<hr>
                 <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/AUGMENT.jpeg" alt=""></a>
 
                 <div id="myModal" class="modal fade" tabindex="-1" role="dialog">
@@ -258,7 +274,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Augment Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

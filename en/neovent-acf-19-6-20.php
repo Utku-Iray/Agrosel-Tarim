@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details </title>
+    <title>Neovent 19-6-20 + 2MgO + TE | NPK Fertilizer </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
@@ -47,7 +47,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Neovent 19-6-20 + 2MgO + TE</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +74,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -233,7 +238,7 @@
                 <h2 style="margin-top: 0px;">Neovent 19-6-20 + 2MgO + TE</h2>
                 <img src="../assets/images/neovent-gorsel/19620.jpg" alt="">
 
-                <h5 style="margin-top: 20px;">Neovent 19-6-20 + 2MgO + TE</h5>
+                <h5 style="margin-top: 20px;">Neovent 19-6-20 + 2MgO + TE NPK Fertilizer</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
@@ -267,10 +272,6 @@
                         <li>
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> You can easily use it in every period of your plant.</span>
-                        </li>
-                        <li>
-                            <i class="fa fa-check-circle"></i>
-                            <span style="font-weight: bold;"> It increases the resistance of your plant against diseases.</span>
                         </li>
                         <li>
                             <i class="fa fa-check-circle"></i>

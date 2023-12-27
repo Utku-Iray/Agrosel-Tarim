@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları </title>
+    <title>Bitki Besleme Ürünleri | Sıvı Gübreler | Agrosel Tarım </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Bitki besleme ürünleri, yüksek kalitede hammaddelerden üretilmiş sıvı gübreler ve toprak düzenleyiciler için Agrosel Tarım'ı tercih edin. ">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/bitki-besleme-urunleri.php" hreflang="tr-tr" />
+    <link rel="alternate" href="https://www.agroseltarim.com/en/bitki-besleme-urunleri.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürünler</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürünler</h2>
+        <h2>Bitki Besleme Ürünleri</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -182,7 +190,7 @@
                                             <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
                                             <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
                                             <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                              <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
 
@@ -232,6 +240,7 @@
             <div class="col-lg-8">
                 <div style="text-align: center;">
                     <h2 style="margin-top: 0px;">Bitki Besleme Ürünleri</h2>
+                    <h3 style="margin-top: 0px;">Sıvı Gübreler</h3>
                 </div>
                 <hr>
                 <div class="row">
@@ -239,18 +248,21 @@
                         <a href="terrafert-adept.php">
                             <img src="assets/images/ADEPT4.jpg" alt="">
                             <h5 style="margin-top: -20px; text-align:center">Terrafert Adept</h5>
+                            <h6 style="margin-top: 0px; text-align:center">Bitkisel Menşeli Organik Gübre</h6>
                         </a>
                     </div>
                     <div class="col-md-4">
                         <a href="terrafert-syngergyl.php">
                             <img src="assets/images/SYNERGYL4.jpg" alt="">
                             <h5 style="margin-top: -20px; text-align:center">Terrafert Synergyl</h5>
+                            <h6 style="margin-top: 0px; text-align:center">Bitkisel Menşeli Organik Gübre</h6>
                         </a>
                     </div>
                     <div class="col-md-4">
                         <a href="terrafert-liquid.php">
                             <img src="assets/images/LIQUID.jpg" alt="">
                             <h5 style="margin-top: -20px; text-align:center">Terrafert Liquid Humus</h5>
+                            <h6 style="margin-top: 0px; text-align:center">Organic Toprak Düzenleyici</h6>
                         </a>
                     </div>
                     <div class="row">
@@ -258,18 +270,21 @@
                             <a href="terrafert-progency.php">
                                 <img src="assets/images/PROGENCY4.jpg" alt="">
                                 <h5 style="margin-top: -20px; text-align:center">Terrafert Progency</h5>
+                                <h6 style="margin-top: 0px; text-align:center">NP Gübre Çözeltisi</h6>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="terrafert-augment.php">
                                 <img src="assets/images/AUGMENT4.jpg" alt="">
                                 <h5 style="margin-top: -20px; text-align:center">Terrafert Augment</h5>
+                                <h6 style="margin-top: 0px; text-align:center">NK Gübre Çözeltisi</h6>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="terrafert-grose-cal.php">
                                 <img src="assets/images/GROSE-CAL4.jpg" alt="">
                                 <h5 style="margin-top:-20px; text-align:center">Terrafert Grose-Cal</h5>
+                                <h6 style="margin-top: 0px; text-align:center">Kalsiyum Klorür Çözeltisi</h6>
                             </a>
                         </div>
                     </div>
@@ -278,21 +293,60 @@
                             <a href="terrafert-carbo-cal.php">
                                 <img src="assets/images/CARBO-CAL.jpg" alt="">
                                 <h5 style="margin-top: 10px; text-align:center">Terrafert Carbo-Cal</h5>
+                                <h6 style="margin-top: 0px; text-align:center">Karbonat Süspansiyonu</h6>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="terrafert-grose-mix.php">
                                 <img src="assets/images/GROSE-MiX.jpg" alt="">
                                 <h5 style="margin-top: 10px; text-align:center">Terrafert Grose-Mix</h5>
+                                <h6 style="margin-top: 0px; text-align:center">Mikro Besin Maddeleri (İz Element) Karışımı</h6>
                             </a>
                         </div>
                         <div class="col-md-4">
                             <a href="terrafert-grose-cup.php">
                                 <img src="assets/images/GROSE-CUP.jpg" alt="">
                                 <h5 style="margin-top: 10px; text-align:center">Terrafert Grose-Cup</h5>
+                                <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6>
                             </a>
                         </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-foliar-4-5-40.php">
+                                <img src="assets/images/terrafert-foliar-4-5-40.jpeg" alt="">
+                                <h5 style="margin-top: 10px; text-align:center">Terrafert Foliar 4-5-40</h5>
+                                <!-- <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6> -->
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-foliar-19-19-19.php">
+                                <img src="assets/images/terrafert-foliar-19-19-19.jpeg" alt="">
+                                <h5 style="margin-top: 10px; text-align:center">Terrafert Foliar 19-19-19</h5>
+                                <!-- <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6> -->
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-foliar-10-40-10.php">
+                                <img src="assets/images/terrafert-foliar-10-40-10.jpeg" alt="">
+                                <h5 style="margin-top: 10px; text-align:center">Terrafert Foliar 10-40-10</h5>
+                                <!-- <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6> -->
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                            <a href="terrafert-radix.php">
+                                <img src="assets/images/radix.jpeg" alt="">
+                                <h5 style="margin-top: 10px; text-align:center">Terrafert Radix</h5>
+                                <!-- <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6> -->
+                            </a>
+                        </div>
+                        <div class="col-md-4">
+                        <a href="terrafert-fruitset.php">
+                            <img src="assets/images/fruit-set.jpeg" alt="">
+                            <h5 style="margin-top: 10px; text-align:center">Terrafert Fruitset</h5>
+                            <!-- <h6 style="margin-top: 0px; text-align:center">Bakırlı Gübre Çözeltisi</h6> -->
+                        </a>
                     </div>
+                    </div>
+                    
 
                 </div>
 

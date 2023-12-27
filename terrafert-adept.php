@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Adept | Bitkisel Menşeli Sıvı Organik Gübre | Agrosel Tarım </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Bitkisel menşeli sıvı organik gübre Terrafert Adept, yüksek organik madde ve karbon içeriği ile bitki köklenmesinde ve meyvelerin olgunlaşmasında önemli rol oynar.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,11 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-adept.php" hreflang="tr-tr" />
+    <link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-adept.php" hreflang="en-us" />
+    <link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-adept.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +52,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Adept</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +79,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -124,7 +134,7 @@
                             </div>
                             <li><a id="product3" href="#in14" data-toggle="collapse" style="color: #ffffff;background-color:#255946;font-weight:bold">Damla Sulama Gübreleri</a></li>
                             <div class="collapse" id="in14" style="font-weight:bold;padding-left:20px">
-                            <ul>
+                                <ul>
                                     <li><a id="terrafertacf" data-toggle="collapse" href="#in3" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Terrafert ACF</a></li>
                                     <div id="in3" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -164,7 +174,7 @@
 
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a id="saf" href="#in11" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Saf Gübreler</a></li>
                                     <div id="in11" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -175,17 +185,17 @@
                                             <li><a href="safgubreler-haifa-sop.php">Haifa SOP</a></li>
                                             <li><a href="safgubreler-haifa-up.php">Haifa UP</a></li>
                                             <li><a href="safgubreler-magnisal.php">Magnisal</a></li>
-                                                                                        <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-classic.php">Multi-K Classic</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-gg.php">Multi-K GG</a></li>
-                                              <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-12.0.43.php">Multi-K MG 12.0.43+'MgO</a></li> -->
                                             <li><a href="potasyum-nitrat-multi-k-phast.php">Multi-K pHast</a></li>
                                             <!-- <li><a href="potasyum-nitrat-multi-k-s-12.0.46.php">Multi-K S 12.0.46+4SO3</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
-                                          <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
-                                               <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>  
+                                            <!-- <li><a href="potasyum-nitrat-multi-k-zn-12.0.43.php">Multi-K Zn 12.0.43+2Zn</a></li> -->
+                                            <!-- <li><a href="potasyum-nitrat-multi-npk.php">Multi-npK 13.5.42 </a></li> -->
+                                            <li><a href="safgubreler-kfer.php">Kfer % 6 EDDHA (H.M.FE)</a></li>
                                         </ul>
                                     </div>
-                                    
+
                                     <li><a href="#in13" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">Taban Gübreleri</a></li>
                                     <div id="in13" class="collapse" style="padding-left: 20px;">
                                         <ul>
@@ -232,6 +242,11 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Adept</h2>
                 <img src="assets/images/ADEPT4.jpg" alt="">
+                <h3 style="margin-top: 0px;">Bitkisel Menşeli Sıvı Organik Gübre</h3>
+                <p>Bitkisel menşeli sıvı organik gübre Terrafert Adept toprağın fiziksel özelliklerini geliştirmesinin yanı sıra, bitkilerin ihtiyacı olan besin maddelerinin toprakta tutunmasını sağlar. Uygulandığı toprağın verimliliğini artırır ve mikroorganizma faaliyetlerini canlandırır. </p> <br>
+                <p>Terrafert Adept bitkisel menşeli sıvı organik gübre, içeriğindeki %45 organik madde ve %15 organik karbon ile bitkilerin köklenmesinde ve meyvelerin olgunlaşmasında önemli rol oynar. </p><br>
+                <p>Yapraktan veya topraktan uygulanabilen sıvı organik gübre Terrafert Adept ileri teknoloji ile elde edilmiş mükemmel bir üründür.
+                </p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/ADEPT.jpeg" alt=""></a>
 
@@ -244,7 +259,7 @@
                         </div>
                     </div>
                 </div>
-<hr>
+                <hr>
                 <a href="#myModal2" data-toggle="modal" data-target="#myModal2"><img src="assets/images/ADEPT-kullanim-alani.jpg" alt=""></a>
 
                 <div id="myModal2" class="modal fade" tabindex="-1" role="dialog">
@@ -259,14 +274,14 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Adept Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
                             <span style="font-weight: bold;"> 20 lt</span>
                         </li>
-                       
+
 
 
 

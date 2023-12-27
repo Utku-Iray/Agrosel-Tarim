@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Synergyl | Bitkisel Menşeli Sıvı Organik Gübre | Agrosel Tarım   </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Synergyl yüksek oranda organik madde ve kaliteli amino asitlerlerle zenginleştirilmiş bitkisel menşeli sıvı organik gübredir.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://agroseltarim.com/terrafert-syngergyl.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://agroseltarim.com/en/terrafert-syngergyl.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Synergyl</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-carbo-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,14 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Synergyl</h2>
                 <img src="assets/images/SYNERGYL4.jpg" alt="">
+                <h3 style="margin-top: 0px;">Bitkisel Menşeli Sıvı Organik Gübre</h3>
+                <p>Bitkisel menşeli sıvı organik gübre Terrafert Synergyl, içeriğindeki yüksek oranda organik madde (%45) ve organik karbon (%14) ile birlikte yüksek kalitede amino asitler ile zenginleştirilmiş bir tarımsal sıvı gübredir. </p> <br>
+
+<p>Uygulandığı toprağın biyolojik özelliklerini geliştirmesinin yanı sıra, bitkilerin daha fazla fotosentez yapmasını sağlayarak, hem toprağın verimliliğini hem de bitkilerde besin oluşumunun iyileştirilmesinde rol oynar. </p> <br>
+
+<p>Bitkilerin ana kök ve yan kök gelişimini artırır. Toprakta yarayışsız halde bulunan besin maddelerinin bitkiler tarafindan alınabilmesini sağlar. Kök ve bitki gelişimi ile birlikte homojen yapıda meyve oluşumunu destekler. Ürünün gelişmesine ve büyümesine yardımcı olan, ileri
+teknoloji ile elde edilmiş mükemmel bir organik sıvı gübredir.
+ </p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="assets/images/SYNERGYL.jpeg" alt=""></a>
 
@@ -259,7 +275,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Synergyl Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

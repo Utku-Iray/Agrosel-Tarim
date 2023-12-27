@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Detayları  </title>
+    <title>Terrafert Liquid Humus | Sıvı Organik Toprak Düzenleyici | Agrosel Tarım  </title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Liquid Alg Humus sıvı organik toprak düzenleyicisi, katı haldeki işlenmiş leonardit ile potasyum hidroksitin çözündürülmesinden elde edilmiştir.">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,9 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="alternate" href="https://www.agroseltarim.com/terrafert-liquid.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-liquid.php" hreflang="x-default" />
+
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +50,7 @@
             <li>/</li>
             <li><span>Ürün Detayları</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Ürün Detayları</h2>
+        <h2>Terrafert Liquid Humus </h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -74,6 +77,11 @@
                                             <li><a href="terrafert-grose-cal.php">Carbo - Cal</a></li>
                                             <li><a href="terrafert-grose-mix.php">Grose - Mix</a></li>
                                             <li><a href="terrafert-grose-cup.php">Grose - Cup</a></li>
+                                            <li><a href="terrafert-radix.php">Radix</a></li>
+                                            <li><a href="terrafert-fruitset.php">Fruitset</a></li>
+                                            <li><a href="terrafert-foliar-19-19-19.php">Foliar 19-19-19</a></li>
+                                            <li><a href="terrafert-foliar-10-40-10.php">Foliar 10-40-10</a></li>
+                                            <li><a href="terrafert-foliar-4-5-40.php">Foliar 4-5-40</a></li>
                                         </ul>
                                     </div>
                                     <!-- <li><a href="#in3" data-toggle="collapse" style="color:white;font-weight:bold;background-color:rgb(37, 89, 70,0.8)">ABT Inc.</a></li>
@@ -232,6 +240,13 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Liquid Alg Humus</h2>
                 <img src="assets/images/LIQUID.jpg" alt="">
+                <h3 style="margin-top: 0px;">Sıvı Organik Toprak Düzenleyici Gübe</h3>
+                <p>Terrafert Liquid Alg Humus, katı haldeki işlenmiş doğal leonarditin, potasyum hidroksit ile çözündürülmesinden elde edilmiş organik sıvı toprak düzenleyici gübredir.</p><br>
+
+<p>Organik toprak düzenleyici Liquid Humus, uygulandığı topraktaki biyolojik ve kimyasal aktiviteyi aktifleştirir, toprağın organik madde ve su tutma kapasitesinin artmasını sağlar. Topraktaki katyon değişim kapasitesini en yüksek seviyeye çıkartır ve önemli besin maddelerinin bitkiye geçişini hızlandırır. Leonardit kaynaklı köklendirici Liquid Humus, bitkinin kök ve üst aksam gelişimine katkıda bulunur, ürünlerin verim ve kalitesini arttırır.</p><br> 
+
+
+<p>Terrafert Liquid Alg Humus ileri teknoloji ile elde edilmiş mükemmel sıvı organik toprak düzenleyici gübredir.</p>
                 <hr>
                 <a href="#myModal"data-toggle="modal" data-target="#myModal"><img src="assets/images/LIQUID-HUMUS.jpeg" alt=""></a>
 
@@ -259,7 +274,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Liquid Alg Humus Ambalaj:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

@@ -4,13 +4,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product Details</title>
+    <title>Terrafert Grose - Cup | Liquid Copper Fertilizer | Agrosel Tarım</title>
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="../assets/images/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="../assets/images/favicons/site.webmanifest">
-    <meta name="description" content="Organik Sıvı ve Damlama Gübreleri | Agrosel Tarım">
+    <meta name="description" content="Terrafert Grose-Cup copper fertilizer solution with copper sulfate content is a liquid fertilizer manufactured by Agrosel Tarım">
 
     <!-- fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -31,6 +31,8 @@
 
     <!-- template styles -->
     <link rel="stylesheet" href="../assets/css/main.css">
+        <link rel="alternate" href="https://www.agroseltarim.com/terrafert-grose-cup.php" hreflang="tr-tr" />
+<link rel="alternate" href="https://www.agroseltarim.com/en/terrafert-grose-cup.php" hreflang="x-default" />
 </head>
 
 <?php include 'php/header.php' ?>
@@ -47,7 +49,7 @@
             <li>/</li>
             <li><span>Product Details</span></li>
         </ul><!-- /.thm-breadcrumb list-unstyled -->
-        <h2>Product Details</h2>
+        <h2>Terrafert Grose - Cup</h2>
     </div><!-- /.container -->
 </section><!-- /.page-header -->
 
@@ -232,6 +234,15 @@
             <div class="col-lg-8">
                 <h2 style="margin-top: 0px;">Terrafert Grose - Cup</h2>
                 <img src="../assets/images/GROSE-CUP.jpg" alt="">
+                <h3 style="margin-top: 0px;">Liquid Copper Fertilizer Solution(Copper Sulphate Content)</h3>
+                <p>Terrafert Grose-Cup copper fertilizer solution with copper sulfate content is a liquid fertilizer that can be easily absorbed by all plants.</p><br>
+
+<p>Copper fertilizer solution Terrafert Grose-Cup stimulates the natural defense mechanism of plants and increases their resistance against fungi and other diseases that occur in humid environments. You can safely use it against copper deficiency in all kinds of fruits, vegetables and open field products.</p><br>
+
+<p>Soil or foliar application of liquid fertilizer containing copper sulfate plays a role in the production of chlorophyll and effective photosynthesis of the plants.</p><br>  
+
+<p>Terrafert Grose-Cup, which promotes healthy and efficient development of plants with its active role in the vegetative and flowering stages, is an excellent liquid copper fertilizer solution manufactured with advanced technology in Turkey.
+</p>
                 <hr>
                 <a href="#myModal" data-toggle="modal" data-target="#myModal"><img src="../assets/images/grose-cup-eng.jpeg" alt=""></a>
 
@@ -260,7 +271,7 @@
 
 
                 <hr>
-                <h5 style="margin-top: 20px;">Ambalaj:</h5>
+                <h5 style="margin-top: 20px;">Terrafert Grose-Cup Packaging:</h5>
                 <div>
                     <ul class="list-unstyled service-details__list-2">
                         <li>

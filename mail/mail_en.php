@@ -28,10 +28,11 @@ if($name and $phone){ //Form'dan bütün değerler geliyorsa mail gönderme işl
 
     //Mail Bağlantı Ayarları 
     //Mail Hangi Hesaptan Gönderilecek ise onun bilgilerini yazın.
-    $MailSmtpHost = "agroseltarim.com";
-    $MailUserName = "mail@agroseltarim.com";
-    $MailPassword = "ideapol.123";
+    $MailSmtpHost = "alondanbilisim.com";
+    $MailUserName = "tummail@alondanbilisim.com";
+    $MailPassword = "Mixled.123";
     //Mail Bağlantı Ayarları Tamamlandı
+
 
     //Doldurulan Form Mail Olarak Kime Gidecek?
     $MailKimeGidecek = "agrosel@agroseltarim.com";

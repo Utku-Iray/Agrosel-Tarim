@@ -283,7 +283,7 @@
                     <ul class="list-unstyled service-details__list-2">
                         <li>
                             <i class="fa fa-check-circle"></i>
-                            RainCoat; Kullanmadan önce ambalajı iyice çalkalayınız. Uygulamalardan önce mutlaka tank temizliğini en hassas biçimde gerçekleştirin. İlk uygulamada istenirse tank karışımına Gibberalic Acid (GA) ilave edilebilir. RainCoat uygulamalarında tank içine her türlü Yayıcı-yapıştırıcılar dahil herhangi bir farklı ürün kesinlikle karıştırılmamalı veya bulunmamalıdır.
+                            RainCoat; Kullanmadan önce Packagingı iyice çalkalayınız. Uygulamalardan önce mutlaka tank temizliğini en hassas biçimde gerçekleştirin. İlk uygulamada istenirse tank karışımına Gibberalic Acid (GA) ilave edilebilir. RainCoat uygulamalarında tank içine her türlü Yayıcı-yapıştırıcılar dahil herhangi bir farklı ürün kesinlikle karıştırılmamalı veya bulunmamalıdır.
                         </li>
                    
 
